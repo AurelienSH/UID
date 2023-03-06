@@ -57,3 +57,4 @@ class ConllToken:
         self.rel = rel
 
 if __name__ == "__main__":
+    print("prout")
