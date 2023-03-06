@@ -1,0 +1,11 @@
+speaker_id,that,length_matrix_verb_to_CC,length_CC_onset,length_CC_remainder,position_matrix_verb,log_speech_rate,squared_log_speech_rate,pause,disfluency,subject_form_CC_subject,subject_identity,frequency_CC_subject_head,word_form_similarity,frequency_matrix_verb,ambiguous_CC_onset,matrix_subject,syntactic_persistence,speaker_gender
+1,1,3,2,2,2,0.10,-0.03,0,0,it,1,5,1,6,0,1,0,M
+1,0,2,1,2,2,-0.05,0.08,1,1,it,1,3,0,5,0,0,0,M
+1,1,1,1,1,1,0.01,0.09,0,0,I,0,4,0,3,1,1,0,M
+2,0,2,2,2,2,-0.01,0.02,1,1,it,1,6,0,4,0,0,0,F
+2,0,1,1,1,1,-0.05,-0.01,0,0,I,0,7,0,3,0,1,0,F
+3,1,1,1,1,1,0.02,0.01,0,0,I,1,3,0,2,0,0,0,F
+3,0,3,1,1,1,-0.04,-0.01,0,0,it,0,7,0,6,0,0,0,F
+4,1,2,1,1,1,-0.03,0.01,0,0,it,0,2,0,2,0,1,1,M
+4,1,1,1,1,1,-0.03,0.06,0,0,I,0,5,0,5,0,1,1,M
+4,0,2,2,2,2,-0.02,-0.02,1,1,it,1,3,0,3,0,0,1,M

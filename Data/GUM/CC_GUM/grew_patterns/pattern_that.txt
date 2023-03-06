@@ -1,0 +1,7 @@
+pattern { 
+			GOV -[ccomp]-> DEP;
+            DEP [upos=VERB];
+            DEP -[mark]-> THAT;
+            THAT [form="that"]
+		
+        }
