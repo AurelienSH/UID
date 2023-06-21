@@ -1,0 +1,61 @@
+Introduction : 
+	Description de la tache de réplication 
+
+	Dans un premier lieu, afin de controler au mieux l'apport de nouvelles méthodes de mesurer UID, j'ai procédé à une réplication de l'expérience de Jaeger 2010.
+
+
+Partie 1 résumé de l’expérience de Jaeger en parlant de switchboard pour mieux expliquer les différences
+
+	Dans cette expérience, Jaeger mesure l'effet prédicteur d'UID sur l'omission de that dans les propositions complétives en anglais. 
+	Il utilise un certain nombre de prédicteurs !1(table) nécessaires à la prédiction, ces prédicteurs peuvent relever de plusieurs aspects langagiers, ils ont été classés dans les catégories suivantes !2(lister catégories).
+	Hormi ces prédicteurs il mesure UID de façon très localisée, en évaluant la surprise que causerait l'apparition d'une complétive comme objet du verbe matrice de ladite complétive. !3(formule)
+
+	Comment le corpus a été obtenu/les complétives trouvées
+
+
+
+Partie 2 
+Différences entre l'expérience de Jaeger et ma réplication
+
+
+	Sélection du corpus
+		Pourquoi écrit plutot qu’oral (choix d’une méthode de selection semi automatique)
+		Explication UD
+		Explication SUD
+
+
+	Le corpus switchboard annoté n'étant pas disponible j'ai du chercher des données assez conséquentes pour pouvoir obtenir un réel effet prédicteur.
+	Je n'ai pas été en mesure de trouver un corpus d'anglais oral annoté ne serait-ce qu'en parties du discours, j'ai donc décidé d'utiliser des corpus d'écrit.
+	J'ai utilisé tous les corpus d'anglais écrit disponible en UD !4(expliquer UD) !5(décrire brièvement les corpus).
+	Du fait de la modalité de mes corpus je n'ai pas pu retrouver les memes prédicteurs que Jaeger, tous ceux liés à l'oral ou aux données des locuteurs ne sont donc pas présents dans mon modèle.
+	Afin de retrouver les autres prédicteurs je suis passé par des règles symboliques basées sur les relations syntaxiques présentes en UD (et en SUD) !5(expliquer l'apport de SUD) !6(montrer quelques/toutes les règles symboliques).
+
+
+
+
+Partie 3
+	Explication du modele mixte 
+	Facteur
+
+	Une fois les prédicteurs extraits du corpus, l'objectif est de mesurer leur effet sur la prédiction de l'omission de that.
+	Pour ce faire, je passe par la fonction glmer() de R, qui permet de lancer un modèle mixte !7(expliquer en détails le principe du modèle).
+	Le passage par ce type de modèle necessite quelques modifications de la façon d'encoder les prédicteurs : 
+		Pour les prédicteurs catégoriels il faut les rendre binaires
+		Pour les prédicteurs pouvant etre obtenu à partir d'un autre il faut faire une regression et garder les résidus
+
+	Une fois les facteurs bien établis, il suffit de lancer le modèle pour obtenir le résultat suivant.
+
+	Les effets sont ceux qui étaient attendus dans l'article de Jaeger, !8(description des direction et de la force de prédiction)
+	Malgré le passage à une modalité écrite il est intéressant de noter qu'UID a tout de meme un effet. !9(mieux mettre en forme).
+
+	Maintenant je possède une valeur étalon à laquelle il sera intéressant de comparer des méthodes plus actuelle de mesurer UID
+
+Introduction des autres méthodes de "mesurer" UID : 
+	L'idée principale est d'utiliser des modèles de langue afin de mesurer la probabilité de l'omission de that devant une complètive.
+	Mais cela implique de plus clairement préciser ce qu'est la probabilité de l'omission de that.
+	La probabilité de l'apparition de that comme token suivant sera surement beaucoup trop petite !10(faire l'expérience naive pour comparer l'effet)
+	Il sera donc probablement nécessaire de faire une certaine forme de différence entre la probabilité de 'that' et la probabilité d'un GN ou un GPron, pour cela il faudra ?????
+	Bert
+	GPT
+	modèle n gram
+

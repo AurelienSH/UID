@@ -1,0 +1,57 @@
+couple	ecart	texte	score1	score2
+jaeger_avgStep	6.7501204756754145	mverb : like_ When I tell stories I don't like that everything will be clear from the beginning.
+	6.736966958001855	-0.013153517673559
+jaeger_iphrase	6.749979872561081	mverb : like_ When I tell stories I don't like that everything will be clear from the beginning.
+	6.736966958001855	-0.0130129145592256
+jaeger_amp	6.792001178220514	mverb : like_ I like that something will be a bit of secret, or even unreliable narrator: someone tells something and first you trust him but then you read more and you become thrilled by everything.
+	6.736966958001855	-0.0550342202186584
+jaeger_var	6.737964602918117	mverb : like_ When I tell stories I don't like that everything will be clear from the beginning.
+	6.736966958001855	-0.0009976449162617
+jaeger_idoc	6.699257358641032	mverb : like_ I like that something will be a bit of secret, or even unreliable narrator: someone tells something and first you trust him but then you read more and you become thrilled by everything.
+	6.736966958001855	0.0377095993608236
+jaeger_biggestStep	6.794067000702623	mverb : like_ I like that something will be a bit of secret, or even unreliable narrator: someone tells something and first you trust him but then you read more and you become thrilled by everything.
+	6.736966958001855	-0.0571000427007675
+jaeger_igauche2_2	6.685308735550049	mverb : like_ I like that something will be a bit of secret, or even unreliable narrator: someone tells something and first you trust him but then you read more and you become thrilled by everything.
+	6.736966958001855	0.051658222451806
+avgStep_iphrase	0.44446785907606556	mverb : ensure_ If this is a solo jump, which constitutes the minority of skydivers, your only recourse is to ensure that at least one of your own chutes opens.
+	0.0064140722050421	-0.4380537868710235
+avgStep_amp	0.3175215126917912	mverb : knew_ I was wearing a yellow linen dress which my mother had picked out and which I therefore disliked although I knew it flattered me.
+	-0.0197416542126582	-0.3372631669044494
+avgStep_var	0.08367061442377341	mverb : hope_ I hope you like yellow.
+	0.0937461327761411	0.0100755183523677
+avgStep_idoc	0.4520859896272536	mverb : ensure_ If this is a solo jump, which constitutes the minority of skydivers, your only recourse is to ensure that at least one of your own chutes opens.
+	0.0064140722050421	-0.4456719174222115
+avgStep_biggestStep	0.3401958132990533	mverb : see_ Let's see what the shelf life is.
+	0.0896716219476527	0.429867435246706
+avgStep_igauche2_2	0.5779499114986073	mverb : claimed_ Valeska Paris, an Australian woman and former Scientologist, has claimed that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship, Freewinds.
+	0.0201668570254434	0.5981167685240507
+iphrase_amp	0.4373270713857999	mverb : claimed_ Valeska Paris, an Australian woman and former Scientologist, has claimed that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship, Freewinds.
+	0.4383036338857999	0.0009765625
+iphrase_var	0.4352453330305321	mverb : ensure_ If this is a solo jump, which constitutes the minority of skydivers, your only recourse is to ensure that at least one of your own chutes opens.
+	-0.4380537868710235	-0.0028084538404914
+iphrase_idoc	0.2861244917615194	mverb : believe_ It is possible that these two children understood the task and really did believe that the puppet did not produce any poor descriptions, and in this regard, are not yet adult-like in their SI interpretations.
+	0.1061414174675845	-0.1799830742939349
+iphrase_biggestStep	0.4383036338857999	mverb : claimed_ Valeska Paris, an Australian woman and former Scientologist, has claimed that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship, Freewinds.
+	0.4383036338857999	0.0
+iphrase_igauche2_2	0.6016843411633664	mverb : found_ The scientists found reduction of crop yields by 2050 exceeded 10% of 2000 levels, substantially decreasing food security, in all cases examined.
+	-0.0969020183691675	0.504782322794199
+amp_var	0.3267732461630929	mverb : knew_ I was wearing a yellow linen dress which my mother had picked out and which I therefore disliked although I knew it flattered me.
+	-0.3372631669044494	-0.0104899207413565
+amp_idoc	0.5087461769408519	mverb : see_ Let's see what the shelf life is.
+	0.3478538347408175	-0.1608923422000344
+amp_biggestStep	0.2882104814052582	mverb : knew_ I was wearing a yellow linen dress which my mother had picked out and which I therefore disliked although I knew it flattered me.
+	-0.3372631669044494	-0.0490526854991912
+amp_igauche2_2	0.5971402060240507	mverb : claimed_ Valeska Paris, an Australian woman and former Scientologist, has claimed that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship, Freewinds.
+	0.0009765625	0.5981167685240507
+var_idoc	0.44286346358172013	mverb : ensure_ If this is a solo jump, which constitutes the minority of skydivers, your only recourse is to ensure that at least one of your own chutes opens.
+	-0.0028084538404914	-0.4456719174222115
+var_biggestStep	0.3975366318592791	mverb : see_ Let's see what the shelf life is.
+	0.0323308033874269	0.429867435246706
+var_igauche2_2	0.5926906335021531	mverb : claimed_ Valeska Paris, an Australian woman and former Scientologist, has claimed that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship, Freewinds.
+	0.0054261350218976	0.5981167685240507
+idoc_biggestStep	0.5907597774467404	mverb : see_ Let's see what the shelf life is.
+	-0.1608923422000344	0.429867435246706
+idoc_igauche2_2	0.59527430824796	mverb : assume_ Senior researcher Mu Li, of the University of NSW's school of public health, said "it is reasonable to assume that pregnant women and breastfeeding mothers are also iodine deficient, putting the next generation of children born in this country at risk of the neuropsychological consequences of iodine deficiency."
+	-0.0992653607563142	0.4960089474916458
+biggestStep_igauche2_2	0.5981167685240507	mverb : claimed_ Valeska Paris, an Australian woman and former Scientologist, has claimed that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship, Freewinds.
+	0.0	0.5981167685240507

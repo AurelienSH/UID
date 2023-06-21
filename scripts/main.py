@@ -20,7 +20,7 @@ def get_data(sent, ud_sent):
                 'length_CC_remainder': control_that.get_length_cc_remainder(cc_head, sent),
                 'length_CC_onset': control_that.get_length_cc_onset(cc_head, sent),
                 'length_matrix_verb_to_CC': control_that.get_start_matrix_verb_to_cc(cc_head, sent),
-                'that': control_that.get_that(cc_head, sent),
+                'that_omission': abs(control_that.get_that(cc_head, sent)-1),
                 'uid': uid[m_verb.lemma],
                 'genre': genres2id[sent.genre]
             }
@@ -37,11 +37,10 @@ if __name__ == "__main__":
     id2genres = {i:g for g, i in genres2id.items()}
     cc_conll = conll.read_conll(f"{folder}CC_GUM/all_CC_SUD.conllu")
     ud_cc_conll = conll.read_conll(f"{folder}CC_GUM/all_CC_UD.conllu")
-    freq = metrics.lemma_freq(full_conll)
+    freq, abs_freq = metrics.lemma_freq(full_conll)
     uid = metrics.uid_2010(full_conll)
-    with open("truc", "w") as f:
-        for k, v in uid.items():
-            print(f"{k} : {v}", file = f)
+
+
     data = []
     for sud_sent, ud_sent in zip(cc_conll, ud_cc_conll):
         data += get_data(sud_sent, ud_sent)

@@ -1,0 +1,262 @@
+{
+  "title": "Détection des erreurs d'accord (spécifiques au Français)",
+  "languages": ["fr"],
+  "items": [
+
+    {
+      "description": "Adjectifs ou participes passés épithètes d'un nom avec lequel ils s'accordent en nombre",
+      "request": [
+        "pattern {",
+        "  A -[mod]-> B;",
+        "  A[upos=NOUN|PRON|PROPN];",
+        "  B[upos=ADJ|VERB];",
+        "  A.Number <> B.Number",
+        "}",
+        "without {B[Idiom=Yes]}",
+        "without { A.Number = B.CorrectNumber }",
+        "without { A.CorrectNumber = B.Number }",
+        "without { B[VerbForm <> Part, Tense <> Past] }",
+        "without { B[VerbForm = Inf] }",
+        "without { B[ExtPos <> ADJ] }",
+        "without { B -[conj]-> * }",
+        "without { A -[conj]-> * }",
+        "without { * -[conj]-> A }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Adjectifs ou participes passés épithètes d'un nom avec lequel ils s'accordent en genre",
+      "request": [
+        "pattern {",
+        "  A -[mod]-> B;",
+        "  B[upos=ADJ|VERB];",
+        "  A.Gender <> B.Gender",
+        "}",
+        "without {B[Idiom=Yes]}",
+        "without { A.Gender = B.CorrectGender }",
+        "without { A.CorrectGender = B.Gender }",
+        "without { B[VerbForm <> Part, Tense <> Past] }",
+        "without { B[VerbForm = Inf] }",
+        "without { B[ExtPos <> ADJ] }",
+        "without { B -[conj]-> * }",
+        "without { A -[conj]-> * }",
+        "without { * -[conj]-> A}"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Adjectifs ou participes passés attributs du sujet avec lequel ils s'accordent en nombre",
+      "request": [
+        "pattern {",
+        "  A -[comp:pred]-> B; ",
+        "  A -[1=subj]-> C;",
+        "  B[upos=ADJ|VERB];",
+        "  C.Number <> B.Number",
+        "}",
+        "without { B.Number = C.CorrectNumber }",
+        "without { B.CorrectNumber = C.Number }",
+        "without { B[VerbForm <> Part, Tense <> Past] }",
+        "without { B[VerbForm = Inf] }",
+        "without { A -[1=comp, 2=obj]-> * }",
+        "without { B -[det]-> * }",
+        "without { C -[conj]-> * }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Adjectifs ou participes passés attributs du sujet avec lequel ils s'accordent en genre",
+      "request": [
+        "pattern {",
+        "  A -[comp:pred]-> B; ",
+        "  A -[1=subj]-> C;",
+        "  B[upos=ADJ|VERB];",
+        "  C.Gender <> B.Gender",
+        "}",
+        "without { B.Gender = C.CorrectGender }",
+        "without { B.CorrectGender = C.Gender }",
+        "without { B[VerbForm <> Part, Tense <> Past] }",
+        "without { B[VerbForm = Inf] }",
+        "without { A -[1=comp, 2=obj]-> * }",
+        "without { B -[det]-> * }",
+        "without { C -[conj]-> * }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Adjectifs ou participes passés attributs de l'objet avec lequel ils s'accordent en nombre",
+      "request": [
+        "pattern {",
+        "  A -[comp:pred]-> B; ",
+        "  A -[comp:obj]-> C;",
+        "  B[upos=ADJ|VERB];",
+        "  C.Number <> B.Number",
+        "}",
+        "without { B.Number = C.CorrectNumber }",
+        "without { B.CorrectNumber = C.Number }",
+        "without { B[VerbForm <> Part, Tense <> Past] }",
+        "without { B[VerbForm = Inf] }",
+        "without { B -[det]-> * }",
+        "without { C -[conj]-> * }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Adjectifs et participes passés attributs de l'objet avec lequel ils s'accordent en genre",
+      "request": [
+        "pattern {",
+        "  A -[comp:pred]-> B; ",
+        "  A -[comp:obj]-> C;",
+        "  B[upos=ADJ|VERB];",
+        "  C.Gender <> B.Gender",
+        "}",
+        "without { B.Gender = C.CorrectGender }",
+        "without { B.CorrectGender = C.Gender }",
+        "without { B[VerbForm <> Part, Tense <> Past] }",
+        "without { B[VerbForm = Inf] }",
+        "without { B -[det]-> * }",
+        "without { C -[conj]-> * }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Déterminants qui s'accordent en nombre avec le mot déterminé",
+      "request": [
+        "pattern {",
+        "  A -[det]-> B;",
+        "  A.Number <> B.Number",
+        "}",
+        "without{A[Title=Yes]}",
+        "without { A.Number = B.CorrectNumber }",
+        "without { A.CorrectNumber = B.Number }",
+        "without { B -[conj]-> * }",
+        "without { A -[conj]-> * }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Déterminants qui s'accordent en genre avec le mot déterminé",
+      "request": [
+        "pattern {",
+        "  A -[det]-> B;",
+        "  A.Gender <> B.Gender",
+        "}",
+        "without{A[Title=Yes]}",
+        "without { A.Gender = B.CorrectGender }",
+        "without { A.CorrectGender = B.Gender }",
+        "without { B -[conj]-> * }",
+        "without { A -[conj]-> * }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Accord sujet - verbe en nombre",
+      "request": [
+        "pattern {",
+        "  A[upos=AUX|VERB];",
+        "  A -[1=subj]-> B;",
+        "  A.Number <> B.Number",
+        "}",
+        "without { A.Number = B.CorrectNumber }",
+        "without { A.CorrectNumber = B.Number }",
+        "without { B -[conj]-> * }",
+        "without { B[Title=Yes] }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Accord sujet - verbe en personne",
+      "request": [
+        "pattern {",
+        "  A[upos=AUX|VERB];",
+        "  A -[1=subj]-> B;",
+        "  A.Person <> B.Person",
+        "}",
+        "without { A.Person = B.CorrectPerson }",
+        "without { A.CorrectPerson = B.Person }",
+        "without { B -[conj]-> * }",
+        "without { B[Title=Yes] }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Accord en nombre sujet – participe passé avec l'auxiliaire « être » (les verbes pronominaux ne sont pas pris en compte)",
+      "request": [
+        "pattern {",
+        "  A[upos=AUX, lemma =\"être\"];",
+        "  A -[1=subj]-> B;",
+        "  A -[1=comp,2=aux]-> C;",
+        "  C[upos=VERB, VerbForm=Part, Tense=Past];",
+        "  C.Number <> B.Number",
+        "}",
+        "without { B.Number = C.CorrectNumber }",
+        "without { B.CorrectNumber = C.Number }",
+        "without { B -[conj]-> * }",
+        "without { B[Title=Yes] }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Accord en genre sujet – participe passé avec l'auxiliaire « être » (les verbes pronominaux ne sont pas pris en compte)",
+      "request": [
+        "pattern {",
+        "  A[upos=AUX, lemma = \"être\"];",
+        "  A -[1=subj]-> B;",
+        "  A -[1=comp,2=aux]-> C;",
+        "  C[upos=VERB, VerbForm=Part, Tense=Past];",
+        "  C.Gender <> B.Gender",
+        "}",
+        "without { B.Gender = C.CorrectGender }",
+        "without { B.CorrectGender = C.Gender }",
+        "without { B -[conj]-> * }",
+        "without { B[Title=Yes] }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Accord en nombre du participe passé avec l'objet direct placé avant",
+      "request": [
+        "pattern {",
+        "  A[upos=VERB, VerbForm=Part, Tense=Past];",
+        "  A -[1=comp,2=obj]-> B;",
+        "  B << A;",
+        "  A.Number <> B.Number",
+        "}",
+        "without { A.Number = B.CorrectNumber }",
+        "without { A.CorrectNumber = B.Number }",
+        "without { B -[conj]-> * }",
+        "without { B[Title=Yes] }"
+      ],
+      "level": "warning"
+    },
+
+    {
+      "description": "Accord en genre du participe passé avec l'objet direct placé avant",
+      "request": [
+        "pattern {",
+        "  A[upos=VERB, VerbForm=Part, Tense=Past];",
+        "  A -[1=comp,2=obj]-> B;",
+        "  B << A;",
+        "  A.Gender <> B.Gender",
+        "}",
+        "without { A.Gender = B.CorrectGender }",
+        "without { A.CorrectGender = B.Gender }",
+        "without { B -[conj]-> * }",
+        "without { B[Title=Yes] }"
+      ],
+      "level": "warning"
+    }
+
+  ]
+}

@@ -1,0 +1,15 @@
+Verbe, taux d’omission, nb de verbe dans le corpus, uid
+figure du taux d'omission de that en fonction d'uid + ajout de verbe
+https://stats.oarc.ucla.edu/r/library/r-library-contrast-coding-systems-for-categorical-variables/
+@Aurélien: en parcourissant ton tableau des verbes, j'ai remarqué qu'une grande partie de verbes ont un CC-biais très élevé (=10), dont certains ne prennent pas de complétive à priori, comme "title", "partner" et "rush". Du coup, il faudrait d'abord s'assurer que les verbes inclus dans l'analyse peuvent apparaître avec une complétive en théorie.
+De plus, il me semble que le tableau des verbes de Jaeger 2010 (Table A.1, p. 55) inclut beaucoup moins de verbes que le tien. De plus, tous les verbes apparaissent plus de 60 fois dans le corpus (si mon comptage est correct). Du coup, je pense que ça vaut la peine d'exclure les verbes qui 1) apparaissent rarement dans le corpus et 2) sont rarement suivis d'une complétive, et de refaire l'analyse statistique avec les verbes ayant un CC-biais plus fiable.
+
+
+(penser à faire des ANOVA entre les modèles)
+
+Jaeger 2011: uid and reduced relative clause: the boy (who is) killed
+
+Omission de that dans les relatives / (proxy : probabilité qu'un mot gouverne une relative)
+
+Word Order dans l'écrit ???
+

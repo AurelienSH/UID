@@ -1,0 +1,15 @@
+Paramètres Sociaux :
+    Age : under 25, 25-60, over 60
+    Genre : M F (could add NonBinary option)
+    Education : low (high school), medium (high school degree), high (uni graduate)
+    Occupation : 6 niveaux, professionals, graduates, technicians, white collar, blue collar, unemployed
+
+Paramètres Linguistiques :
+    Contexte phonologique droit : utilisation du module epigram, transcription du premier mot suivant : trois catégories de phonèmes : sourds, sonores, voyelles 
+    Contexte phonologique gauche : idem
+    Matrix subject : 3 niveaux, je/tu/nous/vous/on(?), autres pronoms, NP
+    CC Subject : idem
+
+Paramètres cognitifs : 
+    Fréquence du verbe, variable continue basée sur le Montréal 84 corpus
+    CC Bias : Info density at the CC onset, mesurée selon la probabilité qu'une CC arrive avec ce verbe

@@ -1,0 +1,15 @@
+Ecrire le chapitre de Jaeger
+
+Filtrer sur le frequence absolue avec une completive
+
+Avec GPT comparer l'apparition entre that et un GN/pronom
+    Sortir la distribution des différents types de Sujets de complétive (en vue d'avoir une proabilité d'etre suivi d'un GN)
+
+Faire le proxy1 d'uid sur un plus gros corpus
+
+Liste des proxy (Point plus : Approche locale vs Globale):
+
+proxyJaeger1
+ngrams
+Bert
+GPT

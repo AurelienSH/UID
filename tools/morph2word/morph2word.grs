@@ -1,0 +1,348 @@
+
+
+% In a few case in SUD_Beja-NSC, the affixe is not directly linked to the stem 
+% See: http://match.grew.fr/?corpus=SUD_Beja-NSC@latest&custom=61bc53b75739b
+% The rule [aff_on_aff] reorganize [*.aff] relations to prepare data for the main [morph2word] package
+% NB: This rule is SUD_Beja-NSC based and may need to be generalized for other corpora or language.
+rule aff_on_aff {
+  pattern {
+    STEM [TokenType=Stem];
+    IA1 [TokenType=InflAff]; 
+    IA2 [TokenType=InflAff];
+    IA2 -[2=aff]-> STEM;
+    e: IA2 -[2=aff]-> IA1;
+  }
+  commands {
+    add_edge f: STEM -> IA1;
+    f.label = e.label;
+    del_edge e;
+  }
+}
+
+package init_MGloss_Mseg {
+  rule gov { 
+    pattern { 
+      N1 [TokenType=DerAff|InflAff|Stem, !MGloss, !MSeg];
+      N2 [TokenType=DerAff|InflAff|Stem];
+      N1 -[2=aff]-> N2;
+    }
+    commands {
+      N1.MGloss = N1.GE;
+      N1.MSeg = N1.form;
+    }
+  }
+
+  rule dep { 
+    pattern { 
+      N1 [TokenType=DerAff|InflAff|Stem];
+      N2 [TokenType=DerAff|InflAff|Stem, !MGloss, !MSeg];
+      N1 -[2=aff]-> N2;
+    }
+    commands {
+      N2.MGloss = N2.GE;
+      N2.MSeg = N2.form;
+    }
+  }
+}
+
+rule remove_bracket {
+  pattern { N[MGloss = lex.search]}
+  commands { N.MGloss = lex.replace}
+}
+#BEGIN lex
+search	replace
+%-----------------------------
+-[3PL]	-3PL
+-[AOR].[1SG]	-AOR.1SG
+-[AOR].[3SG].[M]	-AOR.3SG.M
+-[CAUS]	-CAUS
+-[CVB].[MNR]	-CVB.MNR
+-[CVB].[SMLT]	-CVB.SMLT
+-[EMPH]	-EMPH
+-[GEN]	-GEN
+-[GEN].[PL]	-GEN.PL
+-[IMP].[PL]	-IMP.PL
+-[IMP].[SG].[F]	-IMP.SG.F
+-[IMP].[SG].[M]	-IMP.SG.M
+-[IPFV].[2PL]	-IPFV.2PL
+-[IPFV].[3SG].[M]	-IPFV.3SG.M
+-[L]	-L
+-[MID]	-MID
+-[N].[AC]	-N.AC
+-[PFV].[1PL]	-PFV.1PL
+-[PFV].[1SG]	-PFV.1SG
+-[PFV].[2SG].[M]	-PFV.2SG.M
+-[PFV].[3SG].[F]	-PFV.3SG.F
+-[PFV].[3SG].[M]	-PFV.3SG.M
+-[PL]	-PL
+-[VN]	-VN
+-[VOC]	-VOC
+[1PL]-	1PL-
+[1SG]-	1SG-
+[2SG].[F]-	2SG.F-
+[2SG].[M]-	2SG.M-
+[3SG].[F]-	3SG.F-
+[3SG].[M]-	3SG.M-
+[3]-	3-
+[CAUS]-	CAUS-
+[N].[AC]-	N.AC-
+[PASS].[INT]-	PASS.INT-
+[PLAC]~drip	PLAC~drip
+[PLAC]~sit\[MID]	PLAC~sit\MID
+[RECP]-	RECP-
+be_awake\[MID]	be_awake\MID
+be_down\[PFV]	be_down\PFV
+be_there\[AOR]	be_there\AOR
+be_there\[IPFV]	be_there\IPFV
+be_unable\[INT].[PFV]	be_unable\INT.PFV
+become\[AOR]	become\AOR
+become\[IPFV]	become\IPFV
+become\[NEG].[OPT]	become\NEG.OPT
+become\[PFV]	become\PFV
+child\[F]	child\F
+come\[PFV]	come\PFV
+come_back\[MID].[PFV]	come_back\MID.PFV
+convey\[IPFV]	convey\IPFV
+do\[PFV]	do\PFV
+find~[PLAC]find~PLAC	find~PLACfind~PLAC
+go\[INT].[PFV]	go\INT.PFV
+go_out\[PFV]	go_out\PFV
+have\[AOR]	have\AOR
+have\[IPFV]	have\IPFV
+hear\[INT].[PFV]	hear\INT.PFV
+kneel\[PFV]	kneel\PFV
+know\[MID]	know\MID
+know\[MID].[IPFV]	know\MID.IPFV
+know\[MID].[PFV]	know\MID.PFV
+lean\[PFV]	lean\PFV
+leave\[PFV]	leave\PFV
+look\[INT].[PFV]	look\INT.PFV
+look\[PFV]	look\PFV
+move_away\[PFV]	move_away\PFV
+pursue\[PFV]	pursue\PFV
+rain\[INT].[PFV]	rain\INT.PFV
+resemble\[PFV]	resemble\PFV
+ride\[MID]	ride\MID
+ride\[MID].[NEG].[OPT]	ride\MID.NEG.OPT
+say\[PFV]	say\PFV
+sit\[MID]	sit\MID
+sit\[MID].[PFV]	sit\MID.PFV
+take\[AOR]	take\AOR
+take\[PFV]	take\PFV
+take_off\[INT].[PFV]	take_off\INT.PFV
+take_shelter\[INT]	take_shelter\INT
+take_shelter\[INT].[AOR]	take_shelter\INT.AOR
+take_shelter\[INT].[PFV]	take_shelter\INT.PFV
+wait\[PFV]	wait\PFV
+#END
+
+
+
+
+
+
+
+
+
+
+
+
+% The package morph2word contains eight rules with all combinations of
+% * InflAff / DerAff
+% * the affixe is before / after the stem (rule name starting with pre_ or post_)
+% * the affixe is a dependant / a governor of the stem (rule name ending with _dep or _gov)
+package morph2word {
+  rule pre_InflAff_dep {
+    pattern {
+      STEM [TokenType=Stem];
+      IA [TokenType=InflAff];
+      IA < STEM;
+      e: STEM -[2=aff]-> IA;
+    }
+    commands {
+      STEM.form = IA.form[:-1] + STEM.form;
+      STEM.wordform = IA.wordform[:-1] + STEM.wordform;
+      STEM.MGloss = IA.MGloss + STEM.MGloss;
+      STEM.MSeg = IA.MSeg + STEM.MSeg;
+      prepend_feats IA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignBegin = IA.AlignBegin;
+      del_node IA;
+    }
+  }
+
+  rule pre_InflAff_gov {
+    pattern {
+      STEM [TokenType=Stem];
+      IA [TokenType=InflAff];
+      IA < STEM;
+      e: IA -[2=aff]-> STEM;
+    }
+    commands {
+      shift IA ==> STEM;
+      STEM.form = IA.form[:-1] + STEM.form;
+      STEM.wordform = IA.wordform[:-1] + STEM.wordform;
+      STEM.MGloss = IA.MGloss + STEM.MGloss;
+      STEM.MSeg = IA.MSeg + STEM.MSeg;
+      prepend_feats IA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignBegin = IA.AlignBegin;
+      del_node IA;
+    }
+  }
+
+  rule post_InflAff_dep {
+    pattern {
+      STEM [TokenType=Stem];
+      IA [TokenType=InflAff];
+      STEM < IA;
+      e: STEM -[2=aff]-> IA;
+    }
+    commands {
+      STEM.form = STEM.form + IA.form[1:];
+      STEM.wordform = STEM.wordform + IA.wordform[1:];
+      STEM.MGloss = STEM.MGloss + IA.MGloss;
+      STEM.MSeg = STEM.MSeg + IA.MSeg;
+      append_feats IA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignEnd = IA.AlignEnd;
+      del_node IA;
+    }
+  }
+
+  rule post_InflAff_gov {
+    pattern {
+      STEM [TokenType=Stem];
+      IA [TokenType=InflAff];
+      STEM < IA;
+      e: IA -[2=aff]-> STEM;
+    }
+    commands {
+      shift IA ==> STEM;
+      STEM.form = STEM.form + IA.form[1:];
+      STEM.wordform = STEM.wordform + IA.wordform[1:];
+      STEM.MGloss = STEM.MGloss + IA.MGloss;
+      STEM.MSeg = STEM.MSeg + IA.MSeg;
+      append_feats IA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignEnd = IA.AlignEnd;
+      del_node IA;
+    }
+  }
+
+
+  rule pre_DerAff_dep {
+    pattern {
+      STEM [TokenType=Stem];
+      DA [TokenType=DerAff];
+      DA < STEM;
+      e: STEM -[2=aff]-> DA;
+    }
+    commands {
+      STEM.form = DA.form[:-1] + STEM.form;
+      STEM.wordform = DA.wordform[:-1] + STEM.wordform;
+      STEM.MGloss = DA.MGloss + STEM.MGloss;
+      STEM.MSeg = DA.MSeg + STEM.MSeg;
+      prepend_feats DA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignBegin = DA.AlignBegin;
+      STEM.upos = DA.DerPos;
+      shift_out DA ==> STEM;
+      del_node DA;
+    }
+  }
+
+  rule pre_DerAff_gov {
+    pattern {
+      STEM [TokenType=Stem];
+      DA [TokenType=DerAff];
+      DA < STEM;
+      e: DA -[2=aff]-> STEM;
+    }
+    commands {
+      shift DA ==> STEM;
+      STEM.form = DA.form[:-1] + STEM.form;
+      STEM.wordform = DA.wordform[:-1] + STEM.wordform;
+      STEM.MGloss = DA.MGloss + STEM.MGloss;
+      STEM.MSeg = DA.MSeg + STEM.MSeg;
+      prepend_feats DA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignBegin = DA.AlignBegin;
+      STEM.upos = DA.DerPos;
+      del_node DA;
+    }
+  }
+
+  rule post_DerAff_dep {
+    pattern {
+      STEM [TokenType=Stem];
+      DA [TokenType=DerAff];
+      STEM < DA;
+      e: STEM -[2=aff]-> DA;
+    }
+    commands {
+      STEM.form = STEM.form + DA.form[1:];
+      STEM.wordform = STEM.wordform + DA.wordform[1:];
+      STEM.MGloss = STEM.MGloss + DA.MGloss;
+      STEM.MSeg = STEM.MSeg + DA.MSeg;
+      append_feats DA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignEnd = DA.AlignEnd;
+      STEM.upos = DA.DerPos;
+      shift_out DA ==> STEM;
+      del_node DA;
+    }
+  }
+
+  rule post_DerAff_gov {
+    pattern {
+      STEM [TokenType=Stem];
+      DA [TokenType=DerAff];
+      STEM < DA;
+      e: DA -[2=aff]-> STEM;
+    }
+    without { STEM -[2=aff]-> DA2; DA [TokenType=DerAff]; }
+    commands {
+      shift DA ==> STEM;
+      STEM.form = STEM.form + DA.form[1:];
+      STEM.wordform = STEM.wordform + DA.wordform[1:];
+      STEM.MGloss = STEM.MGloss + DA.MGloss;
+      STEM.MSeg = STEM.MSeg + DA.MSeg;
+      append_feats DA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignEnd = DA.AlignEnd;
+      STEM.upos = DA.DerPos;
+      del_node DA;
+    }
+  }
+}
+
+package clitic_included {
+  % A special case in the Beja corpus: http://match.grew.fr/?corpus=SUD_Beja-NSC@latest&custom=61b7690c7ca5b
+  % where there is a clitic between the stem and its affix
+  % See section 2.4 in the SyntaxFest 2021 paper
+  rule noun_clit_InflAff {
+    pattern {
+      STEM [TokenType=Stem,upos=NOUN]; POSS []; IA [TokenType=InflAff];
+      STEM < POSS; POSS < IA;
+      STEM -[mod:poss]-> POSS;
+      e: IA -[2=aff]-> STEM;
+    }
+    commands {
+      % add a MWT
+      STEM.textform = STEM.form + POSS.form + IA.form;
+      POSS.textform = "_";
+      
+      shift IA ==> STEM;
+      STEM.form = STEM.form + IA.form;
+      STEM.wordform = STEM.wordform + IA.wordform;
+      STEM.MGloss = STEM.MGloss + IA.MGloss;
+      STEM.MSeg = STEM.MSeg + IA.MSeg;
+      append_feats IA =[re"RX\|GE\|Number\|Gender"]=> STEM;
+      STEM.AlignEnd = IA.AlignEnd;
+      del_node IA;
+    }
+  }
+}
+
+strat main { 
+  Seq(
+    Onf (aff_on_aff),
+    Onf (init_MGloss_Mseg),
+    Onf (remove_bracket),
+    Onf (morph2word),
+    Onf (clitic_included)
+    ) 
+  }

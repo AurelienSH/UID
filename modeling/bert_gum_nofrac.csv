@@ -1,0 +1,945 @@
+frequency_matrix_verb,uid_iphrase,m_verb,word_form_similarity,text,uid_idoc,matrix_subject1v3,position_matrix_verb,subject_form_CC_subject1v4,matrix_subject1v2,subject_form_CC_subject1v2,length_matrix_verb_to_CC,length_CC_remainder,uid_jaeger,matrix_subject1v4,uid_avgStep,mverb,uid_amp,uid_var,that_omission,length_CC_onset,subject_form_CC_subject1v3,frequency_CC_subject_head,uid_biggestStep
+-8.576617852581057,0.0138325069768139,1,0," Of interest here, studies suggest that, despite the difficulties in acquiring L2 grammar, adult learners can approximate native-like levels of use and neurocognitive processing [12]–[15].
+",0.0089237391948699,0,5,1,0,0,-14,0,3.4339872044851463,1,0.0100580311845988,suggest,-0.0003050789237022,0.0022891858262922,0,0,0,-11.317457876506259,0.0341816321015358
+-8.966082619342782,-0.0504531145228871,1,0," (Note that we do not consider case studies, purely observational data, or research on L2s acquired by children; for a comprehensive review, see [16]).
+",-0.0495344400405883,0,1,1,0,0,-5,0,1.6582280766035324,1,0.002491127109515,Note,8.920952677726746e-05,-0.000577500278686,0,0,0,-7.967553789231654,-0.0016298480331897
+-8.576617852581057,0.0132691543416453,1,0," Although attrition may take place within the first few years, some studies suggest that it then appears to level off, with no further losses occurring [17], [18].
+",0.0025892853736877,0,13,0,0,1,-3,0,3.4339872044851463,1,0.0187270477584134,suggest,0.0001324843615293,0.006081336683206,0,1,0,-8.226415423147943,0.0148262213915586
+-7.405434871078112,0.002132808647695,1,0," Get feedback from researchers on possible subjects, based on the knowledge and skills they feel librarians need;
+",0.0066017359495162,1,15,1,0,0,-1,0,3.2188758248682006,0,0.001125646500211,feel,0.018740214407444,0.0051895321683003,1,1,0,-7.328473829941984,0.0145983397960662
+-8.544869154266477,-0.0040468753578433,1,0," With these in hand, we will design the curriculum of clinics, based on the method of 'constructive alignment' (Biggs et al., 2011), to make sure that the intended learning objectives and the teaching/learning activities stay aligned.
+",0.0097313225269317,0,32,1,0,0,-3,0,1.3862943611198906,1,-0.0027583772605549,sure,0.0002676639705896,-0.0008781272002428,0,10,0,-8.514097495599724,0.0195699725300073
+-7.5679538005758875,0.0326233992097424,1,0," His mother wrote, ""He has no indisposition that I know of but love, desperate love, the worst of all maladies in my opinion. In short, the boy is distractedly in love with Miss Chaworth."" [6]
+",-0.0579288005828857,0,2,0,0,0,-1,0,3.3440389678222067,1,0.0020596584069485,wrote,0.0010205656290054,0.0030887140200584,1,1,1,-5.497374946153897,-0.0108883827924728
+-6.654018782394191,-0.0295598854056813,1,0," You're so stupid thinking I spent the night.
+",-0.0209498256444931,0,4,0,0,0,-1,0,1.9892904446855384,1,0.0084325334565206,thinking,-0.0011900067329406,0.0016660985877981,1,1,0,-8.544869154266477,-0.0624146163463592
+-6.654018782394191,0.0168007881295951,1,0," She thinks I spent the night in my jeans —
+",0.0080364346504211,1,1,0,0,0,-1,0,1.9892904446855384,0,0.0121230746102001,thinks,0.0005326829850673,0.0070578345312224,1,1,0,-8.544869154266477,0.0117009244859218
+-6.1641662820084795,-0.0311233521646095,1,0," If I did spend the night, and I was trying to lie, I would give up, cause then I wouldn't care, cause I knew I deserved it.
+",-0.0276545882225036,0,28,0,0,0,-1,0,2.901999795891284,0,0.0090743436798954,knew,-0.0004643276333808,0.0014939955733906,1,1,0,-10.624310695946313,0.0548361465334892
+-7.328473829941984,0.0115870884473719,1,0," I don't know why you couldn't wake me up in the morning, to tell me that you were going.
+",0.0039904713630676,0,16,1,0,0,-4,0,2.890371757896165,1,0.0117599050643352,tell,-0.0007126126438379,0.0022808107160932,0,0,0,-6.08101591367631,2.0584091544151303e-05
+-6.1641662820084795,-0.0164899008259886,1,0," I know she's —
+",0.0190179049968719,0,1,0,0,0,-1,0,2.901999795891284,0,-0.0941882703453302,know,-0.0006627850234508,0.0128633393816394,1,1,1,-5.862136761148557,0.0384790487587451
+-6.199464064089503,0.1380307803107868,1,0," They said, they already determined it was in like eighteen different states.
+",0.1510861739516258,1,1,0,0,0,-1,0,1.157180642819177,0,-0.0328216754964419,said,0.0011545363813638,0.0070213433806341,1,1,1,-9.302554855963994,-0.2454691678285598
+-6.654018782394191,-0.00527477809228,1,0," You know what I think, I think the first time that it does the card mode, it takes a long time.
+",-0.0275275111198425,0,7,0,0,1,-1,0,1.9892904446855384,0,0.0016680462690799,think,0.0020560976117849,0.0017807455396453,1,1,0,-6.419618076555347,-0.052968705072999
+-9.066166077899764,8.988174823965078e-05,1,0," It was spring, the barren time in March when you can not be sure if it is really warmer, but you are so desperate for change that you tell yourself the mud at the edge of the sidewalk is different from winter mud and you are sure that the smell of wet soil has suddenly a bit of the scent of summer rains, of grass and drowned earthworms.
+",0.0001466870307922,0,48,1,0,0,-3,0,1.845826690498331,1,0.0025009976624109,sure,0.0005576126277446,0.0005498912169581,0,5,0,-5.497374946153897,0.0007909536361694
+-6.1641662820084795,0.0302995513073909,1,0," I was wearing a yellow linen dress which my mother had picked out and which I therefore disliked although I knew it flattered me.
+",0.0239286124706268,0,20,0,0,1,-1,0,2.901999795891284,0,0.0124779295548796,knew,-0.0007979031652212,0.005053626630137,1,1,0,-12.010605057066204,0.0681163147091865
+-8.347043410936557,0.1487814942055622,1,0," We scanned the deep blue valley for the first sign of the company, but before we saw them we heard the children shouting: “A yellow man!”
+",0.1374901682138443,1,20,1,0,0,-1,0,1.3609765531356008,0,-0.0466990634919174,heard,0.0009023528546094,0.0022913386438361,1,2,0,-10.624310695946313,-0.0936703383922576
+-6.654018782394191,-0.0516552319074085,1,0," At first I thought the children meant my father, whose golden skin, the color of the night-monkey’s pelt, was a rarity in the islands; but certainly the children of Tyom were familiar with my father, and would never have greeted a council-member with such ill-mannered yells.
+",-0.0504616871476173,0,3,1,0,0,-1,0,1.9892904446855384,0,0.0038947918113239,thought,3.774464130401611e-05,-0.0007184435386536,1,2,0,-7.4673102747962,0.0123710036277771
+-8.203942567295885,-0.0086494243738074,1,1," I have since learned that that doctor wrote a well-received treatise, On the Medicinal Properties of the Juice of the Young Coconut, and died a respected man in his native city of Deinivel; but at the time I felt certain he had returned with his sack of tree-cuttings.
+",-0.0071640610694885,0,3,1,0,0,-3,0,2.70805020110221,1,-0.0050898626997742,learned,0.0008143726736307,-0.0020096505394166,0,2,0,-7.5679538005758875,-0.0136079844087362
+-6.542544915931073,0.0091109511575528,1,0," As they approached I saw that my father’s face was shining with pride, and his bearing had in it a new hauteur, like that of the old island kings.
+",0.0640078783035278,0,4,1,0,0,-7,0,2.423537703411708,0,0.0003443400187952,saw,0.0013689864426851,0.0008243634860152,0,0,0,-10.218845587838148,0.1322558987885713
+-8.347043410936557,-0.0021858966963393,1,0," As he dismounted in front of the house I heard my mother whispering: “Protect us, God with the Black-and-White Tail, from that which is not of this earth.”
+",0.001299500465393,0,9,1,0,0,-1,0,1.3609765531356008,0,-0.0182974137495646,heard,-0.0024355091154575,-0.000153692281559,1,2,0,-10.401167144632103,0.0002149902284145
+-6.654018782394191,-0.2076677566296175,1,0," I thought I caught an odor off him, of fish, sea-sickness and sweat.
+",-0.0615515297847752,0,1,0,0,0,-1,0,1.9892904446855384,0,0.0044402143997109,thought,0.0002347119152545,-0.0131513576858098,1,1,0,-9.014872783512212,0.127379722893238
+-8.347043410936557,0.0701225918293109,1,0," I heard that they orchestrated the largest people evacuation to a natural disaster in Indian history.
+",0.0825191736221313,0,1,0,0,0,-3,0,1.3609765531356008,0,-0.0047888169530779,heard,0.0024701002985239,-0.0055740706057951,0,1,1,-12.010605057066204,-0.217904569581151
+-7.328473829941984,-0.0108629156599523,1,0," Mr. Tedeschi also told the court that, over the last five months of her life, ""Gloria's eczema played a devastating role in her overall health and it is asserted by the Crown that both her parents knew this and discussed it with each other.""
+",-0.0025237277150154,0,3,1,0,0,-6,0,2.890371757896165,1,0.0167336738100808,told,-0.0010258294641971,0.0041870514666351,0,3,0,-7.762109815016845,-0.001853123307228
+-6.199464064089503,-0.014602149095402,1,0," Speaking in the parents' defense, Tom Molomby, SC, said that, as the parents came from India, where homeopathy is in common use, they should be declared not guilty due to cultural differences.
+",-0.0081151872873306,0,12,1,0,0,-3,0,1.157180642819177,1,0.0144514379546392,said,0.0010614749044179,0.0034309879665014,0,0,0,-9.708019964072157,-0.0164796411991119
+-9.302554855963994,-0.0682446242686952,1,0," The results of the Australian National Iodine Nutrition Study published in the Medical Journal of Australia this week, revealed that children in mainland Australia are borderline iodine deficient.
+",-0.0708406567573547,0,19,1,0,0,-8,0,2.70805020110221,1,0.0028646086681295,revealed,0.0010677464306354,-0.0005773549928313,0,0,0,-10.911992768398093,0.0340760499238967
+-6.199464064089503,0.0192250145043719,1,0," The authors say the results confirm the existence of inadequate iodine intake in the Australian population.
+",0.0119607746601104,0,2,1,0,0,-1,0,1.157180642819177,1,0.0129381327226368,say,-0.0001968573778867,-0.0008769897629512,1,2,0,-9.931163515386368,0.0173543859273195
+-6.199464064089503,0.0006156946707464,1,0," Professor Cres Eastman, Director of the National Iodine Nutrition study, and Chairman of the Australian Centre for Control of Iodine Deficiency Disorders, says it is crucial that children and pregnant women in particular have an adequate intake of iodine.
+",0.0017411783337593,0,25,1,0,0,1,0,1.157180642819177,1,0.0013981096112237,says,0.0047664642333984,0.0003497983362796,1,0,0,-10.911992768398093,-0.0134087204933166
+-6.199464064089503,-0.0461747909239373,1,0," The report says the decline in iodine intake appears to be due to changes in the dairy industry, where chlorine-containing sanitisers have replaced iodine-containing sanitisers.
+",-0.0462946742773056,0,2,1,0,0,-1,0,1.157180642819177,1,-0.0024469360148637,says,-0.0006059557199478,-0.0038064110964691,1,5,0,-8.226415423147943,-0.0940043628215789
+-9.445655699604668,0.0171423974765455,1,0," The report states that few if any food manufacturers use iodised salt in the preparation and manufacture of foods.
+",0.0200862884521484,0,2,1,0,0,-3,0,1.466337068793427,1,-0.0031150509603321,states,-0.0007907021790742,0.0022023662309992,0,5,0,-6.481175969554781,-0.0190536230802536
+-9.708019964072157,0.0619684648019267,1,0," The World Health Organisation (WHO) recommends that every country should iodise all edible salt.
+",0.0854356884956359,0,7,1,0,0,-5,0,1.6094379124341003,1,0.0215820811408894,recommends,0.0016811192035675,-0.0009011373181746,0,0,0,-9.708019964072157,0.0859766919165849
+-8.544869154266477,0.0067515112690642,1,0," But at the other end of the scale we've got to make sure the people who eat a lot of food - we all know the teenage boy who comes home from school and eats a whole loaf of bread - that those people don't get too much and get overdose,"" Ms Bauchtman said.
+",-0.0003271102905273,0,13,1,0,0,-6,0,1.3862943611198906,1,0.0129026450737509,sure,0.0055582746863365,0.0025950335194586,0,0,0,-6.236053511521796,0.0051561221480369
+-9.177391713009987,0.0096950931573072,1,0," Senior researcher Mu Li, of the University of NSW's school of public health, said ""it is reasonable to assume that pregnant women and breastfeeding mothers are also iodine deficient, putting the next generation of children born in this country at risk of the neuropsychological consequences of iodine deficiency.""
+",0.0186575502157211,0,22,1,0,0,-9,0,2.833213344056216,1,0.0130977258391101,assume,0.0062830597162246,0.0073696154250651,0,0,0,-10.911992768398093,0.0607051588594913
+-6.1641662820084795,0.0243465955488574,1,0," I am often asked why the House passed Articles of Impeachment even knowing that the odds were slim that Senate Republicans would set aside partisanship and hear the case as impartial jurors.
+",0.0129396915435791,0,12,1,0,0,-5,0,2.901999795891284,1,0.017181364530333,knowing,-0.0007854923605918,0.0022708225337687,0,0,0,-11.317457876506259,0.0072091594338417
+-6.542544915931073,-0.016684163184393,1,0," Essentially, what we said was there was probable cause that powers had been abused and certainly cause to see that the President refused to cooperate with the constitutional responsibilities of the House of Representatives.
+",-0.0046312659978866,0,19,1,0,0,-3,0,2.423537703411708,1,0.0234200658495811,see,0.000525688752532,0.0026311333869745,0,2,0,-9.445655699604668,-0.0092003047466278
+-6.1641662820084795,0.0049590480542092,1,0," Mr. President, I want our fellow citizens to know how much you did to carry on this tradition.
+",-0.0017345249652862,0,9,0,0,0,-1,0,2.901999795891284,1,0.012414864690176,know,-0.001711281016469,0.0041727952221297,1,1,1,-6.20246256708576,-0.0053021032363176
+-7.385632243781933,0.0062620259082625,1,0," By your gracious cooperation in the transition process, you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other, and I thank you and your people for all your help in maintaining the continuity which is the bulwark of our Republic.
+",0.0017648935317993,0,11,1,0,0,-4,0,3.5263605246161616,1,0.0127113171028978,shown,0.0022523459047079,0.0037373700156578,0,0,0,-10.911992768398093,0.0095958169549703
+-6.654018782394191,0.0049192113700605,1,0," Why, then, should we think that collectively, as a nation, we're not bound by that same limitation?
+",0.0085585936903953,0,6,1,0,0,-11,0,1.9892904446855384,1,0.0026493009194555,think,-0.0020605791360139,0.0032128296837487,0,0,0,-10.624310695946313,0.0171052664518356
+-8.181963660577109,-0.0036479500850886,1,0," From time to time we've been tempted to believe that society has become too complex to be managed by self-rule, that government by an elite group is superior to government for, by, and of the people.
+",0.0030126869678497,0,9,1,0,0,-4,0,2.03688192726104,1,0.0118352081688535,believe,0.0026573147624731,0.0048418815354763,0,0,0,-7.556257760812696,0.1353208720684051
+-7.4673102747962,0.1018906822939822,1,0," Putting America back to work means putting all Americans back to work.
+",0.1236126497387886,0,5,1,0,0,-1,0,2.751535313041949,1,-0.0115636555382456,means,-0.000897504389286,0.0078211862134759,1,0,0,-7.425637578395632,-0.210746631026268
+-7.4673102747962,-0.0392631513022241,1,0," Ending inflation means freeing all Americans from the terror of runaway living costs.
+",-0.0328145697712898,0,2,1,0,0,-1,0,2.751535313041949,1,0.009106109276987,means,-0.0003944355994462,-0.002073272855323,1,0,0,-12.010605057066204,-0.0656742006540298
+-6.654018782394191,0.0038782064078582,1,0," However, in representative governments like the United States, minority rights are protected: people cannot be deprived of certain rights even if an overwhelming number of people think that they should be.
+",-0.006481796503067,0,30,1,0,0,-4,0,1.9892904446855384,1,0.0007384875773632,think,6.56619668006897e-05,0.0006214886811777,0,0,0,-5.862136761148557,-0.0129021033644676
+-6.199464064089503,0.0091131281462453,1,0," For example, let’s say American society decided that atheists, people who do not believe that God exists, were evil and should be imprisoned or expelled from the country.
+",0.0145768821239471,0,5,1,0,0,-1,0,1.157180642819177,1,0.0072058488403548,say,-0.0022026896476745,0.0017643329771944,1,2,0,-8.514097495599724,0.0284200310707092
+-8.181963660577109,0.0068133566027679,2,0," For example, let’s say American society decided that atheists, people who do not believe that God exists, were evil and should be imprisoned or expelled from the country.
+",0.0072486847639083,0,16,1,0,0,-3,0,2.03688192726104,1,-0.001583596615124,believe,0.0022553093731403,0.0012235288737958,0,1,0,-8.427086118610093,0.0140354335308074
+-8.514097495599724,-0.0142277986969516,3,0," For example, let’s say American society decided that atheists, people who do not believe that God exists, were evil and should be imprisoned or expelled from the country.
+",-0.0192097723484039,0,8,1,0,0,-14,0,2.803360380906535,1,-0.0089574276524431,decided,0.0033881701529026,-0.0009878619253201,0,0,0,-12.010605057066204,-0.0375896096229553
+-9.177391713009987,0.0093100115717923,1,0," In his observations of pin factories, Smith noticed that one worker alone might make 20 pins in a day, but that a small business of 10 workers (some of whom would need to complete two or three of the 18 tasks involved with pin-making), could make 48,000 pins in a day.
+",0.0086972117424011,0,8,1,0,0,-6,0,1.7346010553881064,1,0.0015770397028007,noticed,0.0018035992980003,0.0013567894315441,0,0,0,-6.086349259651672,0.0195430740714073
+-7.4673102747962,-0.0099638712735057,1,0," Third, specialization allows businesses to take advantage of economies of scale, which means that for many goods, as the level of production increases, the average cost of producing each individual unit declines.
+",-0.0012349933385849,1,14,1,0,0,-3,0,2.751535313041949,0,0.0126439235542738,means,0.0004923529922962,0.0078805934514342,0,8,0,-10.401167144632103,-0.0024990737438201
+-6.654018782394191,-0.0235941603743973,1,0," I thought that I would make sort of like more of an informative video because I could just like post a vlog, but um the footage was like so random, and all over the place.
+",-0.0171897113323211,0,1,1,0,0,-4,0,1.9892904446855384,0,0.0084288916933914,thought,0.0007585640996694,0.0010818305668999,0,0,0,-6.086349259651672,-0.0688128471374511
+-6.199464064089503,-0.0267494402737135,1,0," Then the Japanese gardens you do have to pay for but I will say that it was definitely worth it.
+",-0.0196490809321403,0,13,1,0,0,-5,0,1.157180642819177,1,0.0132509015941698,say,-0.0006929840892553,0.0007813043508216,0,0,0,-9.612709784267834,-0.0392236560583114
+-8.203942567295885,-0.019581615856173,1,0," I did wear my bird shirt – It's a pretty good bird shirt, I got a compliment on it – which I didn't say this earlier, but I bought this at the Audubon Society which I learned what that was.
+",-0.0041662752628326,0,40,1,0,0,2,0,2.70805020110221,0,-0.0136837410318608,learned,0.0174236558377742,-0.0023164284618842,1,0,0,-7.405434871078112,0.0084508918225765
+-6.1641662820084795,0.1254850781386477,1,0," I didn't know what that was but it's um a society for um like bird watching and bird care and um they had a shirt that said bird nerd on it so I bought it because I thought it was funny.
+",-0.1074789726537699,0,3,1,0,0,2,0,2.901999795891284,1,-0.0022489873408372,know,-0.0035370774567127,0.0029028933982916,1,0,0,-7.405434871078112,-0.0073769278824329
+-6.199464064089503,-0.0274868928093298,1,0," The legend says that the King of Athens, Theseus unified the ten tribes of early Athens into one kingdom (c. 1230 BC).
+",-0.0340838134288787,0,2,1,0,0,-3,0,1.157180642819177,1,-0.0021657674184078,says,0.0012805964797735,0.0011274070723842,0,6,0,-12.010605057066204,-0.0612406823784112
+-7.4673102747962,0.0031985015948376,1,0," For your joke to be funny, it has to surprise the audience in some way, which means it has to seem original or new.
+",0.0003430545330047,1,18,0,0,1,-1,0,2.751535313041949,0,0.0042430323620255,means,-0.0014498848468065,0.0021438741934718,1,1,0,-5.497374946153897,-0.0014508385211229
+-8.966082619342782,-0.0455139649661081,1,0," At least one prior study by Kessler and colleagues [15], however, using measures of perceived discrimination in a large American sample, reported that approximately 33% of respondents reported some form of discrimination (see also, Gibbons et al. [4]).
+",0.0234719776910776,0,26,1,0,0,-3,0,2.3513752571634776,1,0.0077558156490033,reported,9.640119969844818e-05,0.0029482892532329,0,5,0,-8.966082619342782,0.1204242911189794
+-7.068962634456899,-0.0050003964531816,1,0," The p-value associated with the design-based F is thus more accurate (than the associated with the χ2 statistic) given the adjustments and calculations take into account the weighted nature of the data.
+",-0.0003300905227661,0,24,1,0,0,-1,0,4.248495242049359,1,-0.0107351414904725,given,0.0012806169688701,0.0008900812637516,1,4,0,-6.419618076555347,0.0012794248759746
+-8.139404046158313,-0.0036524990533208,1,0," But, but I remember, like I went there with this person, it's kind of funny.
+",0.0005230605602264,0,4,0,0,0,-1,0,1.791759469228055,0,0.003544916372214,remember,2.4218112230300903e-05,0.0029354752045559,1,1,0,-6.08101591367631,0.0009865164756774
+-6.654018782394191,-0.0503425331054521,1,0," Oh I think you told me.
+",-0.0307423323392868,0,2,0,0,0,-1,0,1.9892904446855384,0,0.0222309769264289,think,0.0003666598349809,0.0051707133183838,1,1,1,-7.328473829941984,-0.0615533292293548
+-6.654018782394191,-0.0114289457713695,1,0," And I was thinking, it looks like these people aren't going home alone tonight.
+",-0.0020564198493957,0,3,0,0,1,-1,0,1.9892904446855384,1,-0.023346099604945,thinking,-0.0016247518360614,-0.0058697363351218,1,1,0,-7.033871314645629,-0.0057443864643573
+-6.654018782394191,0.0123812762044724,1,1," But I just thought that —
+",0.0017879903316497,0,3,1,0,0,-1,0,1.9892904446855384,0,0.0213047814865907,thought,0.0016607567667961,0.0188779566210775,1,0,0,-8.752508519044722,0.0051611587405204
+-9.612709784267834,0.0113077217075777,1,0," But a- anyway, um, I was so glad that he opened up on this disclosure bit.
+",0.0025933980941772,0,9,0,0,0,-3,0,1.2992829841302609,1,0.0129646135450542,glad,0.0001041516661643,0.0037620183384569,0,1,1,-8.272935438782836,0.003716193139553
+-6.199464064089503,-0.0179408609610859,1,0," He said, I loved your hum- humor, uh, and I love you, but, I am not a political appointee.
+",-0.0134617537260055,1,1,0,0,0,-1,0,1.157180642819177,0,0.0076207541077904,said,0.0028166994452476,0.0009538872063296,1,1,0,-8.791729232198003,-0.0294362008571624
+-6.199464064089503,-0.0196661609003232,1,0," And I said, Oh? How did you get on the board?
+",-0.0311857759952545,0,2,1,0,0,-1,0,1.157180642819177,0,-0.0226232475079186,said,0.0036562606692314,-0.0047211866382566,1,0,0,-10.911992768398093,-0.0581100061535835
+-6.199464064089503,0.0065744719335011,1,0," Well he said, I got a letter from the governor, asking.
+",0.0036009848117828,1,2,0,0,0,-1,0,1.157180642819177,0,0.0033573198879321,said,-0.0039901752024888,0.0034858015561143,1,1,0,-6.236053511521796,0.0031043868511915
+-6.199464064089503,0.0345763276239261,1,0," The point was, I could have mentioned what was in the paper about him, that he was related and, you know, had business with Steitler, and I just said, and there's Doctor Duvall, you know?
+",-0.0375147759914398,0,33,1,0,0,-1,0,1.157180642819177,0,0.0045963534796346,said,-0.0012661945074796,0.0018629234521325,1,2,0,-5.862136761148557,-0.0762699376791715
+-6.199464064089503,-0.102358078093014,1,0," And I said, well, I – alright.
+",-0.1069092118543619,0,2,1,0,0,-1,0,1.157180642819177,0,0.034043441609376,said,0.001310046762228,0.0231639348249684,1,0,0,-11.317457876506259,-0.4065976869314909
+-8.203942567295885,-0.0139733651054224,1,0," I learned it just went down.
+",0.0311992764472961,0,1,0,0,1,-1,0,2.70805020110221,0,0.038916691295093,learned,-0.0031832568347454,0.0164972795839122,1,1,0,-6.08101591367631,0.0660295486450195
+-6.654018782394191,0.0386450436043863,1,0," I think you – I think you gave him some herb of some kind.
+",0.0477369129657745,0,1,1,0,0,-1,0,1.9892904446855384,0,-0.0038673117756843,think,-0.0011426378041505,0.0085878462386355,1,0,0,-9.931163515386368,0.0945565104484558
+-6.654018782394191,-0.0065924967794368,1,0," I think you – I think you gave him some herb of some kind.
+",-0.0041139423847198,0,5,0,0,0,-1,0,1.9892904446855384,0,-0.004180646315217,think,-0.0018757283687591,0.00051922838738,1,1,1,-7.068962634456899,-0.0098753571510314
+-9.177391713009987,0.0037554683385505,1,0," (A civic agent notices you noticing, and attaches itself to your infospace, whispering statistics —
+",-0.00291009247303,0,4,0,0,0,-1,0,1.7346010553881064,1,-0.0186293225098205,notices,-0.0011622309684753,0.0001199001706966,1,1,1,-9.177391713009987,-0.0050951540470123
+-8.347043410936557,-0.0200652580172049,1,0," Derya, of all people, hearing you scream!
+",-0.0020818784832954,0,6,0,0,0,-1,0,1.3609765531356008,1,0.0140022702007131,hearing,-0.0004040524363517,0.008488993586321,1,1,1,-10.911992768398093,0.0354369729757308
+-6.542544915931073,-0.0184423761422057,1,0," When, a couple of weeks later we were invited over to his house we saw that this was not an idle remark.
+",-0.0108075812458992,1,15,1,0,0,-5,0,2.423537703411708,0,0.0063797876776265,saw,-0.0014591962099075,0.0053969352190499,0,0,0,-12.010605057066204,-0.0216139703989028
+-8.714768191061875,0.1707593874739749,1,0," I suppose that, in our own way, we were all collectively strange.
+",0.2092897891998291,0,1,1,0,0,-12,0,2.6026896854443837,0,0.0037134871152894,suppose,-3.056786954402924e-05,0.0019615875350596,0,0,0,-12.010605057066204,-0.077838510274887
+-6.1641662820084795,0.0463591617775651,1,0," I volunteered for that program because I knew I wanted to be a Fighter Pilot and at the ""Top of the Spear.""
+",0.0553120374679565,0,7,0,0,0,-1,0,2.901999795891284,0,0.0042474114894866,knew,-0.0024464409798383,0.0058735257482542,1,1,0,-6.742746898002876,0.0672950446605682
+-8.181963660577109,0.0119542299698178,1,0," In those days I believed there was a difference in the parties.
+",0.003533661365509,0,4,1,0,0,-1,0,2.03688192726104,0,0.0137260514669693,believed,-9.989924728870392e-05,0.004383132504644,1,5,0,-5.862136761148557,0.0064858179539442
+-7.9852533663310545,-0.0473575126586688,1,0," I understand third party candidates have no success.
+",-0.0222593545913696,0,1,1,0,0,-1,0,2.639057329615259,0,0.0285696884513729,understand,-0.0073946919292211,-0.0011002860110306,1,3,0,-5.497374946153897,-0.0450942516326904
+-7.967553789231654,0.2212926273969443,1,0," If you do not receive the Republican nomination, would you consider running as a third party candidate?
+",-0.0155479872030253,0,11,1,0,0,-1,0,3.349904087274605,1,0.0045836541082775,consider,-0.0093451850116252,0.0219890957780387,1,0,0,-8.078779424341878,-0.2267068140208721
+-8.966082619342782,0.0119050160281533,1,0," On his campaign website, Sarvis notes he favors parental school choice through student vouchers, simplification of Virginia's Tax Code, US Second Amendment - gun - rights, same-sex marriage, and reform of the state's drug laws.
+",0.0115679502487182,0,6,0,0,0,-1,0,1.6582280766035324,1,-0.0029207949293426,notes,-0.0004889629781246,-0.0005810723503446,1,1,1,-10.624310695946313,-0.0102105885744094
+-8.347043410936557,-0.0107100172645666,1,0," Voters who meet me and hear me speak know that I am sincere, know that I understand the issues deeply and have workable solutions, and know that I stand on principle against cronyism and corporatism and in favor of the rule of law and the public interest.
+",-0.0064809173345565,0,5,0,0,0,-1,0,1.3609765531356008,1,0.0046799160213984,hear,-0.0322307273745536,0.0038581386829342,1,1,0,-8.249404941372642,-0.0129916369915008
+-6.1641662820084795,-0.005513986408309,2,0," Voters who meet me and hear me speak know that I am sincere, know that I understand the issues deeply and have workable solutions, and know that I stand on principle against cronyism and corporatism and in favor of the rule of law and the public interest.
+",-0.0009471848607063,0,8,1,0,0,-4,0,2.901999795891284,1,0.003806265494067,know,0.0059262961149215,0.0023180615125191,0,0,0,-12.010605057066204,-0.0022759586572647
+-6.1641662820084795,-0.0035468532129971,2,0," Voters who meet me and hear me speak know that I am sincere, know that I understand the issues deeply and have workable solutions, and know that I stand on principle against cronyism and corporatism and in favor of the rule of law and the public interest.
+",0.0015005841851234,0,14,0,0,0,-3,0,2.901999795891284,1,0.0032822343902851,know,-0.0011876672506332,0.0026233118190278,0,1,0,-7.9852533663310545,0.0028680115938186
+-6.1641662820084795,-0.0010661567401404,2,0," Voters who meet me and hear me speak know that I am sincere, know that I understand the issues deeply and have workable solutions, and know that I stand on principle against cronyism and corporatism and in favor of the rule of law and the public interest.
+",0.0030336678028106,0,27,0,0,0,-3,0,2.901999795891284,1,0.0017434834111494,know,0.0016417205333709,0.0020902449627159,0,1,0,-8.249404941372642,0.0059996247291564
+-7.4673102747962,-0.0159746808173077,1,0," Moreover, electing a third-party governor represents a repudiation of politics as usual, and the major party legislators will face changed constraints and incentives, meaning that much more is possible than many people assume, especially with strong leadership.
+",-0.0105147138237953,0,28,1,0,0,-5,0,2.751535313041949,1,0.0068430326078177,meaning,-0.0003784671425819,0.000482336960947,0,0,0,-9.066166077899764,-0.0210287123918533
+-6.199464064089503,0.0463593464180733,1,0," Environment Canada spokesperson Julie Hahn said they apply to letters of complaint, criticism or injury, research or scientific notes and findings that don`t have any conclusion, and Treasury Board letters, agendas and minutes that don`t deal with subjects of national interest.
+",0.0448218993842601,0,5,0,0,0,-1,0,1.157180642819177,1,-0.0109753537577061,said,-0.0140838399529457,0.0018603608790662,1,1,1,-8.45525699557679,0.000953733921051
+-6.199464064089503,-0.0121767276857969,1,0," Paul Dewar, an Ottawa New Democrat MP, said the combined security lapses raise serious questions about the government's ability to secure sensitive documents.
+",0.0001669824123382,0,9,1,0,0,-1,0,1.157180642819177,1,0.0048933394702858,said,-0.0003376342356204,0.0045704990334529,1,4,0,-9.066166077899764,-0.0031360983848571
+-6.199464064089503,-0.0015516231175173,1,0," Dewar says that bureaucrats of the Conservative government have complained to him about document security to the point that they can`t share the information with their own colleagues.
+",0.0113050043582916,0,1,1,0,0,-8,0,1.157180642819177,1,0.011190162874603,says,-0.0011625476181507,0.0044846246495146,0,0,0,-10.911992768398093,0.0089277625083923
+-8.966082619342782,-0.0083752671844864,1,0," I can report to the House that they are currently in a stable and improving condition at Auckland Hospital.
+",0.0003312826156616,0,2,1,0,0,-4,0,2.3513752571634776,1,0.0101769111985177,report,0.0008747354149818,0.0035566879176326,0,0,0,-12.010605057066204,0.0005141496658325
+-9.708019964072157,-0.0082612572043062,1,0," Of course, members will be aware that there are outbreaks in other regions as well.
+",-0.0022966712713241,0,6,1,0,0,-3,0,1.6094379124341003,1,0.0044381764840663,aware,0.0002771355211734,0.0067754077361091,0,1,0,-5.862136761148557,0.1247415840625763
+-8.514097495599724,0.0087708906294191,1,0," So, as a further precaution, we have decided that anyone arriving in New Zealand who has been in northern Italy or South Korea who has been there in the last 14 days will be registered for self-isolation.
+",0.0042515695095062,0,9,1,0,0,-3,0,2.803360380906535,1,-0.0009379889475695,decided,-0.0007110796868801,0.0050408518933753,0,0,0,-10.218845587838148,0.0077932514250278
+-6.1641662820084795,-0.0084480042569339,1,0," We know self-isolation works.
+",0.030137725174427,1,1,1,0,0,-1,0,2.901999795891284,0,0.0256202442216731,know,-0.0010480005294084,0.0204084746039648,1,3,0,-7.510795386735939,0.062672272324562
+-8.181963660577109,0.0035189923060976,1,0," Napoleon III of France believed the Civil War presented an opportunity for him to restore a French empire in the Americas.
+",0.0174148827791214,0,4,1,0,0,-1,0,2.03688192726104,1,0.0186473942115838,believed,0.0096119977533817,0.005694661036943,1,3,0,-8.919562603707888,0.0353038311004638
+-6.1641662820084795,0.0110586481661628,1,0," You guys know I have the white ones and I wear them all the time and these ones are just like black perforated Vans.
+",0.0104459822177886,0,2,0,0,0,-1,0,2.901999795891284,1,-0.0012467908129053,know,0.0029347352683544,-0.0002941365832761,1,1,0,-5.497374946153897,0.001014094799757
+-6.199464064089503,-0.0559093397642884,1,0," So while I was in the library one of you guys came up to me, and said hi.
+",-0.0509015470743179,0,17,1,0,0,-1,0,1.157180642819177,1,0.0107206170398153,said,-0.0255057029426097,-0.0066246602158771,1,0,0,-10.624310695946313,-0.1014355719089508
+-6.199464064089503,-0.0513292970998143,1,0," But if you're watching this, hi thank you so much for coming and saying hi to me you actually made my whole day.
+",-0.0475357770919799,0,15,1,0,0,-1,0,1.157180642819177,1,0.0102655163135623,saying,0.0001328829675912,0.0016988231842452,1,0,0,-10.624310695946313,-0.0535422265529632
+-6.199464064089503,-0.0024917474355209,1,0," She said she watches my videos and loves them.
+",0.0051572397351264,1,1,0,0,0,-1,0,1.157180642819177,0,-0.0111387698393728,said,-0.0020758137106895,0.007927467428207,1,1,1,-8.203942567295885,0.0151287466287612
+-6.199464064089503,0.0218049587227494,1,0," So if you do go to FGCU and you ever see me on campus, like feel free to say hi because you'll make my day.
+",0.0305845141410827,0,19,1,0,0,-1,0,1.157180642819177,1,0.0072896409158905,say,-0.0016349218785762,0.0021769340920591,1,0,0,-10.624310695946313,0.0608434677124023
+-6.199464064089503,-0.0049162653528831,1,0," So I ended up having to order them, but she said there was no way to do a direct exchange.
+",-0.0018134340643882,1,11,1,0,0,-1,0,1.157180642819177,0,-0.0062214312187972,said,0.0024914778769016,-0.0016157645345079,1,7,0,-5.862136761148557,-0.0036230534315109
+-6.199464064089503,-0.0220185473048384,1,0," The waters of the islands are known for their clarity, it being said that you can see the bottom at 40 metres.
+",0.0217806696891784,0,13,1,0,0,-4,0,1.157180642819177,1,0.0018839256344694,said,0.0007050819694995,0.0006244647331506,0,0,0,-6.542544915931073,0.0444045849144458
+-8.576617852581057,-0.0173201103116801,1,1," Findings of Lapita pottery suggest that early-Polynesians were on these islands close to 3000 years ago.
+",0.0015590563416481,0,4,1,0,0,5,0,3.4339872044851463,1,0.03173651769596,suggest,-0.0002443045377731,0.0046912426915273,1,0,0,-9.612709784267834,0.003943994641304
+-8.832551226718259,-0.0051253316180899,1,0," Growing Beavertail can be done at any time of year by scattering seeds in a shady bed or, for faster results, planting cuttings in a mix of soil and sand and ensuring that they have a bit of water and plenty of sun.
+",-0.0037371516227722,0,33,0,0,0,-3,0,1.5686159179138452,1,-0.0043824540845753,ensuring,-0.0007736086845397,-0.0014525984536245,0,1,1,-5.497374946153897,-0.008656620979309
+-8.544869154266477,-0.1099747109142217,1,0," Make sure that the garden bed is in the shade.
+",0.0348092877668375,0,1,1,0,0,-3,0,1.3862943611198906,1,0.0122724692026774,sure,0.0124411433935165,-0.0029176426948731,0,0,0,-12.010605057066204,0.19266177713871
+-9.708019964072157,-0.1244770366241011,1,0," Be aware that growing Beavertail cactus from seeds takes much longer than growing one from a cutting.
+",-0.1263164579868316,0,1,1,0,0,-3,0,1.6094379124341003,1,0.0022886958508904,aware,0.0028514899313449,-0.0095448136256989,0,5,0,-6.419618076555347,-0.0816697925329208
+-7.385632243781933,0.0016084059233775,1,0," As an example, research shows that greater diversity within a community or group can lead to improved critical thinking [1] and more creative solutions to complex tasks [2, 3] by pairing together individuals with unique skillsets and perspectives that complement and often augment the abilities of their peers.
+",0.0002758502960205,0,5,1,0,0,-10,0,3.5263605246161616,1,-0.0046244322703304,shows,-7.453188300132751e-05,0.002660138194407,0,0,0,-8.297032990361895,-0.0012296698987483
+-8.181963660577109,-0.0013152945508387,1,0," In other words, it is critical that economic agents believe that their property rights will not be taken away by other public or private actors [15].
+",0.0003475695848464,0,10,1,0,0,-4,0,2.03688192726104,1,-0.0009188243059505,believe,0.0005405619740486,0.0017695458572593,0,0,0,-6.419618076555347,0.0076813995838165
+-8.966082619342782,-0.0528009138415687,1,0," Besides the enjambment types above, Spang (1983) noted that if a subject or direct object and their related verbs occur in two different lines of poetry, this can also feel unusual for a reader, even if the effect is less pronounced than in the environments identified by Quilis.
+",0.0260100924772257,0,10,1,0,0,-23,0,1.6582280766035324,1,-0.0090645125845116,noted,-5.289074033498764e-05,-0.0046016892249118,0,0,0,-7.405434871078112,-0.0445097833871841
+-8.832551226718259,-0.0015377469407864,1,0," For instance, those with an interest in deceiving the general public may set up parallel institutions that ostensibly guarantee expertise, taking advantage of the ways in which these parallel institutions mimic legitimate institutions to ensure that people are taken in.
+",0.0028397887945175,0,36,1,0,0,-4,0,1.5686159179138452,1,0.0099280255799423,ensure,-2.3324042558670044e-05,0.0017405261015608,0,0,0,-6.419618076555347,0.0058874636888504
+-6.654018782394191,-0.0091255397396062,1,0," Such an organization is surely permissible, but it has had the unfortunate (and likely intended) effect of muddying debates in the public forum by misleading people into thinking that the college speaks for the pediatric profession at large.
+",-0.002847321331501,0,30,1,0,0,-3,0,1.9892904446855384,1,0.0117068559834826,thinking,0.0007526651024818,0.0038569712830757,0,2,0,-8.249404941372642,-0.0060910135507583
+-8.966082619342782,-0.1148840100550336,1,0," Since conflicts of interest are a reason to discount expertise, it is incumbent on me to note that I have published in Frontiers journals on several occasions.
+",-0.105627030134201,0,17,1,0,0,-4,0,1.6582280766035324,1,0.0159683511493895,note,-0.0008839294314384,0.0007565133636251,0,0,0,-8.39968714442198,0.0107922106981277
+-8.576617852581057,0.026696756596364,1,0," With respect to the contributions of digital games to improvement of cognitive processes, researchers suggest that regular practice has a significant influence on improving the performance related to basic visual skills (Li, Polat, Scalzo, & Bavelier, 2010); on the ability to perceive objects simultaneously (Dye & Bavelier, 2010; Feng, Spence, & Pratt, 2007); and on the ability to do more than one task at the same time (Boot, Kramer, Simons, Fabiani, & Gratton, 2008).
+",0.0251772999763488,0,15,1,0,0,-3,0,3.4339872044851463,1,-0.0065851352825843,suggest,0.000650018453598,-0.0005039764926428,0,2,0,-5.497374946153897,0.0166867896914482
+-8.576617852581057,0.0057607620117902,1,0," From a systematic comparison of 10 spoken languages from 5 continents we find evidence suggesting that a word like ‘Huh?’ – used as a ‘repair initiator’ when, for example, one has not clearly heard what someone just said [5], [6] – is a universal word.
+",0.001255840063095,0,14,1,0,0,-40,0,3.4339872044851463,1,0.0175718763480665,suggesting,-0.000698173418641,0.0018563504603845,0,0,0,-9.302554855963994,0.0016366001218557
+-7.385632243781933,0.0121892697470358,1,0," In support of the first claim, we show that the similarities in form and function of an interjection with the specific function of repair initiation are very much greater across languages than chance coincidence would admit.
+",-0.0042560994625091,1,8,1,0,0,-21,0,3.5263605246161616,0,0.0229183387447415,show,-0.0002552475780248,0.0037947450616236,0,0,0,-9.014872783512212,-0.0001836623996496
+-7.385632243781933,0.0147900949399847,1,0," In support of the second claim, we show that Huh? meets the criteria of a word in the sense of being a conventional lexical sign which must be learnt.
+",0.0161037147045135,1,8,1,0,0,-3,0,3.5263605246161616,0,-0.0053522853760964,show,-0.0004164092242717,0.006451036429366,0,2,0,-8.297032990361895,-0.0002763979136943
+-7.006658751120745,-0.000635557026809,1,0," Thus, in contrast to what has been presumed for interjections in general [7], [8] and for huh? in particular [9], [10], we find that this item is linguistic in nature rather than being a mere grunt or non-lexical sound.
+",0.0006186440587043,1,35,1,0,0,-5,0,2.9245047642656234,0,0.0010623517387866,find,-0.0001162840053439,-0.0006473787069495,0,0,0,-12.010605057066204,0.0012375265359878
+-7.385632243781933,0.0451672106404744,1,0," We show that the form is locally calibrated in ways that show it fitting within different language systems.
+",0.052073448896408,1,1,1,0,0,-6,0,3.5263605246161616,0,0.0088301645101685,show,-0.0022886674851179,0.0050639615699605,0,0,0,-12.010605057066204,-0.0165615305304527
+-8.791729232198003,-0.1722847139813443,1,0," We observe that this item fulfils a crucial need shared by all languages – the efficient signalling of problems of hearing and understanding – and we propose that its form is constrained by selective pressures in a conversational environment that is essentially the same in all languages.
+",-0.1728328317403793,1,1,1,0,0,-3,0,2.5257286443082556,0,0.0122484145724043,observe,-0.0027903225272893,-0.001398806788868,0,2,0,-11.317457876506259,0.012999027967453
+-7.385632243781933,0.0815820136880562,1,0," These examples show that it is possible to identify the same conversational structure in unrelated languages.
+",0.1077848672866821,0,2,1,0,0,-2,0,3.5263605246161616,1,0.0151331985903465,show,-0.0020529385656118,0.0141059196688574,0,0,0,-9.066166077899764,0.1022033989429473
+-7.006658751120745,0.0590541475325229,1,0," By compiling data from published literature we found that in thirty-one languages around the world, the interjection for other-initiated repair appears to be strongly similar (Figure 1).
+",0.0699304938316345,1,7,1,0,0,-3,0,2.9245047642656234,0,0.0049007355715961,found,0.0007512066513299,0.0138899843717789,0,7,0,-8.226415423147943,0.0153081510215997
+-7.006658751120745,0.0182591646653477,1,0," however, in the study by Hein and colleagues it was found that children responded more or less frequently based on factors such as stimuli type.
+",0.0097491443157196,0,11,1,0,0,-3,0,2.9245047642656234,1,0.0164057034070463,found,0.0003922898322343,0.0072010925298093,0,1,0,-9.371547727450945,0.0193980056792497
+-8.181963660577109,-0.0015052983077625,1,0," It is possible that these two children understood the task and really did believe that the puppet did not produce any poor descriptions, and in this regard, are not yet adult-like in their SI interpretations.
+",0.0032963976263999,0,13,1,0,0,-6,0,2.03688192726104,1,0.0095146914432516,believe,-0.0001693367958068,0.0034222544819452,0,0,0,-8.321725602952268,0.0037281960248947
+-6.199464064089503,-0.0162830309321483,1,0," This is unlikely as they said that even the first training item was said well.
+",0.0319834426045417,1,5,1,0,0,-8,0,1.157180642819177,0,0.0496852909303492,said,0.0010985331609845,0.0109620001950172,0,0,0,-6.199464064089503,0.0577274709939956
+-8.078779424341878,-0.0281507003538566,1,0," In fact, someone’s productivity, particularly at night, depends on the presence of a good lighting and it seems that it is a daily necessity.
+",-0.0285693556070327,0,21,1,0,0,-4,0,3.2386784521643803,1,-0.0024547587364471,seems,0.0001712255179882,-0.0002676967625572,0,0,0,-11.317457876506259,-0.0317296981811523
+-8.919562603707888,-0.0048409340459676,1,0," It simulates the error of not checking that the coordinate system is correct.
+",-0.0025608092546463,0,6,1,0,0,-6,0,3.0910424533583156,1,0.021867630005415,checking,-0.0024109529331326,0.0004104104665763,0,0,0,-10.624310695946313,0.0034139705821871
+-7.068962634456899,0.0466319279593169,1,0," The narrative review considers challenges in replication research and is largely informed by commentaries and metascience from psychology, given that the cognitive and social subdomains of psychology are highly influential in L2 research, and also from education, another key sister discipline.
+",0.0408926904201507,0,19,1,0,0,-11,0,4.248495242049359,1,0.0065600846285874,given,-0.0003496091812849,0.0034220243243613,0,0,0,-10.911992768398093,0.0048292055726051
+-7.4673102747962,-0.0150993197098036,1,0," In addition, the widely used empirical models decouple the wind effect from SSS and SST effects, which means that the surface emission is due to a perfectly flat sea surface and the wind-roughened sea surface.
+",-0.0128538906574249,1,19,1,0,0,-4,0,2.751535313041949,0,0.0006603615198,means,-0.0001711975783109,-0.00301238431997,0,0,0,-12.010605057066204,-0.240883469581604
+-7.385632243781933,-0.0085309094474094,1,0," We have shown that the addition of an artificial tail during ontogeny can produce postural and locomotory changes in chickens, consistent with the posture and kinematics inferred for non-avian dinosaurs [5], [6], [11].
+",-0.0013368725776672,0,2,1,0,0,-11,0,3.5263605246161616,1,0.0112785372324828,shown,-0.0006702207028865,0.0032936581047053,0,0,0,-8.321725602952268,0.0087355971336364
+-7.385632243781933,-0.0157630741242962,1,0," Our data show that for a given CFL mass, femoral retraction can be greatly affected by the location of the CoM and limb postures.
+",-0.0029839649796485,0,2,1,0,0,-4,0,3.5263605246161616,1,0.0133677306917628,show,-0.0005571991205215,0.0011965197932392,0,0,0,-8.966082619342782,0.0045008994638919
+-8.576617852581057,0.0249574412271907,1,0," Experimental manipulations of femoral orientation in chickens suggest that torsional loads increase as the femur becomes more horizontal [7] supporting the idea that postural differences could be reflected in differences in limb cross-sectional geometry.
+",0.0278566926717758,0,7,1,0,0,-3,0,3.4339872044851463,1,0.0018604116585207,suggest,-0.0035915877670049,0.0016554632691182,0,2,0,-8.347043410936557,-0.005884513258934
+-7.967553789231654,-0.0140617165502837,1,0," Maybe this is not surprising considering that a recent study analyzing the relationship between posture and femur cross-sectional properties failed to find differences between birds and non-avian theropods [24], suggesting that simple morphological correlates of limb posture should be used with caution.
+",-0.003708504140377,0,5,1,0,0,-3,0,3.349904087274605,1,0.019441124905992,considering,0.0006470214575529,0.003318280903522,0,12,0,-9.177391713009987,0.0104147791862487
+-8.576617852581057,-0.004871383423663,2,0," Maybe this is not surprising considering that a recent study analyzing the relationship between posture and femur cross-sectional properties failed to find differences between birds and non-avian theropods [24], suggesting that simple morphological correlates of limb posture should be used with caution.
+",0.0017776414752006,0,32,1,0,0,-3,0,3.4339872044851463,1,0.0066607000431679,suggesting,-0.001104861497879,0.0044361610684924,0,0,0,-6.481175969554781,0.0362909138202667
+-8.576617852581057,-0.0100061157166916,1,0," Longer limbs are expected to experience larger bending and torsional moments, so the fact that experimental animals had longer femora suggests that limb verticalization reduces these moments by orienting the bone more parallel to the GRF line of action.
+",0.0101340115070343,0,21,1,0,0,-3,0,3.4339872044851463,1,0.0027282017890526,suggests,-0.0011165607720613,0.000976220042933,0,2,0,-8.966082619342782,0.0211300384253263
+-8.576617852581057,-0.0021858953474752,1,0," We suggest that the different outcomes are due to the distinct rearing and exercising conditions used in each study, in addition to the different artificial tails used.
+",-0.000525340437889,1,1,1,0,0,-6,0,3.4339872044851463,0,0.0001659235329793,suggest,0.0008998736739158,0.000937233197875,0,0,0,-10.06469490801089,-0.0090822875499725
+-8.576617852581057,-0.0311473235767334,1,0," This suggests that their results could be partially explained as a response to the increased loading rather than to the displacement of the CoM.
+",-0.0279188901185989,1,1,1,0,0,-4,0,3.4339872044851463,0,0.0032742748161831,suggests,-0.0012663817033171,0.0023401317871035,0,0,0,-8.678400546891,0.0639061629772186
+-7.385632243781933,0.0060997435195733,1,0," It has even been proposed that, due to functional convergence, mammals might be a better system to study bipedal dinosaur locomotion [7], [23], but the results reported here show that important aspects of non-avian theropod locomotion can be experimentally recreated in modern birds.
+",0.0109999626874923,0,36,1,0,0,-4,0,3.5263605246161616,1,0.0076800085813058,show,0.0023258030414581,-0.0016629741780248,0,0,0,-10.911992768398093,-0.0617357790470123
+-7.4673102747962,-0.0071023625679887,1,0," Nonetheless, this does not mean that tail reduction had no effect on CoM displacement, but that it was not the most important factor.
+",-0.0014540031552314,0,5,1,0,0,-3,0,2.751535313041949,1,0.0076097166351973,mean,-0.0012924205511808,0.0023221529582649,0,2,0,-5.497374946153897,-0.0029087215662002
+-6.199464064089503,0.0182196687557119,1,0," It is no exaggeration to say that HBO’s Game of Thrones is more than just a television series or a successful brand:
+",0.0221692025661468,0,5,1,0,0,-8,0,1.157180642819177,1,0.0037199482905474,say,0.0008729565888643,0.0063041278114474,0,0,0,-8.003271871833732,0.0427858084440231
+-9.238016334826423,0.0011147071931962,1,0," Given the volume of content this represents, it is easy to forget that the television series itself is an adaptation of a book series with a pre-existing fandom.
+",-0.0001304149627685,0,12,1,0,0,-7,0,2.0794415416798357,1,0.0020508358795796,forget,-5.760043859481812e-05,0.0006731945826766,0,0,0,-12.010605057066204,-0.0002751573920249
+-8.966082619342782,-0.0584222068370223,1,0," To investigate this, Daniel experimented by puncturing the wall of a pipe with a small open ended straw and noted that the height to which the fluid rose up the straw was related to fluid's pressure in the pipe.
+",-0.0611702799797058,0,20,1,0,0,-13,0,1.6582280766035324,1,-0.0019855454413515,noted,5.694478750228882e-05,-0.001697779536357,0,0,0,-10.911992768398093,0.0077955201268196
+-8.078779424341878,-0.0013274813174373,1,0," After his expulsion became official in January 1831, he attempted to start a private class in advanced algebra which attracted some interest, but this waned, as it seemed that his political activism had priority. [4] [7]
+",-0.0032563805580139,0,30,1,0,0,-3,0,3.2386784521643803,1,-0.0010729967390066,seemed,0.0002213511615991,-0.0016038792305902,0,3,0,-5.497374946153897,-0.0065134763717651
+-8.576617852581057,0.0059598504984563,2,0," Around 4 July 1831, Poisson declared Galois' work ""incomprehensible"", declaring that ""[Galois'] argument is neither sufficiently clear nor sufficiently developed to allow us to judge its rigor""; however, the rejection report ends on an encouraging note: ""We would then suggest that the author should publish the whole of his work in order to form a definitive opinion."" [16]
+",0.0073973163962364,0,53,1,0,0,-5,0,3.4339872044851463,1,0.0013962198613151,suggest,0.0002691559493541,0.0009940899601828,0,0,0,-8.39968714442198,-0.0018079876899719
+-8.576617852581057,0.0044060109145345,1,0," Some archival investigation on the original letters suggests that the woman of romantic interest was a Mademoiselle Stéphanie-Félicie Poterin du Motel, [18] the daughter of the physician at the hostel where Galois stayed during the last months of his life.
+",0.004586711525917,0,7,1,0,0,-8,0,3.4339872044851463,1,-0.0024648245829993,suggests,0.000106556341052,0.0018501356959482,0,0,0,-12.010605057066204,0.0080779641866683
+-9.238016334826423,0.0082993194147268,1,0," Galois' cousin, Gabriel Demante, when asked if he knew the cause of the duel, mentioned that Galois ""found himself in the presence of a supposed uncle and a supposed fiancé, each of whom provoked the duel.""
+",0.0012328177690505,0,18,1,0,0,-3,0,2.772588722239781,1,-0.0121289361160302,mentioned,0.003935232758522,-0.0046135644786978,0,1,0,-7.006658751120745,0.0120196640491485
+-6.1641662820084795,-0.0045243763861557,1,0," She fell in love with him right away, not knowing that, at 31, he had a reputation as a womanizer.
+",0.0004216358065605,0,10,0,0,0,-4,0,2.901999795891284,1,0.0079507787097785,knowing,-0.0007264260202646,-0.0003211614369164,0,1,1,-5.497374946153897,4.978477954864502e-05
+-9.612709784267834,-0.0082329845662036,1,0," Nor did she realize that he wrote popular literature which aimed to please the general public and in no way wished to be associated with serious literature.
+",-0.0020964443683624,0,3,0,0,0,-3,0,1.7047480922384253,1,0.0085583086022072,realize,-0.0022149197757244,0.0013164859501177,0,1,1,-7.5679538005758875,0.0021029114723205
+-7.006658751120745,-0.0099150897247498,1,0," Often I would find myself entering those crypts, deep dug in the earth, with their walls on either side lined with the bodies of the dead, where everything was so dark that almost it seemed as though the Psalmist's words were fulfilled, Let them go down quick into Hell. [14]
+",-0.0086221545934677,0,3,0,0,0,-1,0,2.9245047642656234,1,0.0023713246624041,find,-0.0024051517248153,-0.0002366577151386,1,1,1,-9.014872783512212,-0.0189848840236663
+-6.654018782394191,-0.0009851375297792,1,0," In the video, she stated, ""I'm sick and tired of guys thinking that just because I showed up at a club or a dance or a bar, that I want to have their genitalia touching my backside""; [12] [13] the video had approximately 36.2 million views as of March 2018. [14]
+",-0.0002321079373359,0,15,0,0,0,-18,0,1.9892904446855384,1,0.0002038516215376,thinking,0.0001808367669582,-0.0005473942658432,0,1,0,-6.742746898002876,-0.0005911737680435
+-7.068962634456899,-0.0031638997018654,1,0," This theory, along with other theories of correspondence in translating, are elaborated in his essay Principles of Correspondence, where Nida begins by asserting that given that ""no two languages are identical, either in the meanings given to corresponding symbols or in the ways in which symbols are arranged in phrases and sentences, it stands to reason that there can be no absolute correspondence between languages.
+",-0.0001238286495208,0,27,1,0,0,-7,0,4.248495242049359,1,-0.0034208468544837,given,0.0162545889616012,-0.0013039409369147,0,0,0,-12.010605057066204,0.0161785930395126
+-8.078779424341878,-0.0586566584317991,1,0," Although it seems Theodorus practiced complete submission to the new leader of the Koinonia, problems soon arose in several Pachomian monasteries that viewed Horsiesios as a weak leader.
+",-0.0628873705863952,0,2,1,0,0,-1,0,3.2386784521643803,1,0.0043060450959065,seems,0.0047470312565565,-0.0012439497416667,1,1,0,-9.525698407278204,-0.0019253939390182
+-6.542544915931073,0.0026578982020654,1,0," This ice here of course is water, I told you there was water in this glass, and you have all seen water boil at home, so you are familiar with steam.
+",-0.0039940178394317,0,22,1,0,0,-1,0,2.423537703411708,1,0.0101296055811543,seen,-0.0003780461847782,0.0023701453417002,1,1,0,-12.010605057066204,-0.007594559341669
+-6.542544915931073,-0.0169607016866016,1,0," I have here a number of balloons, but, l- let's see how many of these balloons, I can fit, into this little itty-bitty container here.
+",-0.0182926356792449,0,13,1,0,0,7,0,2.423537703411708,1,-0.0106892589096528,see,-0.0012533236294984,-0.0051972606201137,1,0,0,-9.813380479729984,-0.0374971199780702
+-6.654018782394191,0.0103125126163164,1,0," Well, there's a hole, no, if you're thinking there's a hole, think again.
+",0.0144929587841033,0,12,1,0,0,-1,0,1.9892904446855384,1,0.0023552787800629,thinking,-0.0005298852920532,0.0034024055036581,1,2,0,-5.862136761148557,0.0292039513587951
+-6.199464064089503,-0.0250932946801185,1,0," You said you never made the horseshoes.
+",-0.0056855231523513,0,1,0,1,0,-1,0,1.157180642819177,0,0.014230793962876,said,-0.003613993525505,0.0074881167428667,1,1,1,-6.086349259651672,-0.0139385759830474
+-6.199464064089503,-0.0702330076064055,1,0," She's been saying for months that you would never wear it.
+",-0.0999255776405334,0,3,1,0,0,-5,0,1.157180642819177,1,0.0572606245628916,saying,-0.0013531371951103,0.0039771455373639,0,0,0,-8.321725602952268,-0.0020912811160087
+-9.238016334826423,0.0227904640847729,1,0," I hope you like yellow.
+",-0.0005618631839752,0,1,0,0,0,-1,0,1.1631508098056809,0,0.0320770444969336,hope,-0.001874417066574,0.0147738155342477,1,1,1,-7.8362177871705665,-0.0011426508426666
+-6.654018782394191,0.0028356982944294,1,0," I don't think that he would acknowledge original sin.
+",0.0132596492767333,0,3,1,0,0,-4,0,1.9892904446855384,1,0.0231694589002114,think,-0.0010009128600358,0.0036649627845852,0,0,0,-9.813380479729984,0.0249962490051984
+-6.199464064089503,-0.0071673518238914,1,0," And as you come — as Erasmus comes to this, he's going to say, well let's look at the Scriptures.
+",-0.0039801597595214,0,15,1,0,0,-1,0,1.157180642819177,1,-0.0091101272334145,say,-0.0054130386561155,-0.0002292820990094,1,0,0,-7.5446969384116205,-0.0133515428751707
+-6.199464064089503,-0.007858315841873,1,0," And so Erasmus is going to say, so obviously, in Scripture we have paradox.
+",-0.0089246928691864,0,6,0,0,0,-1,0,1.157180642819177,1,-0.0041608832817634,say,-0.0020120702683925,-0.0014606790038578,1,1,1,-5.497374946153897,-0.0171742998063564
+-9.525698407278204,0.0084364164318497,1,0," We have clear passages of Scripture, which seem to indicate that man has a free will, and that he can exercise that will, to follow, or not to follow.
+",-0.0031292140483856,0,10,1,0,0,-3,0,2.4849066497880004,1,-0.0123554750232759,indicate,-0.0005139019340276,-0.0030749914219341,0,1,0,-5.497374946153897,-0.0067440178245306
+-9.525698407278204,0.0075475493000713,1,0," On the other hand, we have passages of Scripture, which seem to indicate, that the will is not free, and that the –, and that man i- th- is – man is predestined by a an omnipotent sovereign will of God.
+",0.0007666051387786,0,14,1,0,0,-6,0,2.4849066497880004,1,0.0123496242118107,indicate,0.0006203865632414,0.0036008906853677,0,0,0,-10.624310695946313,0.002120099030435
+-7.9852533663310545,0.0513611890865783,1,0," I don't understand what not taking his lunch has to do with baling hay.
+",0.0397336781024932,0,3,1,0,0,-1,0,2.639057329615259,1,0.0178311892147911,understand,0.0022258292883634,0.0047976518502795,1,4,0,-5.497374946153897,0.0817606579512357
+-6.654018782394191,-0.0056028396894152,1,0," Actually, I think that if she found out he come and didn't have a lunch, she'd fix him one.
+",0.0028082653880119,0,3,1,0,0,-17,0,1.9892904446855384,0,0.0134294297775397,think,0.0023540314286947,0.0034081361605698,0,0,0,-9.612709784267834,0.0056370347738265
+-7.328473829941984,-0.051094744689468,1,0," And then she told her that, she didn't outgrow it until she was five or something?
+",-0.0642921924591064,1,3,1,0,0,-6,0,2.890371757896165,0,0.0078050985819462,told,0.0007161926478147,-0.0022922356908189,0,0,0,-10.911992768398093,-0.0621633380651474
+-6.199464064089503,-0.020563454215142,1,0," So then I said, ""but look at Barb, she's healthy now"", and Carolyn looked at her, and sort of looked away, and I thought, oh boy.
+",-0.0052892714738845,0,3,1,0,0,-1,0,1.157180642819177,0,0.0311103244106766,said,-0.004357986152172,0.0091927053563853,1,0,0,-7.033871314645629,0.0101847052574157
+-6.199464064089503,-0.0272294218567284,1,0," Santa had said he needed to leave at eight.
+",-0.0037478655576705,0,2,0,0,0,-1,0,1.157180642819177,1,0.0268786514591839,said,-5.384907126426697e-06,0.0069588452508512,1,1,1,-7.328473829941984,-0.0095816552639007
+-6.199464064089503,0.004332875005073,1,0," “It’s just that there are more children in the world now,” he said.
+",0.0017833411693572,1,16,1,0,0,-4,0,1.157180642819177,0,0.0026423143697719,said,-0.0011809729039669,0.0022808245494278,0,2,0,-5.862136761148557,0.002374742180109
+-6.1641662820084795,-0.0331960153450969,1,0," Betty never knew how naughty she should feel about wanting to strangle him sometimes.
+",-0.0344200804829597,0,2,1,0,0,3,0,2.901999795891284,1,-0.0009066379396244,knew,0.002163890749216,0.0014483528757797,1,0,0,-7.405434871078112,-0.0498153120279312
+-8.347043410936557,-0.00638484960008,1,0," She thought she could hear Gomez laughing.
+",-0.019879013299942,0,4,1,0,0,-1,0,1.3609765531356008,1,0.0078838586341589,hear,-0.0007857214659452,0.0106654053119925,1,1,0,-9.120233299170039,-0.041938854381442
+-8.181963660577109,-0.0010696629651818,1,0," When Tyler was very young, his grandmother was his favorite person in the world because, unlike his parents, who believed that children should always be told the truth as adults understood it, she would fill in the gaps in his knowledge — Santa Claus, the Easter Bunny, God.
+",0.0021565109491348,1,22,1,0,0,-4,0,2.03688192726104,0,0.0052196023130566,believed,0.0002361889928579,0.0008368566565167,0,0,0,-7.328473829941984,0.0042839348316192
+-9.177391713009987,-0.0573456683134392,1,0," He made the common error of identifying maturity with worth, and assumed that the love he had for her as a young child must have been lacking in strength and depth.
+",-0.056375503540039,0,12,1,0,0,-3,0,2.833213344056216,1,0.0050121287809639,assumed,-0.0002126693725585,-0.0027234382934198,0,0,0,-10.624310695946313,0.0086361849680542
+-6.542544915931073,0.0046369762540879,1,0," In Tyler’s mind he could see her face grow taut, lose color, and then, for the only time he could remember, she began to cry.
+",0.0013298094272613,0,6,1,0,0,-1,0,2.423537703411708,1,0.0064746296097103,see,-0.0007713604718446,0.0011137599365934,1,2,0,-7.720145615917812,0.0005296897143125
+-6.1641662820084795,0.019788883582877,1,0," At that time he knew only vaguely that Hell was a place you did not want to go, like the dark basement or the even darker attic.
+",0.0006332695484161,1,4,1,0,0,-4,0,2.901999795891284,0,0.0201092111612004,knew,0.0022327899932861,0.0062666324289511,0,0,0,-9.525698407278204,0.0033425092697143
+-8.139404046158313,0.1517494440416407,1,0," He remembered feeling resentful that she was crying and he did not even understand why.
+",0.0013803130584721,1,1,1,0,0,-1,0,1.791759469228055,0,-0.0123963807496467,remembered,-0.0011752359569072,0.0074953607470938,1,0,0,-7.405434871078112,-0.2299783285707235
+-7.9852533663310545,0.1201698449630921,3,0," He remembered feeling resentful that she was crying and he did not even understand why.
+",0.1429914087057113,0,13,1,0,0,-1,0,2.639057329615259,1,0.0244924836591178,understand,-0.0013138148933649,0.0183365610754255,1,0,0,-10.911992768398093,0.1770716868340969
+-8.139404046158313,-0.0244161506885692,1,0," Now he remembered that they always ate in the dining room, and when they did play board games, it was always on the coffee table in the living room.
+",0.0408180058002471,1,2,0,0,0,-3,0,1.791759469228055,0,0.0080926669541225,remembered,0.0004157852381467,0.0023575574023805,0,1,1,-8.714768191061875,0.0819824170321226
+-7.405434871078112,-0.0004941944677668,1,0," He felt that it was a coming-of-age moment.
+",0.0136132910847663,1,1,1,0,0,-4,0,3.2188758248682006,0,0.0068520236421715,felt,-3.577210009098053e-05,0.0057802894972341,0,0,0,-10.911992768398093,-0.0328380912542343
+-6.199464064089503,0.0022512622191711,1,0," Back out in the mall, Cara is wailing, which could start an asthma attack, so to distract her I say, “You want a cookie?”
+",0.0050311535596847,0,22,0,0,0,-1,0,1.157180642819177,0,0.0028883049061762,say,-0.0006635449826717,0.0058829195652677,1,1,1,-6.742746898002876,0.0791023820638656
+-6.199464064089503,-0.0610939972102642,1,0," She perks up the way Shelby, our Shetland Sheepdog does, when you say ‘treat.’
+",-0.095175564289093,0,14,1,1,0,-1,0,1.157180642819177,0,-0.017533524423128,say,0.0051924437284469,-0.005838723962977,1,0,0,-12.010605057066204,0.0345782488584518
+-7.328473829941984,-0.0043997301900087,1,0," My mom had to buy stuff, like gym shorts for me and underwear for herself, so I told her that I’d take Cara with me while she bought her stuff.
+",-0.001439444720745,0,19,1,0,0,-4,0,2.890371757896165,0,0.0039837465965174,told,0.0008106529712677,0.0009872846744047,0,0,0,-6.419618076555347,-0.0026061385869979
+-8.139404046158313,-0.0056526961935949,1,0," Remember you have school tomorrow.”
+",0.0407816171646118,0,0,0,0,0,-1,0,1.791759469228055,1,0.0341638786984341,Remember,0.000741085037589,0.0211121648408905,1,1,1,-5.497374946153897,0.0809485912322998
+-6.1641662820084795,0.0146746914953184,1,0," Everyone knew, beyond belief or necessity that the time had come.
+",0.0240936577320098,1,1,1,0,0,-5,0,2.901999795891284,0,-0.0058294096961617,knew,-0.0007684584707021,0.0092565602723707,0,0,0,-6.702337359664999,0.0448340773582458
+-8.347043410936557,-0.038645331314691,1,0," And as they swam they sang, their voices born on the winds and the salt and the rain, and we could hear them singing, He is coming, He is coming.
+",-0.0320467054843902,0,23,0,0,0,-1,0,1.3609765531356008,1,-0.0119936207418932,hear,-0.0039105396717786,-0.0002887614412167,1,1,1,-9.931163515386368,-0.0694850664585828
+-6.1641662820084795,-0.0476085467704484,1,0," Knowing that he had already been flying straight for longer than was advisable, Chalmers altered his course to attempt to throw off any pursuers.
+",-0.0386661887168884,0,0,1,0,0,-4,0,2.901999795891284,1,0.0206961905184601,Knowing,-9.263865649700163e-05,-0.0023802904178234,0,0,0,-9.302554855963994,-0.0665682852268219
+-6.542544915931073,-0.005964754359133,1,0," Chalmers saw his friends run forward as their names were called out, scrambling into cockpits, pulling on helmets and performing last-minute safety checks.
+",0.0232539847493171,0,1,1,0,0,-1,0,2.423537703411708,1,0.031281534343811,saw,-0.0016814246773719,0.0082777354378365,1,2,0,-8.078779424341878,-0.0577870458364486
+-6.542544915931073,0.0071525878779459,1,0," And as I ran along the shore, crushing sleeping flowers with heedless feet and maddened ever by the fear of unknown things and the lure of the dead faces, I saw that the garden had no end under that moon; for where by day the walls were, there stretched now only new vistas of trees and paths, flowers and shrubs, stone idols and pagodas, and bendings of the yellow-litten stream past grassy banks and under grotesque bridges of marble.
+",0.000784158706665,0,32,1,0,0,-3,0,2.423537703411708,0,0.0105703961583895,saw,9.991973638534546e-05,0.0021323185249917,0,2,0,-5.497374946153897,0.0016355738043785
+-6.1641662820084795,-0.0145398429755506,1,0," And knowing that to this sunken place all the dead had come, I trembled and did not wish again to speak with the lotos-faces.
+",-0.0206770896911621,0,1,1,0,0,-10,0,2.901999795891284,1,0.0078744383617526,knowing,0.0007514432072639,0.0012666741232193,0,0,0,-6.702337359664999,-0.0104074999690055
+-6.542544915931073,0.0588931742081926,1,0," So I watched the tide go out under that sinking moon, and saw gleaming the spires, the towers, and the roofs of that dead, dripping city.
+",0.0606070905923843,0,13,1,0,0,-1,0,2.423537703411708,1,-0.0048184109562557,saw,-0.0014761034399271,0.0017542330585654,1,15,0,-10.911992768398093,-0.0018023252487182
+-6.542544915931073,-0.0053865764373045,1,0," Nor had my flesh trembled without cause, for when I raised my eyes I saw that the waters had ebbed very low, shewing much of the vast reef whose rim I had seen before.
+",0.0005316361784934,0,15,1,0,0,-5,0,2.423537703411708,0,-0.0004969194814944,saw,0.0001797936856746,0.00226471451034,0,0,0,-11.317457876506259,-0.0330191701650619
+-6.542544915931073,0.0251590125476728,1,0," And when I saw that the reef was but the black basalt crown of a shocking eikon whose monstrous forehead now shown in the dim moonlight and whose vile hooves must paw the hellish ooze miles below, I shrieked and shrieked lest the hidden face rise above the waters, and lest the hidden eyes look at me after the slinking away of that leering and treacherous yellow moon.
+",0.0237108170986175,0,3,1,0,0,-6,0,2.423537703411708,0,0.0045679679085702,saw,0.0003593955188989,0.0007519976298926,0,0,0,-12.010605057066204,0.0339979920536279
+-6.1641662820084795,-0.0839529119279475,1,0," I don’t like the doctor, but I don’t know why.
+",-0.0815433114767074,0,11,1,0,0,-1,0,2.901999795891284,1,0.016652687172728,know,0.0004615578800439,-0.0054061435029149,1,0,0,-10.624310695946313,-0.1629633605480194
+-7.385632243781933,0.0065110856385416,1,0," In the background, shining, is Renata, who is young and healthy and good, raising her arm to show her grandmother that the chip is nothing, nothing at all.
+",0.0005765855312347,0,21,1,0,0,-5,0,3.5263605246161616,1,0.0107160981200011,show,-0.000259893015027,-0.0008120122301204,0,0,0,-9.612709784267834,0.0009320806711912
+-6.199464064089503,-0.0017065064469624,1,0," Most people would say it started with the Fireflies, but they'd be wrong.
+",0.0074460431933403,0,3,0,0,1,-1,0,1.157180642819177,1,0.0100457658930346,say,5.167350172996521e-05,0.004378771259042,1,1,0,-7.35664470690868,0.0150812715291976
+-6.654018782394191,0.0047592181830652,1,0," ""I think Siri died, they scooped him out and threw him away and you're some whole other kid that just, just grew back out of what was left.
+",-0.0001262128353118,0,2,1,0,0,-1,0,1.9892904446855384,0,0.009493306585971,think,0.0116596817970275,0.0026958476346297,1,1,0,-8.321725602952268,0.0113904476165771
+-6.199464064089503,0.0100853215733711,1,0," I couldn’t say I blamed her.
+",0.0007332563400268,0,3,0,0,0,-1,0,1.157180642819177,1,0.0166708016768097,say,0.0008108839392662,0.006857984292705,1,1,0,-10.624310695946313,0.0027976855635643
+-6.199464064089503,0.0007649360028891,1,0," Although I will say that a pixie hiding in the sink among the dirty soup bowls makes doing the dishes an adventure.
+",-0.0069429352879524,0,3,1,0,0,-3,0,1.157180642819177,1,-0.0154593527876576,say,0.0006773043423891,-4.304359576472183e-05,0,11,0,-6.086349259651672,-0.0145864635705947
+-7.328473829941984,0.0184402540608337,1,0," “I keep trying to tell myself that this is cool.
+",0.0349029153585433,0,5,1,0,0,-4,0,2.890371757896165,1,0.004779690741138,tell,0.0006330013275146,0.0115824542737832,0,0,0,-9.931163515386368,0.0698044002056121
+-9.612709784267834,-0.0276233257654194,1,0," I realized that I, too, hated the pixies.
+",0.1358706915182108,0,1,0,0,0,-3,0,1.7047480922384253,0,0.027474867391654,realized,0.0011081509292125,-0.0016435332790787,0,2,0,-10.218845587838148,0.3059670142829418
+-8.203942567295885,-0.0002781409605899,1,0," In two months Carroll had learned that her parents lived on a farm several miles outside of town; that they sold strawberries in summer, and Christmas trees in the winter.
+",-0.0007093250751495,0,5,1,0,0,-3,0,2.70805020110221,1,-0.0065250783484701,learned,0.0014884704723954,-0.0009785700460358,0,2,0,-7.967553789231654,0.0225451588630676
+-6.1641662820084795,-0.0270762771722815,1,0," He knew that they never left the farm; instead, the world came to them in the shape of weekend picnickers and driveby tourists.
+",-0.0144150629639625,1,1,0,0,0,-3,0,2.901999795891284,0,0.0243695107742379,knew,-0.0003988053649663,0.0078879257559524,0,1,1,-7.57978825822289,-0.0282011777162551
+-6.654018782394191,0.0166759801407655,1,0," she thinks that you lack a serious nature.""
+",-0.0023658573627471,1,1,0,0,0,-3,0,1.9892904446855384,0,0.0334896611360212,thinks,-0.0015268437564373,0.0058601907721737,0,1,1,-10.624310695946313,0.0001084096729755
+-6.542544915931073,-0.003685445391706,1,0," “I didn’t see your lips move at all.”
+",-0.0005964040756225,0,4,1,0,0,-1,0,2.423537703411708,1,-0.0094535551187428,see,-0.0004864707589149,0.0007339368499311,1,2,0,-7.7764985524689445,-0.0016578212380409
+-9.238016334826423,-0.0081292321844087,1,0," Something a little lighter this week, I hope you enjoy it.
+",0.0216772556304931,0,8,0,0,0,-1,0,1.1631508098056809,0,0.0076785173553686,hope,-0.0004162527620792,0.0034006472493126,1,1,1,-8.752508519044722,0.0430216453969478
+-6.654018782394191,0.0481088765474976,1,0," But I think I needed something a little less dark, and there are some quite sombre tales coming up in the coming weeks.
+",0.0650786980986595,0,2,0,0,0,-1,0,1.9892904446855384,0,0.0141725824028253,think,0.0032168217003345,0.0076286990177848,1,1,0,-7.328473829941984,-0.025505818426609
+-7.006658751120745,-0.0533727888667951,1,0," Now, instead of reversing the levers, I had pulled them over so as to go forward with them, and when I came to look at these indicators I found that the thousands hand was sweeping round as fast as the seconds hand of a watch—into futurity.
+",-0.0521152168512344,0,31,1,0,0,-6,0,2.9245047642656234,0,0.0034734214777006,found,0.0003120061010122,0.0001948119122326,0,0,0,-11.317457876506259,0.026564747095108
+-7.385632243781933,0.0068380569580656,1,0," Only a slight oily swell rose and fell like a gentle breathing, and showed that the eternal sea was still moving and living.
+",0.0127957537770271,0,14,1,0,0,-7,0,3.5263605246161616,1,0.0047766640440871,showed,0.0015835464000701,0.0038411030639191,0,0,0,-7.7764985524689445,0.0260675102472305
+-9.177391713009987,0.0087181555352321,1,0," There was a sense of oppression in my head, and I noticed that I was breathing very fast.
+",-0.0081460177898406,0,12,1,0,0,-4,0,1.7346010553881064,0,0.0327098447371993,noticed,0.0013535749167203,0.0070529314853079,0,0,0,-12.010605057066204,-0.0149375069886446
+-6.542544915931073,-0.0078042077361559,1,0," “Far away up the desolate slope I heard a harsh scream, and saw a thing like a huge white butterfly go slanting and fluttering up into the sky and, circling, disappear over some low hillocks beyond.
+",0.0025229156017303,0,14,1,0,0,-1,0,2.423537703411708,1,0.0094578622340226,saw,-0.001760821789503,0.0009988598439211,1,7,0,-6.08101591367631,-0.0049162358045578
+-6.542544915931073,-0.0358903472099387,1,0," I could see the many palps of its complicated mouth flickering and feeling as it moved.
+",-0.0108534693717956,0,2,1,0,0,-1,0,2.423537703411708,1,-0.0558085393805811,see,0.0002754088491201,0.0002336118769966,1,7,0,-12.010605057066204,-0.0216348413378
+-9.238016334826423,-5.2756458324809685e-05,1,0," Then there is a big problem on Earth, and the people of Earth forget we are here.
+",-0.0033049285411834,0,14,0,0,0,-1,0,2.0794415416798357,1,0.0028036074625731,forget,-0.0005903504788875,0.0021180918498888,1,1,1,-5.862136761148557,-0.0078867338597774
+-6.199464064089503,-0.0986772249593879,1,0," We said the first people came out of the sun.
+",-0.1064775437116622,1,1,1,0,0,-1,0,1.157180642819177,0,0.0066766433417797,said,-0.0129835382103919,-0.0211418349466373,1,3,0,-6.702337359664999,-0.1309344545006752
+-9.014872783512212,-0.0151675421940652,1,0," I fell asleep thinking about how I wished that the Scathalos outrunners were gone.
+",-0.0034649819135665,0,7,1,0,0,-6,0,2.995732273553991,0,0.0181071690953614,wished,0.0005097314715385,0.0030407226069115,0,0,0,-9.931163515386368,-0.0357061177492141
+-8.576617852581057,-0.0039470096974557,1,0," Most versions in English are called The Chemical Wedding of Christian Rosencreutz, which suggests (and most people who’ve heard of it suppose) that the wedding is Christian’s.
+",0.0014968663454055,1,14,1,0,0,-2,0,3.4339872044851463,0,-0.0098212717352287,suggests,0.0001450814306735,-0.0006801791255933,0,0,0,-11.317457876506259,0.0048837959766387
+-6.542544915931073,0.0104832647660274,1,0," All of a sudden a terrible wind blew up, so strong that I thought the hill my little house was built on would be blown apart – but I’d seen the Devil do things as bad as this before (the Devil had often tried to harm me), so I took heart and went on meditating.
+",0.0138377398252487,0,31,1,0,0,-1,0,2.423537703411708,1,0.0067741152202387,seen,-0.0008012950420379,0.0023261037176914,1,2,0,-6.20246256708576,0.0177756547927856
+-7.405434871078112,0.0496024571867151,1,0," Till I felt somebody touch me on the back.
+",0.003712385892868,0,2,0,0,0,-1,0,3.2188758248682006,0,0.0827109701724516,felt,-0.0034773871302604,0.0168403151785563,1,1,1,-8.752508519044722,0.0038057640194892
+-7.405434871078112,-0.0067783698592095,1,0," I felt my coat tugged at, and tugged again, and at last I looked around.
+",-0.0038314834237098,0,1,1,0,0,-1,0,3.2188758248682006,0,0.0002589783284301,felt,-0.0016106832772493,0.0010626224243507,1,2,0,-10.624310695946313,-0.0074110776185989
+-7.006658751120745,0.0148378804609267,1,0," I found that the lion, in place of his sword, now held a rather large plaque.
+",0.0116808712482452,0,1,1,0,0,-3,0,2.9245047642656234,0,0.0054811105752984,found,-0.0012456867843866,0.0023785603647462,0,3,0,-8.003271871833732,0.0063379313796758
+-7.328473829941984,0.0002310062145702,1,0," Examining this, I could tell that it had been taken from those ancient monuments I’d seen and put here for some special reason.
+",0.0055768899619579,0,5,1,0,0,-3,0,2.890371757896165,1,0.0052118823075523,tell,-0.0010909214615821,0.0039415579724831,0,0,0,-6.419618076555347,0.0116594657301902
+-8.966082619342782,0.0053579416746895,1,0," The Independent reported self-medicating ants a first among insects.
+",-0.058730054517365,0,2,1,0,0,-1,0,2.3513752571634776,1,-0.0664106233884672,reported,0.0018148329108953,-0.0457605369526979,1,4,0,-12.010605057066204,0.1185077186673879
+-6.1641662820084795,-0.0056462491179858,1,0," This means the experimenter doesn't know which ants belong to which treatment, so it's impossible to influence the results with 'observer bias'.
+",-0.0069561153650283,0,6,1,0,0,-1,0,2.901999795891284,1,-0.0041214142467886,know,-0.001048038713634,-0.0001186236773068,1,2,0,-9.708019964072157,-0.0020681917667388
+-8.139404046158313,-0.0119394464011507,1,0," I remember going into Hollywood Magic and wanting that big red box with the dragons on it and I didn't even know what it did.
+",-0.0063315629959106,0,1,1,0,0,-1,0,1.791759469228055,0,-0.0156790829616887,remember,-0.0032643303275108,-0.0057273038867475,1,0,0,-6.08101591367631,-0.0156271681189537
+-6.542544915931073,0.0057912708998754,1,0," Moreover, seeing someone perform on the internet takes away the use of our senses, originality and imagination that reading and thinking about magic can produce.
+",0.0058031901717185,0,2,0,0,0,-1,0,2.423537703411708,1,-0.0022122027659834,seeing,0.000300420448184,0.0025441636104055,1,1,1,-9.120233299170039,0.0115882605314254
+-8.678400546891,0.0054033572805372,1,0," And the head of NATO, Hoop Scheffer, he has explained that NATO must take on responsibility for ensuring the security of pipelines and sea lanes, that is NATO must be a guarantor of energy supplies for the West.
+",0.0009365975856781,0,11,1,0,0,-4,0,2.639057329615259,1,0.0073257028588638,explained,-0.0002667475491762,0.0013060790695463,0,0,0,-6.419618076555347,0.001604301854968
+-6.654018782394191,-0.006407174427589,1,0," Santorum the person has been in the news throughout the primary season, and we thought it would be interesting to try to create a delicious drink that mimicked the appearance of the Dan Savage meaning of ""santorum.""
+",-0.0012733414769172,1,15,1,0,0,2,0,1.9892904446855384,0,0.0045053130567042,thought,-0.0007715392857789,0.0024946640613215,1,0,0,-10.218845587838148,-0.0023739486932754
+-6.654018782394191,-0.00323221812235,1,0," Do you think it was an appropriate form of satire for Dan Savage to popularize the definition of the santorum neologism created in his advice column?
+",0.0809548497200012,0,2,1,0,0,1,0,1.9892904446855384,1,-0.0072404179001046,think,-0.0005301050841808,-0.0039962931199544,1,0,0,-9.612709784267834,0.1617506928741932
+-6.654018782394191,0.0178483629209641,1,0," Did you think when you created it that the Santorum cocktail would receive this news coverage?
+",8.96751880645752e-05,0,2,1,0,0,-6,0,1.9892904446855384,1,0.0264494591871933,think,0.0001428835093975,0.0040561276872379,0,0,0,-8.272935438782836,0.0003345124423503
+-8.203942567295885,-0.057725504040718,1,0," What was your first reaction upon learning there was an undiscovered ecosystem under the ice in the Ross Sea?
+",-0.0660422891378402,0,6,1,0,0,-1,0,2.70805020110221,1,-0.0094014657808563,learning,0.0005068238824605,-0.0067727229178375,1,10,0,-5.862136761148557,-0.0558731257915496
+-9.066166077899764,-0.004857893072948,1,0," Although I am sure that being there would enhance my understanding of the animals and the system in which they live, and would help me formulate more and better questions about the anemones, ship time is expensive, especially in Antarctica, and if there are biologists whose contribution is predicated on being there, they should have priority to be there.
+",-0.0033361501991748,0,3,1,0,0,-5,0,1.845826690498331,1,0.0029961233819657,sure,0.0004907455295324,0.0007673319279197,0,0,0,-10.401167144632103,-0.0068650618195533
+-9.302554855963994,-0.0025511470134469,1,0," By comparing my observations to what my colleagues and predecessors had found, I figured out what group it belongs to, and was able to determine that within that group, it was a new species.
+",0.0093654096126556,0,26,1,0,0,-8,0,2.70805020110221,1,-0.0130543620619285,determine,0.0006573405116796,-0.0026283630460589,0,0,0,-12.010605057066204,3.137253224849701e-05
+-8.139404046158313,0.0096274977539094,1,0," I remember one of our ads that I had put in said, ""If you think nice girls don't do S&M,"" -- I forgot what the rest of it said --
+",0.0043683350086212,0,1,1,0,0,-1,0,1.791759469228055,0,0.0106136253603347,remember,-0.0029082559049129,0.0009758164698141,1,9,0,-6.199464064089503,0.0087477304041385
+-6.654018782394191,0.0021884490694538,1,0," And that ad had pulled so many girls, because they -- I think they all thought that nice girls don't do this.
+",-0.0001066923141479,0,13,0,0,0,-1,0,1.9892904446855384,0,0.002036801800526,think,0.0020606033504009,0.0011195551283827,1,2,1,-6.654018782394191,0.0018522255122661
+-6.654018782394191,0.0001689512134781,1,0," And that ad had pulled so many girls, because they -- I think they all thought that nice girls don't do this.
+",-0.0002693831920623,1,16,1,0,0,-6,0,1.9892904446855384,0,0.0005262554211918,thought,-0.0005972012877464,0.0009917516737202,0,0,0,-6.20246256708576,-0.0011269077658653
+-6.199464064089503,0.0516072884978106,1,0," And a bunch of them had called and they said, ""Wow.""
+",-0.0693143904209137,1,9,1,0,0,-1,0,1.157180642819177,0,0.0020948063582181,said,-0.0019536390900611,0.0056566880748407,1,0,0,-12.010605057066204,-0.1408737078309059
+-6.654018782394191,0.0008466115481603,1,0," And I think I remember, a bunch of guys called because of that also.
+",-0.0033832341432571,0,2,0,0,0,-1,0,1.9892904446855384,0,-0.0162395463868354,think,0.0023062601685523,0.0036752146165675,1,1,0,-8.139404046158313,-0.0067361891269683
+-8.139404046158313,-0.0010114015312865,2,0," And I think I remember, a bunch of guys called because of that also.
+",0.0055496394634246,0,4,1,0,0,-1,0,1.791759469228055,0,0.0026194232904041,remember,0.0024549216032028,0.0047864259070468,1,4,0,-7.1202559288444505,0.0109855532646179
+-9.238016334826423,-0.0091233005183503,1,0," We hope that in time, we will have millions of articles with many of them having featured status.
+",-0.0065274983644485,1,1,1,0,0,-7,0,1.1631508098056809,0,-0.0020224098987572,hope,-0.0016503250226378,-0.0008174556303944,0,0,0,-5.497374946153897,-0.0133135616779327
+-9.612709784267834,-0.0001561963577675,1,0," That said, we are realistic enough to realize that this goal will take decades to achieve.
+",0.0071139484643936,0,8,1,0,0,-5,0,1.7047480922384253,1,0.0055319624405135,realize,-0.0009108707308769,0.0034240596960101,0,0,0,-6.419618076555347,-0.0164597928524017
+-6.654018782394191,0.0219897193900445,1,0," I think that providing people with a practical education is one of the most empowering things you can offer a person.
+",0.0134769678115844,0,1,1,0,0,-9,0,1.9892904446855384,0,0.0177785656959205,think,5.5909156799316406e-05,0.0047973138908095,0,0,0,-7.616155902393765,0.0191869735717773
+-6.654018782394191,-0.0961954236106827,1,0," I think that building a universal how-to manual would be a tremendous gift for the world.
+",-0.0955465584993362,0,1,1,0,0,-3,0,1.9892904446855384,0,0.0122680879544978,think,0.0018393825739622,-0.0084064820367232,0,0,0,-11.317457876506259,-0.1894687712192535
+-7.4673102747962,0.0133109609463385,1,0," However, paying people to write and edit articles ultimately means that you have to make one of two sacrifices.
+",0.0056717917323112,0,10,0,0,0,-3,0,2.751535313041949,1,-0.0175358579347008,means,0.0001162663102149,0.0028275096109701,0,1,1,-5.497374946153897,0.0113555043935775
+-6.654018782394191,-0.0671030185410692,1,0," I wasn't interested in making either of these sacrifices, as I think the world's how to manual needs to be high quality AND comprehensive.
+",0.0695798099040985,0,13,1,0,0,-1,0,1.9892904446855384,0,-0.0058982450615173,think,0.000584652647376,0.0011569576160295,1,6,0,-7.328473829941984,0.004803767427802
+-8.514097495599724,0.1058098523165372,1,0," So ultimately I decided that eHow's model would not build the resource I envisioned.
+",0.1032737344503402,0,3,1,0,0,-7,0,2.803360380906535,0,-0.0301217845339766,decided,0.0009968299418687,-0.0120497312238191,0,0,0,-7.967553789231654,-0.293794110417366
+-8.181963660577109,-0.1252186754119326,1,0," I believe that offering this right to fork has been a key element of our success thus far.
+",-0.1331291794776916,0,1,1,0,0,-3,0,2.03688192726104,0,0.0045828114574154,believe,-0.001074893400073,-0.0106117260317665,0,0,0,-11.317457876506259,-0.0366410352289676
+-6.654018782394191,-0.0976677069445072,1,0," Why do you think the Paralympic movement has so little visibility in the US compared to other countries like Australia, the United Kingdom and even Canada?
+",0.1475687325000763,0,3,1,0,0,-1,0,1.9892904446855384,1,0.0143789479178844,think,0.0006030239164829,-0.0009385552083338,1,3,0,-5.497374946153897,0.295500461012125
+-8.139404046158313,-0.0552361967242372,1,0," Remember that there is a nine-hour difference between Sochi and New York, and a 12-hour difference between Sochi and the US West Coast.
+",-0.0583331137895584,0,0,1,0,0,-3,0,1.791759469228055,1,0.004564199851419,Remember,-5.427747964859009e-06,-0.0018867153387482,0,24,0,-5.862136761148557,0.0074021145701408
+-6.654018782394191,-0.0172812135226425,1,0," I think that a vibrant public domain is very important to a healthy world, and so I thought: here's a way to help the cause.
+",-0.01530322432518,0,1,1,0,0,-8,0,1.9892904446855384,0,0.0032988483788161,think,0.0002666059881448,0.0009237966127474,0,0,0,-8.609407675404048,-0.0019528269767761
+-7.006658751120745,-0.0793782376792656,1,0," Browsing the catalog, I find that the quality of the spoken audio varies greatly from text to text or even from chapter to chapter.
+",-0.0805176794528961,0,5,1,0,0,-3,0,2.9245047642656234,0,0.009655612571287,find,0.0006003361195325,-0.0053846152741396,0,6,0,-9.302554855963994,0.0225809812545776
+-8.966082619342782,0.0201605583585443,1,0," You'll note we offer a couple of versions of some books.
+",0.0317424684762954,0,2,0,0,0,-1,0,1.6582280766035324,1,0.0027692834386131,note,0.0020718835294246,0.0058386358752684,1,1,1,-8.226415423147943,0.0589912496507167
+-7.006658751120745,-0.0066602706227559,1,0," we find it makes things clear and easy to say: published works, public domain, and leave it at that.
+",0.0069426298141479,1,1,1,0,0,-1,0,2.9245047642656234,0,0.0187305372664815,find,-0.0036685112863779,0.0035199654846775,1,14,0,-6.086349259651672,-0.0023430585861206
+-6.199464064089503,-0.019881301211949,2,0," we find it makes things clear and easy to say: published works, public domain, and leave it at that.
+",-0.0127766653895378,0,9,1,0,0,-1,0,1.157180642819177,1,0.0092345917001072,say,-0.0008558388799428,0.0013690417135942,1,0,0,-12.010605057066204,-0.0213289111852645
+-6.654018782394191,0.0243019307885939,1,0," We just didn't play as well as we thought we would.
+",0.017753928899765,1,9,0,0,0,-1,0,1.9892904446855384,0,0.010912979917512,thought,0.0001446977257728,0.0032084510834864,1,1,1,-9.525698407278204,0.035642422735691
+-7.4673102747962,0.0024712898421597,1,0," So the World Cup is ... it's good to be able to do well at the World Cup, to be placed, but it also means that you get a really good opportunity to know where you're at in that two year gap between the Paralympics.
+",0.0014283657073974,1,27,0,0,0,-3,0,2.751535313041949,0,0.0016513182653224,means,0.0002860594540834,0.0002505231088705,0,1,1,-6.236053511521796,0.0030729938298463
+-6.1641662820084795,-0.0074239341666301,1,0," Do you know what it's like to be chased by the Ghost of Failure while staring through Victory's door?
+",-0.0114619731903076,0,2,1,0,0,2,0,2.901999795891284,1,-0.0111537829270937,know,-0.0034739337861537,-0.0036232378955155,1,0,0,-7.405434871078112,-0.0229666233062744
+-8.347043410936557,-0.0367078137873061,1,0," Cheer the team today; (your boys in orange and blue) Let them hear you shout as they fight for what's mightily due
+",-0.0245434194803237,0,15,0,0,0,-1,0,1.3609765531356008,1,0.0264564300074227,hear,-0.0047432035207748,0.0061443442223354,1,1,1,-10.624310695946313,-0.0512469112873077
+-6.199464064089503,-0.0053376700063901,1,0," Then earlier this year these shirts started to come out that said, ""Poet says We Know"".
+",-0.0005295500159263,1,11,1,0,0,-1,0,1.157180642819177,0,0.0006948909550709,said,-0.000642173923552,0.0031544480605222,1,1,0,-6.199464064089503,0.0509843528270721
+-6.199464064089503,-0.0187058838660872,1,0," Then earlier this year these shirts started to come out that said, ""Poet says We Know"".
+",-0.0137035176157951,0,15,0,0,0,-1,0,1.157180642819177,1,0.0053887333083701,says,-0.0011293739080429,0.0017112380220397,1,1,1,-6.1641662820084795,-0.0045322179794311
+-6.199464064089503,-0.0089847581510088,1,0," With tears in her eyes she said, ""Thank you, Mets Poet, thank you.""
+",-0.0093595832586288,1,6,1,0,0,-1,0,1.157180642819177,0,-0.0050985378251351,said,-0.0001372583210468,2.0715925671419e-05,1,0,0,-8.752508519044722,-0.0935841500759124
+-6.199464064089503,-0.1121898274868726,1,0," In an interview with Terry Gross, Stephen Colbert said of his time at Second City that they had decided on not doing political humor and, in particular, hackneyed political humor such as Ted Kennedy drinking jokes.
+",-0.0150479859310155,0,9,1,0,0,-4,0,1.157180642819177,1,-0.0085063371795396,said,-0.0014857221394777,-0.0042890066396157,0,0,0,-8.514097495599724,0.0851087123155593
+-6.654018782394191,-0.0413465564061577,1,0," I think it’s important we have an original take on those things.
+",-0.0400607734918594,0,1,1,0,0,1,0,1.9892904446855384,0,0.0055527573007912,think,-0.0029158871620893,-0.0021305245895887,1,0,0,-8.609407675404048,-0.0816520750522613
+-6.654018782394191,0.0043398196256559,1,0," Mr. President, as a Nobel Peace Prize recipient and as one of the fathers of the modern peace process in Israel, do you still think that there is a future to the peace process?
+",0.0067035481333732,0,26,1,0,0,-3,0,1.9892904446855384,1,0.0023912840631899,think,-0.0039229057729244,0.0012798618814084,0,6,0,-5.862136761148557,0.0134006589651107
+-7.4673102747962,-0.0001850744571398,1,0," Customs cannot check what a scientist has in his mind, they can see what he has in his pocket but not what he has in his mind so it’s uncontrolled; it means that borders aren’t important and distances aren’t important.
+",0.0041499808430671,1,35,1,0,0,-5,0,2.751535313041949,0,0.0066279513233586,means,-0.0016057724133133,0.0016978149882262,0,0,0,-8.609407675404048,-0.0136070549488067
+-6.654018782394191,-0.0686682998287406,1,0," They think that modernity may endanger their tradition.
+",-0.021108865737915,1,1,1,0,0,-4,0,1.9892904446855384,0,0.064478741130895,think,-0.0033116322010755,0.0099151020076999,0,0,0,-12.010605057066204,0.0923300981521606
+-6.542544915931073,-0.0584107977524399,1,0," It’s limitless, and you’ll see that the GNP of Israel is very close to the Saudis’.
+",-0.0662004053592681,0,7,1,0,0,-8,0,2.423537703411708,1,-0.001464801961556,see,-0.0004489086568355,-0.0012075673626826,0,0,0,-9.612709784267834,-0.0971595253795385
+-9.066166077899764,0.03554860465704,1,0," I am sure that the reasons for war are over, even though still there are wars which are an inertia from the past, a continuation that doesn’t make sense.
+",0.0372005254030227,0,2,1,0,0,-7,0,1.845826690498331,1,-0.0058889189912449,sure,-0.0006662514060735,0.0029429749239775,0,0,0,-8.919562603707888,-0.0036007985472679
+-6.654018782394191,0.0377865608057214,1,0," Why do you think it is so?
+",0.1411088669103617,0,3,0,0,1,-1,0,1.9892904446855384,1,0.0183032375228192,think,0.0002999529242515,-0.0005538243035655,1,1,0,-5.862136761148557,0.408729039132595
+-6.654018782394191,-0.0053679989376926,1,0," First of all I think maybe they have bad teachers, which is a problem.
+",0.0029954761266708,0,4,0,0,0,-1,0,1.9892904446855384,0,0.0063064770385002,think,0.001290651038289,0.0049691736557931,1,1,1,-5.497374946153897,0.0059466063976287
+-9.177391713009987,-0.0064923203183314,1,0," Also when I talk mathematics I notice the language is very important in mathematics and I actually notice that many times people fail in mathematics because they don't know how to write a composition.
+",-0.0046661496162414,0,17,1,0,0,-3,0,1.7346010553881064,0,-0.0047159882446935,notice,0.0010008551180362,-0.0002343830889282,0,1,0,-9.177391713009987,-0.00833585485816
+-9.177391713009987,-0.0046309396003683,1,0," And then I noticed that I cheat a little bit when I write them down.
+",0.0190855264663696,0,3,0,0,0,-3,0,1.7346010553881064,0,0.0363946586492515,noticed,0.00298323482275,0.0059313698995213,0,1,0,-12.010605057066204,0.0380233526229858
+-6.654018782394191,0.0171417998783237,1,0," So instead of documenting the dreams it gradually became also like adding creational elements, and I think that somehow through writing my dreams I gradually came to writing, also poems, but mainly stories.
+",0.022431805729866,0,17,0,0,0,-3,0,1.9892904446855384,0,0.0049587334548165,think,-0.0010812655091285,0.0042177682450926,0,1,0,-6.702337359664999,0.0064907371997833
+-6.654018782394191,-0.1382516012527048,1,0," I think that in this kind of structure there is a very gradual clarification of the relationship and the forth going on.
+",-0.0761050766902928,0,1,1,0,0,-3,0,1.9892904446855384,0,0.0125005704863671,think,-0.0018911063671112,-0.0085752868769145,0,12,0,-5.862136761148557,-0.046602725982666
+-6.199464064089503,-0.1555469350629102,1,0," I should have said above that this is the first ""solid"" sample return mission —
+",0.0011154973310465,0,3,1,0,0,-4,0,1.157180642819177,1,-0.0294427967397496,said,-0.000457227230072,-0.0235643753528949,0,0,0,-10.218845587838148,0.1255317907780408
+-9.238016334826423,-0.0688032036077003,1,0," I should mention parenthetically that there is a fantastic launch video — taken from the POV of the rocket on the JPL Stardust website — highly recommended — best I've ever seen — all the way from the launch pad, too.
+",-0.0875608474016189,0,2,1,0,0,-4,0,2.772588722239781,1,0.0164920672090077,mention,0.0008035376667976,-0.0095163695338602,0,36,0,-5.862136761148557,0.016158252954483
+-6.1641662820084795,-0.008195599342568,1,0," This is a big challenge because they are very small (order of micron in size) and are somewhere (we don't know where) on a HUGE collector — at least on the scale of the particle size — about a tenth of a square meter.
+",-0.0010863915085792,0,24,1,0,0,-1,0,2.901999795891284,1,0.0094381366181896,know,0.0005992334336042,0.0003384570712385,1,0,0,-10.624310695946313,0.0081111043691635
+-9.177391713009987,-0.0200613739453406,1,0," He estimated that there should be around 45 particles, but this number is very uncertain — I wouldn't be surprised if it is quite different from that.
+",-0.0109993889927864,1,1,1,0,0,-2,0,2.833213344056216,0,0.0126289125431769,estimated,0.0001430436968803,0.0017816170668688,0,0,0,-5.862136761148557,0.0094529241323471
+-6.1641662820084795,0.0490191392036098,1,0," There is a wonderful quote attributed to Einstein — ""If we knew what we were doing, it wouldn't be called ""research"", would it?""
+",-0.0580313205718994,1,12,1,0,0,2,0,2.901999795891284,0,0.0109024937864336,knew,0.0012185201048851,0.0058525541026134,1,0,0,-6.20246256708576,-0.0982930622994899
+-7.385632243781933,-0.0007155391883539,1,0," ""We are so interested because we find a big chance to show the talent and ability of Afghans,"" team member Rodaba Noori told the press, ""to show that Afghan women can make robots too and we can improve in this section — [the] robotics section.
+",1.1205673217773438e-05,0,31,1,0,0,-5,0,3.5263605246161616,1,-0.0039853198309538,show,-0.0080156475305557,-0.0020924064867421,0,0,0,-6.086349259651672,-0.0107845216989517
+-6.199464064089503,-0.0024905996587203,1,0," Citing privacy rules, U.S. officials have not said why the team was initially denied visas, but Afghan Ambassador Hamdullah Mohib says there were concerns they would attempt to remain in the United States or in Canada after the contest.
+",-0.0020190104842185,0,22,1,0,0,-1,0,1.157180642819177,1,-0.0016660008082153,says,-0.0002259686589241,-0.0001610506490921,1,16,0,-5.862136761148557,-0.004588171839714
+-6.199464064089503,-0.0080808123293805,1,0," Major general Fuad Basya, spokesman for the Indonesian military, said fisherman first noticed the people and a warship was deployed to retrieve them.
+",0.0030075684189796,0,11,1,0,0,-1,0,1.157180642819177,1,0.0136276252109498,said,0.0010538734495639,0.0029203499190684,1,1,0,-9.177391713009987,-0.0048521608114242
+-6.199464064089503,0.104826071938019,1,0," The US State Department said John Kerry, the Secretary of State, contacted Thailand's foreign minister over temporary housing for the Rohingya out at sea.
+",0.1012842655181884,0,4,1,0,0,-1,0,1.157180642819177,1,0.0168053184886292,said,0.0004009883850812,0.0061320664138286,1,8,0,-10.401167144632103,0.2029757779091596
+-6.199464064089503,-0.0131240985109185,1,0," Jeff Rathke, the State Department Spokesperson, said, ""We urge the governments of the region to work together quickly, first and foremost, to save the lives of migrants now at sea who are in need of an immediate rescue effort"".
+",-0.0124471671879291,0,8,0,0,0,-1,0,1.157180642819177,1,0.0007707331983727,said,0.0003029853105545,0.0010820041252119,1,1,1,-10.401167144632103,-0.0253683105111122
+-6.654018782394191,0.0806329470647471,1,0," Mohamed brought the digital clock he made to school on September 14, and a teacher mistakenly thought it resembled a bomb.
+",0.0946205407381057,0,17,0,0,1,-1,0,1.9892904446855384,1,0.007515616232728,thought,-0.0005922727286815,0.0104066144867942,1,1,0,-10.624310695946313,0.1525453627109527
+-8.791729232198003,0.035534679647535,1,0," The Deseret News observed that the hashtag on Twitter, #IStandWithAhmed, had become an international phenomenon.
+",0.0652385056018829,0,3,1,0,0,-10,0,2.5257286443082556,1,0.0141838056842486,observed,-0.0007354533299803,0.0036229246209726,0,0,0,-7.556257760812696,0.1340516293421387
+-9.238016334826423,-0.0108365871396566,1,0," ""Hoping that the #istandwithahmed movement translates into a substantive national conversation on race, punishment, and incarceration.""
+",-0.0108901262283325,0,1,1,0,0,-3,0,1.1631508098056809,1,0.0008938200612608,Hoping,0.0018585994839668,-0.0012844383756839,0,3,0,-9.302554855963994,0.0018775537610054
+-6.199464064089503,-0.0093263238774575,1,0," Jafari said she felt Mohamed had been subject to Islamophobia and her hashtag created greater awareness about this issue.
+",0.004193291068077,0,1,0,0,0,-1,0,1.157180642819177,1,0.0138597458171156,said,-0.0011484269052743,0.0050460963132701,1,1,1,-7.405434871078112,0.0179373919963836
+-6.199464064089503,-0.003801593420709,1,0," Executive director of the Dallas chapter of the Council on American - Islamic Relations Alia Salem said Mohamed wishes to use his newfound fame and attention to spotlight social causes including the treatment of Muslims in the United States.
+",-0.0023994445800781,0,16,1,0,0,-1,0,1.157180642819177,1,0.0020972066468036,said,-0.0013422481715679,-0.0010126423145871,1,1,0,-9.014872783512212,-0.0870286226272583
+-6.199464064089503,0.0841885163908364,1,0," Memon also said she believed the social movement in reaction to Mohamed helped improve Muslim / non-Muslim.
+",0.1070132404565811,0,2,0,0,0,-1,0,1.157180642819177,1,0.0098830071965321,said,0.0002617239952087,0.0101496341913655,1,1,1,-8.181963660577109,-0.0093856155872344
+-8.181963660577109,0.0313903696701994,2,0," Memon also said she believed the social movement in reaction to Mohamed helped improve Muslim / non-Muslim.
+",0.0552344173192977,1,4,1,0,0,-1,0,2.03688192726104,0,0.0129306240827732,believed,0.0006045140326023,0.0070445979999253,1,7,0,-8.003271871833732,0.031022697687149
+-9.302554855963994,-0.0027354614369914,1,0," Recent reports have revealed that a defector from the elite group within Scientology called the Sea Org was first persuaded to travel back to a management building for the organization in California, where he was interrogated by an attorney for Scientology and then arrested.
+",-0.0020323991775512,0,3,1,0,0,-16,0,2.70805020110221,1,0.0004767306014605,revealed,0.0001971721649169,-0.0017155937626996,0,0,0,-11.317457876506259,-0.011389285326004
+-7.5679538005758875,-0.0136563172227599,1,0," Rathbun wrote, ""Moxon proceeded to lie to Daniel that the hard drives were never returned, and made a convincing case (not difficult to do with a 19 year old who does not even know the three branches of government) that Daniel would be put behind iron bars for a good long time, UNLESS of course, he returned and cooperated with Moxon and routed out properly.""
+",-0.0106895118951797,0,1,1,0,0,-1,0,3.3440389678222067,1,0.0041662403093533,wrote,-0.0004549454897642,0.0006027081832915,1,1,0,-10.401167144632103,-0.0366103798151016
+-7.328473829941984,-0.0059335227633414,1,0," Steve Whitmore, a representative for the LA Sheriff's office, told LA Weekly in a statement that the case involving Montalvo was being dealt with as charges relating to grand theft.
+",-0.0042082443833351,0,12,1,0,0,-3,0,2.890371757896165,1,0.0026706309875163,told,-0.0007977448403835,0.0002860930171893,0,0,0,-9.612709784267834,-0.0274980813264846
+-9.445655699604668,-0.0204461701851534,1,0," Whitmore stated Montalvo left Scientology-related employment in Los Angeles on September 24.
+",0.0019033104181289,0,1,1,0,0,-1,0,1.466337068793427,1,0.0086264525709008,stated,-0.0011333115398883,0.0028262231371977,1,1,0,-7.57978825822289,-0.0461095571517944
+-9.014872783512212,-0.004881416169566,1,0," On September 29, Scientology officials went to the East Los Angeles sheriff's station where they claimed Montalvo allegedly left the organization with computer hard drives.
+",0.000420942902565,1,17,1,0,0,-1,0,1.6094379124341003,0,-0.0041931961512853,claimed,0.0006906632333993,-0.0010531869651503,1,1,0,-7.57978825822289,0.0007312595844268
+-7.328473829941984,-0.0650077195663058,1,0," Whitmore told LA Weekly that on October 6 after traveling back from Florida, Montalvo ""walked into lobby of the East L.A. station and turned himself in"", and told the police, ""everything he did"".
+",-0.054635502398014,0,1,1,0,0,-5,0,2.890371757896165,1,0.0208592521462668,told,-0.0017948746681213,0.0061623314054359,0,1,0,-8.544869154266477,0.0311491265892982
+-9.445655699604668,-0.0086097514168137,1,0," Whitmore stated to LA Weekly that the alleged crime involved five hard drives each of $ 200 in value.
+",0.0188425481319427,0,1,1,0,0,-6,0,1.466337068793427,1,0.0313060841301366,stated,-0.0005720183253288,0.0073043664382149,0,3,0,-8.609407675404048,0.0274852514266967
+-7.385632243781933,0.0141414508872637,1,0," The results show the anti-establishment camp successfully maintained a majority in the geographical constituencies' seats thus veto power to any members' bills, and also a minority larger than a third to veto any bills featuring major political reforms.
+",0.0220318958163261,0,2,1,0,0,-1,0,3.5263605246161616,1,0.0043858936200229,show,0.0014207065105438,0.0005549211057314,1,3,0,-9.177391713009987,0.0003058761358261
+-6.542544915931073,-0.0171499965422232,1,0," The finals saw US team Cloud9 and Immortals, from Brazil, face off in Counter-Strike: Global Offensive.
+",-0.0089367106556892,0,2,1,0,0,-1,0,2.423537703411708,1,0.0035325979166056,saw,-0.0009606666862964,-8.394000396580448e-05,1,9,0,-8.832551226718259,-0.018053688108921
+-6.199464064089503,-0.0087030939633647,1,0," New Zealand's Prime Minister John Key said he believes redesigning the flag now has a ""strong rationale"".
+",0.0073077380657196,0,7,0,0,0,-1,0,1.157180642819177,1,0.0136127693112939,said,-0.0004893820732831,0.0063965506854793,1,1,1,-8.181963660577109,0.0180587470531463
+-7.006658751120745,-0.0113056713348967,1,0," The New Zealand government intends to hold two referendums to reach a verdict on the flag, at an estimated cost of NZ $ 26 million, although a recent poll found only a quarter of citizens favoured changing the flag.
+",-0.0033457726240158,0,31,1,0,0,-1,0,2.9245047642656234,1,0.0166403257317948,found,0.0021361298859119,0.0042986993047807,1,5,0,-12.010605057066204,-0.0059485137462615
+-8.203942567295885,0.0343720274368444,1,0," Wikinews has learned that according to an Internet posting made just over 24 hours ago, the Church of Scientology's website is being attacked by hackers, causing the site to shut down.
+",0.0408240109682083,0,2,1,0,0,-3,0,2.70805020110221,1,-0.0006094696477819,learned,0.0006551146507263,0.0036539238381715,0,0,0,-9.238016334826423,0.0226718485355377
+-8.678400546891,0.0227099440139517,1,0," The ""History"" section of the site explains, in a satirical fashion, that the incident was prompted by the Church of Scientology's attempts to remove a promotional video featuring Scientologist Tom Cruise from YouTube.
+",-0.0216662287712097,0,8,1,0,0,-5,0,2.639057329615259,1,-0.0033487206813311,explains,0.0004807654768228,-0.0019755410883637,0,0,0,-10.06469490801089,-0.0426933225244283
+-9.445655699604668,-0.010246585764436,1,0," Though YouTube is complying with the Church of Scientology's requests to take down the video, other sites such as Gawker.com have stated that they will keep hosting the video.
+",-0.0080394446849823,0,23,1,0,0,-4,0,1.466337068793427,1,0.0019032026182401,stated,-0.0002517215907573,0.0006904731539962,0,0,0,-7.628578422392322,0.0016053318977355
+-7.5679538005758875,-0.0168167357897441,1,0," The poster wrote that ""Prompted I think by the Tom Cruise video, a new obsession is taking hold on the internet. An insurgency against The Church of Scientology.""
+",-0.0015817284584045,0,2,1,0,0,-16,0,3.3440389678222067,1,-0.0289204897858472,wrote,-0.0013285707682371,-0.0068512263686704,0,0,0,-6.419618076555347,-0.0019994806498289
+-8.966082619342782,-0.0262452579566582,1,0," Some individuals reported that when they are able to reach the site, all they get is a message stating, ""The word scientology means search for truth ..."".
+",-0.0146918967366218,0,2,1,0,0,-15,0,2.3513752571634776,1,0.0164974463105229,reported,-0.0001233480870723,0.0064954675117165,0,0,0,-12.010605057066204,0.1617780774831771
+-9.445655699604668,0.0022116844691023,2,0," Some individuals reported that when they are able to reach the site, all they get is a message stating, ""The word scientology means search for truth ..."".
+",0.0033006742596626,0,19,1,0,0,-1,0,1.466337068793427,1,-0.0015648694114623,stating,0.0011097993701696,-0.0009646294934225,1,3,0,-7.4673102747962,-0.0061915963888168
+-7.5679538005758875,-0.0048591432849545,2,0," Posts on the message board for the Scientology-critic site Operation Clambake from Friday theorized that a denial-of-service attack had occurred, and wrote that as of Friday the Scientology.org site was either not loading at all, or loading very slowly.
+",0.0011308789253234,0,28,1,0,0,-9,0,3.3440389678222067,1,-0.0004012452577698,wrote,-0.0011790487915277,0.0002439998518115,0,0,0,-10.06469490801089,-0.0450507402420043
+-6.199464064089503,-0.0011509621491989,1,0," The Internet security firm Secunia.com, has said that as of March 4, 2011, IE6 has 277 vulnerabilities; 39 percent of these are rated ""highly critical"".
+",-0.0003556311130523,0,7,1,0,0,-3,0,1.157180642819177,1,-0.0007740286217849,said,0.000615868717432,-0.0007209083788338,0,1,0,-5.497374946153897,-0.000867273658514
+-6.199464064089503,-0.1193884277051049,1,0," Microsoft says that the latest versions of Internet Explorer provide the user with enhanced protection from these attacks and threats.
+",-0.1251625269651413,0,1,1,0,0,-3,0,1.157180642819177,1,0.0077032264665161,says,0.0001040250062942,-0.0015504728161343,0,6,0,-7.603885809801951,0.168748527765274
+-9.014872783512212,-0.0510911367353841,1,0," Australian woman claims Church of Scientology imprisoned her for twelve years
+",-0.0482218749821186,0,2,1,0,0,-1,0,1.6094379124341003,1,0.0036769796332175,claims,0.0007984191179275,-0.0033406045528192,1,3,0,-10.624310695946313,-0.0978983417153358
+-9.014872783512212,-0.00292763151592,1,0," Valeska Paris, an Australian woman and former Scientologist, has claimed that the Church of Scientology imprisoned her for twelve years aboard the Scientology - owned cruise ship, Freewinds.
+",0.0084543228149414,0,11,1,0,0,-3,0,1.6094379124341003,1,0.0201792189570528,claimed,0.0002600289881229,0.0063956954581391,0,4,0,-10.624310695946313,0.0158510208129882
+-9.014872783512212,0.0347056076277322,1,0," Paris also claims that her passport was taken away from her and she was forced to work in the engine room.
+",0.044985806569457,0,2,1,0,0,-5,0,1.6094379124341003,1,0.0033955347635561,claims,-0.0008619129657745,0.0072943051213674,0,0,0,-6.419618076555347,0.0482760183513164
+-7.328473829941984,0.0249803961416932,1,0," I was basically hauled in and told that my mum had attacked the church and that I needed to disconnect from her because she was suppressive. Valeska Paris
+",0.0209914445877075,0,6,1,0,0,-5,0,2.890371757896165,1,-0.0040141322439716,told,0.000162448734045,0.0014410972862755,0,0,0,-9.238016334826423,0.0421179197728633
+-7.328473829941984,-0.0355517675586301,1,0," I was basically hauled in and told that my mum had attacked the church and that I needed to disconnect from her because she was suppressive.
+",0.0645973199409479,0,6,1,0,0,-5,0,2.890371757896165,1,-0.0101696980837273,told,-0.0011144988238811,-0.0103804847905373,0,0,0,-9.238016334826423,0.0415676664561033
+-9.014872783512212,0.0083766144222368,1,0," Paris claims that she was kept at Flag Land Base in Clearwater, Florida until she was eighteen and then transferred to the Freewinds.
+",0.013113273307681,0,1,1,0,0,-4,0,1.6094379124341003,1,0.0021308178262535,claims,-0.0022468175739049,0.0035411714141346,0,0,0,-7.628578422392322,-0.0410644076764583
+-9.014872783512212,0.0013185362966562,1,0," On board the Freewinds, Paris claims that she was working from 6:00am to midnight and due to lack of sleep ended up being a walking zombie.
+",-0.0011074915528297,0,6,1,0,0,-4,0,1.6094379124341003,1,-0.0044230246294905,claims,0.0021240497007966,0.0008817449851999,0,0,0,-7.510795386735939,-0.0023294240236282
+-9.014872783512212,-0.1719677913835958,1,0," She also claims that in 1997 and 1998, she was tasked with removal of asbestos from the ship.
+",-0.1830508261919021,1,2,1,0,0,-9,0,1.6094379124341003,0,0.0095860154765565,claims,0.0006065517663955,-0.0168637139769508,0,0,0,-12.010605057066204,-0.2072494328022003
+-9.014872783512212,-0.0061933692028889,1,0," They also claimed Paris was a volunteer and claim she has a vested interest for misrepresenting her experiences with the Church.
+",0.005662553012371,0,8,0,0,0,-1,0,1.6094379124341003,1,0.0196281235696126,claim,0.0001176800578832,0.0043279368655348,1,1,1,-5.497374946153897,-0.0076962411403656
+-9.014872783512212,-0.0742805484313886,1,0," The Church also claims that Paris not having her passport was maritime procedure.
+",-0.0537252500653266,0,3,1,0,0,-8,0,1.6094379124341003,1,0.0370347771483162,claims,0.000917138531804,0.0094402215282433,0,0,0,-12.010605057066204,-0.092322900891304
+-8.791729232198003,-0.0715767503670621,1,0," Wilkins observed that the 2007 starting date of the donation program, which is part of the Andy Warhol Foundation for the Visual Arts, coincided with the 20th anniversary of Andy Warhol's death in 1987.
+",-0.0686609260737896,0,1,1,0,0,-3,0,2.5257286443082556,1,0.0124621285627094,observed,0.0025521516799926,-0.0031418095956255,0,22,0,-10.911992768398093,-0.0504460558295249
+-6.199464064089503,0.0063091877021245,1,0," K.C. Maurer, chief financial officer and treasurer at the Andy Warhol Foundation, said 500 institutions received the initial invitation and currently 190 universities have accepted one or more donations.
+",0.0066252648830413,0,14,1,0,0,-1,0,1.157180642819177,1,-0.0016024507143095,said,-0.0010015573352575,0.0006208987463856,1,2,0,-8.272935438782836,0.018390953540802
+-6.542544915931073,-0.0271820556037678,1,0," For example, the Weatherspoon Art Museum at the University of North Carolina at Greensboro saw attendance levels reach 11,000 visitors when it exhibited its Warhol collection in 2010, according to curator Elaine Gustafon.
+",-0.0220856815576553,0,15,1,0,0,-1,0,2.423537703411708,1,0.0113398445345221,saw,-0.0015094820410013,0.0010563795868304,1,2,0,-9.302554855963994,-0.074613869190216
+-8.678400546891,-0.0155603668418496,1,0," Wilkins explained Warhol's obsession with celebrities began when he first collected head shots as a kid and continued as a passion throughout his life.
+",0.0002844035625457,0,1,1,0,0,-1,0,2.639057329615259,1,0.0281806341852874,explained,-0.0020311484113335,0.0032921783643392,1,5,0,-7.9330676131604845,-0.0228515267372131
+-8.791729232198003,-0.0839176838281293,1,0," Wikinews observed the USI exhibit identifies and features Polaroids of fashion designer Halston, a former resident of Evansville.
+",-0.0856081247329711,0,1,1,0,0,-1,0,2.5257286443082556,1,0.0046231542843953,observed,0.0023898519575595,-0.0024798030647054,1,3,0,-8.752508519044722,0.0541010200977325
+-6.199464064089503,-0.0055712181827093,1,0," Cynthia Thompson, curator and director of exhibits at the University of Arkansas, Fayetteville, said, ""These images serve as documentation of people in his every day life and art - one which many of us enjoy a glimpse into.""
+",-0.0028772093355655,0,16,1,0,0,-1,0,1.157180642819177,1,0.0041242733616709,said,0.000384522601962,0.0006700803995978,1,2,0,-8.139404046158313,0.008669190108776
+-6.654018782394191,0.0105894581596255,1,0," ""I think everybody knows Andy Warhol's name, even non-art people, that's a name they might know because he was such a personality"", Water said.
+",1.9729137420654297e-05,0,2,0,0,0,-1,0,1.9892904446855384,0,0.0171076437128377,think,-0.0007222816348075,0.0056817809786937,1,5,1,-6.1641662820084795,-0.0006896182894706
+-6.199464064089503,0.0008474903957297,1,0," Wilkins said,"" [Warhol] liked the way photo booths and the Polaroid's front flash looked"".
+",-0.0033496748656034,0,1,1,0,0,-1,0,1.157180642819177,1,-0.0146358055906181,said,-0.0002065487205982,-0.0071732321156316,1,3,0,-7.8362177871705665,0.0123828388750553
+-6.654018782394191,0.0879796071751424,1,0," ""I thought that in real life it was really kind of magical,"" Allton said.
+",-0.0872968101305002,0,2,1,0,0,-8,0,1.9892904446855384,0,0.0053347536100963,thought,-0.0004862900823354,0.0075104747119122,0,0,0,-12.010605057066204,-0.2091580983251333
+-7.006658751120745,0.0047776874489885,1,0," The scientists found reduction of crop yields by 2050 exceeded 10% of 2000 levels, substantially decreasing food security, in all cases examined.
+",0.0116394758224487,0,2,1,0,0,-1,0,2.9245047642656234,1,0.0087282025173009,found,0.0010505989193916,0.0006125941296798,1,6,0,-11.317457876506259,0.0129323676228523
+-7.385632243781933,-0.0074101729443577,1,0," Results of NCLAN studies, published in a paper by AS Heagle in 1989, show dicot species, such as soybean, cotton, and peanut, lose more yield from ozone than do monocot species such as sorghum, field corn, and winter wheat.
+",-0.0038008764386177,0,15,1,0,0,-1,0,3.5263605246161616,1,0.006320127007087,show,0.0029721036553382,0.0002559612712733,1,12,0,-8.226415423147943,-0.0081796795129776
+-7.006658751120745,-0.050297350232445,1,0," The researchers found that ozone pollution caused 46 percent of previously heat-attributed damage to soybean crops.
+",-0.0201131999492645,0,2,1,0,0,-3,0,2.9245047642656234,1,0.0478525773916197,found,-0.0006186198443174,0.0127916888541574,0,2,0,-8.484244532450042,0.0207206178456544
+-8.966082619342782,-0.0498010373722093,1,0," Heald noted the findings show pollution reduction is also important.
+",-0.0072466507554054,0,1,1,0,0,-1,0,1.6582280766035324,1,0.0473099126706294,noted,-0.0015153363347053,0.0004801421666139,1,2,0,-7.385632243781933,0.0228390395641326
+-8.181963660577109,-0.0081639826337817,1,0," We believe that the commitments set up in the framework of the Adriatic Charter are also contributing to meet NATO standards, to the benefit of regional stability and security.
+",-0.0052530989050865,1,1,1,0,0,-15,0,2.03688192726104,0,0.0021556704636963,believe,0.0033961199223995,0.000505471068226,0,0,0,-9.612709784267834,-0.0230790078639984
+-8.966082619342782,-0.0323729804748545,1,0," The Albanian Government is pleased to note that an ever-healthier climate of confidence and relations of bilateral and multilateral cooperation are prevailing in the South-Eastern European region.
+",-0.0310219824314117,0,6,1,0,0,-17,0,1.6582280766035324,1,0.0031026072560273,note,-0.0014886911958456,-0.0016832960018642,0,0,0,-12.010605057066204,-0.0468227267265319
+-8.832551226718259,-0.0020205368688515,1,0," We are committed to doing all that is required to ensure that the election process is fully compatible with international standards for free and fair elections.
+",0.0048074871301651,0,10,1,0,0,-7,0,1.5686159179138452,1,0.0126940511740171,ensure,-0.0004005040973424,0.0045168365245119,0,0,0,-12.010605057066204,0.0135251581668853
+-9.371547727450945,-0.0472458484702003,1,0," Those dreams are for India, but they are also for the world, for all the nations and peoples are too closely knit together today for any one of them to imagine that it can live apart.
+",-0.0495788604021072,0,32,1,0,0,-4,0,1.9459101490553135,1,0.0002712400227382,imagine,-0.000430941581726,-0.0017455427059774,0,0,0,-7.967553789231654,-0.0580739472061395
+-7.405434871078112,0.0064604243872543,1,0," Throughout the long and difficult period of Watergate, I have felt it was my duty to persevere, to make every possible effort to complete the term of office to which you elected me.
+",-0.0161854624748229,0,11,1,0,0,1,0,3.2188758248682006,1,0.0161811167251082,felt,0.0005005169659852,0.0036112708724422,1,0,0,-11.317457876506259,0.0149390399456024
+-7.405434871078112,0.0349435271489639,1,0," As long as there was such a base, I felt strongly that it was necessary to see the constitutional process through to its conclusion, that to do otherwise would be unfaithful to the spirit of that deliberately difficult process and a dangerously destabilizing precedent for the future.
+",-0.0400043129920959,0,10,1,0,0,-2,0,3.2188758248682006,0,0.0069382710288269,felt,0.0004188939929008,0.0003282223188016,0,0,0,-10.218845587838148,-0.0353265106678009
+-8.181963660577109,-0.000218643669293,1,0," But with the disappearance of that base, I now believe that the constitutional purpose has been served, and there is no longer a need for the process to be prolonged.
+",-0.0002780854701995,0,10,1,0,0,-3,0,2.03688192726104,0,-0.0010546793684273,believe,0.000403394922614,0.0007382416711971,0,0,0,-8.139404046158313,-0.0001322720199823
+-6.1641662820084795,0.0048162097354746,1,0," But in turning over direction of the Government to Vice President Ford, I know, as I told the Nation when I nominated him for that office 10 months ago, that the leadership of America will be in good hands.
+",0.0044719874858856,0,14,1,0,0,-3,0,2.901999795891284,0,0.0030709730621327,know,-0.0007978342473506,0.0004484586046945,0,0,0,-10.218845587838148,0.0080407001078128
+-9.238016334826423,9.091730135923903e-05,1,0," By taking this action, I hope that I will have hastened the start of that process of healing which is so desperately needed in America.
+",-0.0106169879436492,0,6,1,0,0,-3,0,1.1631508098056809,0,0.018539282904561,hope,0.0009145550429821,0.0058989516786462,0,0,0,-12.010605057066204,-0.0019999332726001
+-6.199464064089503,0.0050276666879653,1,0," I would say only that if some of my judgments were wrong--and some were wrong--they were made in what I believed at the time to be the best interest of the Nation.
+",0.0060788691043853,0,2,1,0,0,-17,0,1.157180642819177,1,0.0002905562782334,say,0.0011451859027147,0.0014574137143793,0,0,0,-6.086349259651672,0.0178822875022888
+-6.199464064089503,0.0049626707032855,1,0," And to those who have not felt able to give me your support, let me say I leave with no bitterness toward those who have opposed me, because all of us, in the final analysis, have been concerned with the good of the country, however our judgments might differ.
+",-6.443262100219727e-05,0,16,0,0,0,-1,0,1.157180642819177,1,0.009315505675244,say,-0.000727517530322,0.0013533240687339,1,1,0,-7.57978825822289,-0.0012637805193662
+-6.199464064089503,-0.0565443688442524,1,0," We must complete a structure of peace so that it will be said of this generation, our generation of Americans, by the people of all nations, not only that we ended one war but that we prevented future wars.
+",-0.0583300739526748,0,12,0,0,0,-18,0,1.157180642819177,1,0.0002477259994955,said,-0.0003519542515277,-0.002528400380718,0,1,1,-8.544869154266477,-0.1165683567523956
+-8.832551226718259,0.0116055100550136,1,0," We must now ensure that the one quarter of the world's people who live in the People's Republic of China will be and remain not our enemies, but our friends.
+",0.0123062133789062,0,3,1,0,0,-5,0,1.5686159179138452,1,-0.0010560195329559,ensure,0.0001171473413705,0.0004643650505536,0,0,0,-12.010605057066204,0.0018593911081552
+-8.181963660577109,-0.0021686903236055,1,0," I can understand why some Republicans may not like it, but, as a Democrat, as one who believes in the Democratic Party, as one who believes that the Democratic Party has meant progress for this city, this State, and this country, I am proud to be here in Philadelphia.
+",-0.0029797554016113,1,29,1,0,0,-6,0,2.03688192726104,0,0.0014477968977933,believes,0.0002309717237949,0.0004425300341593,0,0,0,-7.4673102747962,-3.5937875509262085e-05
+-9.066166077899764,0.0003509044327368,1,0," Everyone expects things of Presidents, but I am not sure that they realize how much depends upon the Members of the House and the Members of the Senate who must make the final judgment on what kind of laws a President must execute.
+",0.0006668344140052,0,10,0,0,0,-3,0,1.845826690498331,1,-0.0020834190227548,sure,0.0008127465844154,0.0011844965998546,0,1,1,-9.612709784267834,0.0003779679536819
+-9.612709784267834,-0.0079359582728809,2,0," Everyone expects things of Presidents, but I am not sure that they realize how much depends upon the Members of the House and the Members of the Senate who must make the final judgment on what kind of laws a President must execute.
+",-0.002665139734745,1,13,1,0,0,-1,0,1.7047480922384253,0,0.0069292524603731,realize,0.0003538019955158,0.0027652600317937,1,0,0,-8.791729232198003,0.0225358456373214
+-6.199464064089503,-0.1352512675162271,1,0," I said, first of all, that I believed in America where work was available to those who were willing and able to work, where the waste of idle men and machines could be avoided, and where greater economic growth could provide the new jobs and the new markets that our growing Nation needed.
+",-0.0655325091081624,0,1,0,0,0,-8,0,1.157180642819177,0,0.0016177550324689,said,0.0327535159885883,-0.0029366823182624,0,1,0,-8.181963660577109,0.1056265272200107
+-9.066166077899764,-0.0183214245021064,1,0," Fully aware of the role of education in a country’s development agenda, I am sure that the new initiatives being undertaken by School of Open Africa, the Creative Commons and UNESCO are making their contribution towards the social, economic, and political pillars which are the three fundamental cornerstones of our country, and indeed for our great continent.
+",-0.0212042480707168,0,16,1,0,0,-19,0,1.845826690498331,1,-0.0047267731955239,sure,0.0001335944980382,-0.0007034646254781,0,0,0,-6.086349259651672,0.0017543733119964
+-6.542544915931073,-0.0029015868047486,1,0," When was the last time anybody saw us beating, let's say, China in a trade deal?
+",0.0008423775434494,1,6,0,0,0,-1,0,2.423537703411708,0,0.004548427422664,saw,-0.0013553965836763,0.0028199005096147,1,1,1,-9.612709784267834,0.0035028159618377
+-6.654018782394191,0.0088390798559397,1,0," We seem to think moral questions have correct answers; that the correct answers are made correct by objective moral facts; that moral facts are wholly determined by circumstances; and that, by engaging in moral conversation and argument, we can discover what these objective facts are.
+",0.0077584832906723,0,3,1,0,0,-1,0,1.9892904446855384,1,-0.0042630419726757,think,0.0001540910452604,0.0007805643930641,1,2,0,-5.497374946153897,0.0295929610729217
+-6.654018782394191,0.0013880179312667,1,0," But as we have seen above, evolutionary theory explains why we would think that moral judgments are objective.
+",-0.0028198659420013,0,13,1,0,0,-5,0,1.9892904446855384,1,0.0038356435408935,think,0.0006314171478152,0.0022161725305418,0,0,0,-10.911992768398093,-0.004905198700726
+-7.385632243781933,0.0235493602655015,1,0," The philosopher Michael Ruse takes this to show that the apparent objectivity of morality is something like an “illusion” foisted on us by our genes (Ruse [1986] 1998, 253).
+",0.0010481178760528,0,7,1,0,0,-8,0,3.5263605246161616,1,0.0266065040223712,show,-0.0009321244433522,0.0074290399630313,0,0,0,-9.066166077899764,-0.000891831703484
+-7.385632243781933,-0.0655510537594491,1,0," Of course, even if Ruse is correct, this does not show that moral judgments are not objective, but it can make us think whether the objectivity of morality really has to be explained, as many philosophers assume.
+",-0.0648240149021148,0,12,1,0,0,-6,0,3.5263605246161616,1,0.0081478788086908,show,0.0001312149688601,-0.0012676444912896,0,0,0,-10.911992768398093,0.0422801030799746
+-8.576617852581057,-0.0025669665305645,2,0," Ruse has also argued that an evolutionary account of morality suggests that there are no moral facts in the first place.
+",-1.2036412954330444e-05,0,10,1,0,0,-3,0,3.4339872044851463,1,-0.0035522118698628,suggests,0.0007192324846982,0.0003793181249783,0,3,0,-5.862136761148557,-0.0001928731799125
+-8.181963660577109,0.0025538265751464,1,0," If moral facts are explanatorily redundant, indeed, moral realists (those who believe there are mind-independent, objective facts about morality, as discussed in Chapter 1) need to say why we should still suppose that moral facts do exist.
+",-0.0024786293506622,1,14,1,0,0,-1,0,2.03688192726104,0,-0.0027372096274413,believe,4.405714571475983e-05,0.0013324911703751,1,14,0,-5.862136761148557,-0.004893472418189
+-8.714768191061875,-0.0003509804036687,2,0," If moral facts are explanatorily redundant, indeed, moral realists (those who believe there are mind-independent, objective facts about morality, as discussed in Chapter 1) need to say why we should still suppose that moral facts do exist.
+",-0.0007756948471069,0,39,1,0,0,-5,0,2.6026896854443837,1,-0.0003223899934364,suppose,0.0001375824213027,0.000500096200282,0,0,0,-8.427086118610093,-0.0012392252683639
+-7.385632243781933,-0.0201302545785667,2,0," Relatedly, Sharon Street, for example, argues that evolutionary explanations of morality show that moral realism is probably false.
+",0.008624330163002,0,14,1,0,0,-6,0,3.5263605246161616,1,0.0402244472295626,show,-0.0001925583928823,0.0083830077134713,0,0,0,-12.010605057066204,0.0031975656747817
+-6.654018782394191,0.0063277292883757,1,0," The kind of moral realism that Street has in mind is the view that moral properties exist as objective features of the world (to wit, whether stealing is wrong is independent of whether anyone thinks or feels that stealing is wrong).
+",0.0125324726104736,1,36,1,0,0,-4,0,1.9892904446855384,0,0.0069835115741962,thinks,0.0001085121184587,0.0018605675158897,0,0,0,-9.813380479729984,-0.0249965470284223
+-9.177391713009987,0.0088085218273575,1,0," In light of the coincidence, we have no reason to assume that our moral judgments are true—an unpalatable conclusion for realists.
+",0.00171959400177,0,11,1,0,0,-6,0,2.833213344056216,1,0.0056263911458225,assume,-0.0003461213782429,0.0038127316238391,0,0,0,-9.445655699604668,-0.0001085372641682
+-9.014872783512212,0.077179329548932,1,0," Claiming that there is a relation, however, is empirically dubious, according to Street.
+",0.0989723578095436,0,0,1,0,0,-3,0,1.6094379124341003,1,-0.0122290565050207,Claiming,0.001112618483603,0.0148400961674908,0,2,0,-5.862136761148557,-0.1705961674451828
+-8.714768191061875,0.0339642432861422,1,0," Suppose that moral realists assume that there is no relation between our moral judgments and the moral facts.
+",0.0446283668279647,0,0,1,0,0,-3,0,2.6026896854443837,1,0.0066206516992104,Suppose,-0.0001585707068443,0.0080775961062923,0,2,0,-9.177391713009987,0.0800860822200775
+-9.177391713009987,0.0062531666241978,2,0," Suppose that moral realists assume that there is no relation between our moral judgments and the moral facts.
+",0.0117647796869277,0,4,1,0,0,-3,0,2.833213344056216,1,0.0024394724812162,assume,-0.0011464487761259,0.0044232837732857,0,10,0,-5.862136761148557,0.0236935913562774
+-9.014872783512212,-0.0808376528752538,1,0," Street claims that such a coincidence would be too much to believe.
+",-0.0845149680972099,0,1,1,0,0,-4,0,1.6094379124341003,1,0.0052932160483165,claims,-0.0072555132210254,0.0124818265072687,0,0,0,-9.066166077899764,0.3092311769723892
+-7.068962634456899,0.2278536034564515,1,0," Given that our moral beliefs are influenced by evolutionary forces, and not by the moral facts, our moral beliefs would be the same even if the moral facts would change.
+",-0.0321784430545801,0,0,1,0,0,-6,0,4.248495242049359,1,0.0018360018204416,Given,0.0007938146591186,0.0099513367890177,0,0,0,-10.218845587838148,-0.283205009996891
+-7.385632243781933,-0.0083750795494733,1,0," But because we should not hold on to such insensitive beliefs, evolutionary explanations of morality show that our moral beliefs are unjustified (because they are not sensitive).
+",-0.0117777958512306,0,16,1,0,0,-6,0,3.5263605246161616,1,-0.0074194410555197,show,0.0002474812790751,-0.0005896216770715,0,0,0,-12.010605057066204,-0.0056359469890594
+-6.542544915931073,-0.0502088185331347,1,0," Once we get into the details, we can see that it also raises deep theoretical questions about evolutionary explanations, the relation of descriptive and normative claims, the epistemology of justification and truth, and the general viability of naturalism in ethics.
+",-0.0517685487866401,0,9,0,0,1,-3,0,2.423537703411708,1,-0.0036669932210779,see,4.416145384311676e-05,-0.0058757915645898,0,1,0,-9.066166077899764,-0.0072090253233909
+-7.006658751120745,-0.0137397444034677,1,0," You will find that each of these is a strong tool that will enable you to engage with learning material in a way that not only suits your needs, but also gives you ownership over your own learning processes.
+",-0.0109071508049964,0,2,1,0,0,-6,0,2.9245047642656234,1,0.0045994482074792,find,-0.0006669424474239,-0.0002576505905863,0,0,0,-11.317457876506259,-0.0231059342622756
+-7.385632243781933,0.0197992281207866,1,0," The study showed that grit and perseverance were better predictors of academic success and achievement than talent or IQ.
+",0.0085653960704803,0,2,1,0,0,-6,0,3.5263605246161616,1,0.0222804085976439,showed,-0.0009515099227428,0.0038025623345806,0,0,0,-11.317457876506259,0.0164300389587879
+-7.006658751120745,0.0353294881836822,1,0," In a 2007 study Duckworth and colleagues found that individuals with high grit were able to maintain motivation in learning tasks despite failures.
+",-0.0473300814628601,0,7,1,0,0,-7,0,2.9245047642656234,1,0.0075755295330199,found,-3.741122782230377e-05,0.0032303229997262,0,0,0,-8.321725602952268,-0.09477517940104
+-7.006658751120745,0.0064789024538587,1,0," You find that while this reinforces some of the knowledge you have gained, it does not ensure you have all the information you will need to do well on the test.
+",0.0064465105533599,0,1,1,1,0,-16,0,2.9245047642656234,0,-0.0028141540312913,find,-0.0003540068864822,0.0003014046093233,0,0,0,-8.832551226718259,0.0018487572669982
+-8.832551226718259,-0.0122577782250752,2,0," You find that while this reinforces some of the knowledge you have gained, it does not ensure you have all the information you will need to do well on the test.
+",-0.0136729031801223,0,17,0,0,0,-1,0,1.5686159179138452,1,-0.0035350799955653,ensure,-0.0001952070742845,-0.000702567209009,1,1,1,-5.497374946153897,-0.0274360477924346
+-6.1641662820084795,0.0157396684369692,1,0," You know that if you simply read the chapters yet again, there is no guarantee you are going to be any more successful.
+",0.0208528190851211,0,1,1,1,0,-3,0,2.901999795891284,0,0.0020720548252912,know,0.0015735533088445,0.0032530946999985,0,10,0,-5.862136761148557,0.0038506090641021
+-9.302554855963994,-0.1003321010958064,1,0," You determine that you need to find a different approach.
+",-0.0068586504655843,0,1,0,1,0,-3,0,2.70805020110221,0,-0.0164437664672732,determine,-0.0003461558371782,-0.0023011091386303,0,1,1,-7.328473829941984,0.0212173741310834
+-7.006658751120745,0.0475207198839131,1,0," In true grit fashion, for your next try, you study those items on your list where you found you needed a bit more information, and then you go through your list again.
+",0.0569378361105918,0,19,0,1,0,-1,0,2.9245047642656234,0,0.0079124718032304,found,-0.0013744048774242,0.0072593315653626,1,1,1,-7.328473829941984,0.0663294345140457
+-8.181963660577109,0.0359846472653005,1,0," Some scholars believe that between nine and fifteen thousand years ago, a land bridge existed between Asia and North America that we now call Beringia.
+",0.0445776954293251,0,2,1,0,0,-3,0,2.03688192726104,1,0.0058361858218198,believe,0.0024663750082254,0.0033553711997497,0,8,0,-8.427086118610093,-0.0326793938875198
+-8.576617852581057,0.0019892896618428,1,0," Recent research along the west coast of South America suggests that migrant populations may have traveled down this coast by water as well as by land.
+",0.007481426000595,0,9,1,0,0,-3,0,3.4339872044851463,1,0.0013207930355117,suggests,0.0003041233867406,0.0019263173586258,0,0,0,-8.791729232198003,0.0115419924259185
+-8.181963660577109,0.0123376755090822,1,0," Researchers believe that about ten thousand years ago, humans also began the domestication of plants and animals, adding agriculture as a means of sustenance to hunting and gathering techniques.
+",0.0219193249940872,0,1,1,0,0,-3,0,2.03688192726104,1,0.0139713917565058,believe,-0.0008371882140636,0.0056934752094878,0,1,0,-7.9330676131604845,0.0213261395692825
+-6.654018782394191,-0.0020035695930828,1,0," Often, people in the United States express disgust at other cultures’ cuisine and think that it’s gross to eat meat from a dog or guinea pig, for example, while they don’t question their own habit of eating cows or pigs.
+",0.0010314360260963,0,15,1,0,0,-2,0,1.9892904446855384,1,0.0047642592654316,think,-2.933107316493988e-05,0.0019373789384083,0,0,0,-11.317457876506259,0.0020640641450881
+-6.199464064089503,0.0510197612126508,1,0," For example, Americans tend to say that people from England drive on the “wrong” side of the road, rather than on the “other” side.
+",0.0400859415531158,0,6,1,0,0,-3,0,1.157180642819177,1,0.0126360822725912,say,-0.0010691564530134,0.006426026916037,0,3,0,-8.678400546891,0.0778355319052934
+-6.199464064089503,0.0296213452771209,1,0," But the tribal members congratulated him, saying, “You really tried!”
+",0.0269672870635986,0,7,0,0,0,-1,0,1.157180642819177,1,0.0144318404936176,saying,0.0017320215702056,0.0036106611860842,1,1,1,-7.310124691273788,0.0541216433048248
+-7.9852533663310545,-0.1035915993830625,1,0," Understand that Newton’s concept of the gravitational force between two massive objects and Einstein’s concept of warped spacetime are different explanations for the same observed accelerations of one massive object in the presence of another massive object
+",-0.1431035473942756,0,0,1,0,0,-21,0,2.639057329615259,1,-0.0676798413807264,Understand,-0.0050025768578052,-0.027946890562471,0,0,0,-12.010605057066204,-0.2710062712430954
+-6.654018782394191,-0.0067708635392288,1,0," Einstein preferred to think that it is space and time that are affected by the presence of a large mass; light beams, and everything else that travels through space and time, then find their paths affected.
+",-0.0082549303770065,0,3,1,0,0,-4,0,1.9892904446855384,1,-0.0064527667573729,think,0.0017393697053194,9.346767358782426e-05,0,0,0,-10.401167144632103,0.0026539862155914
+-6.199464064089503,-0.0050987483764236,1,0," Say you want to fly from Chicago to Rome.
+",0.0225904881954193,0,0,0,0,0,-1,0,1.157180642819177,1,0.0264912029935253,Say,0.0212142281234264,0.014598352607328,1,1,1,-6.742746898002876,0.0448761582374572
+-9.371547727450945,0.0131308403351351,1,0," For example, imagine you have to describe to worried school officials the fire that broke out in your room when your roommate tried cooking shish kebabs in the fireplace.
+",0.0185718238353729,0,3,0,0,0,-1,0,1.9459101490553135,1,0.0075630854944733,imagine,6.509199738502502e-05,0.0016781429243095,1,1,1,-5.497374946153897,0.0036344677209854
+-8.678400546891,0.0071582549519582,1,0," You explain that your dorm is at 6400 College Avenue, a street that runs in the left-right direction on a map of your town; you are on the fifth floor, which tells where you are in the up-down direction; and you are the sixth room back from the elevator, which tells where you are in the forward-backward direction.
+",-0.0147429108619689,0,1,1,1,0,-3,0,2.639057329615259,0,-0.0090749505440671,explain,0.0034308824688196,-0.0032328492379226,0,0,0,-12.010605057066204,-0.0269689168781042
+-8.678400546891,0.0565996008339307,1,0," Then you explain that the fire broke out at 6:23 p.m. (but was soon brought under control), which specifies the event in time.
+",-0.0104799234670633,0,2,1,1,0,-3,0,2.639057329615259,0,-0.0081285496893268,explain,-0.0028471406549215,-0.0046408703091897,0,2,0,-8.678400546891,-0.0004536211490631
+-7.385632243781933,-0.0037871771356854,1,0," But Einstein showed that there is an intimate connection between space and time, and that only by considering the two together—in what we call spacetime—can we build up a correct picture of the physical world.
+",-0.0033845491707324,0,2,1,0,0,-3,0,3.5263605246161616,1,0.0006769351536271,showed,0.0001324471086263,0.0005494774760392,0,7,0,-5.862136761148557,0.0049781259149312
+-8.714768191061875,-0.0080867747892625,1,0," Suppose we have an extremely intelligent ant—a friend of the comic book superhero Ant-Man, perhaps—that has been trained to walk in a straight line.
+",-0.0044957399368286,0,0,0,0,0,-1,0,2.6026896854443837,1,0.0049391669735703,Suppose,0.0008386522531509,0.0003043915274013,1,1,1,-5.497374946153897,-0.0095613002777099
+-9.177391713009987,-0.0028526526715221,1,0," The distortion is not large, but if we follow the ant’s path carefully, we notice it deviating slightly from a straight line.
+",-0.0093808770179748,1,17,0,0,1,-1,0,1.7346010553881064,0,0.0030308136613004,notice,-0.0010092947632074,0.0010605022741526,1,1,0,-12.010605057066204,-0.0121811125427484
+-6.199464064089503,-0.0453003735448688,1,0," Let’s say we now use a massive paperweight.
+",-0.0413059890270233,0,2,0,0,0,-1,0,1.157180642819177,1,0.0095776737046738,say,0.0001512896269559,-0.0010830940124631,1,1,1,-6.481175969554781,-0.0826167464256286
+-6.542544915931073,-0.0156209420013639,1,0," From our point of view, we can see that the sheet near the paperweight is no longer straight.
+",-0.0083297938108444,0,8,1,0,0,-10,0,2.423537703411708,1,0.0097627328610733,see,-0.0025037247687578,0.0018184193716282,0,0,0,-11.317457876506259,-0.0171919763088226
+-6.542544915931073,-0.0234735771653656,1,0," So I was kind of like, maybe I should vlog today and just see how my day turns around because we're getting off on a rough start right now.
+",-0.0118445605039596,0,14,1,0,0,-1,0,2.423537703411708,1,0.0083788661087021,see,-0.001020323485136,0.0051232568771659,1,2,0,-8.118784758955577,-0.023702472448349
+-6.654018782394191,0.0930887692920443,1,0," You know I've been cooking a lot more in my vlogs and I'm starting to think like, what if Gordon Ramsay is watching my vlogs and just absolutely shitting on me.
+",0.0819910019636154,0,17,1,0,0,-1,0,1.9892904446855384,1,-0.0337929257465381,think,-0.0026749782264232,-0.0039884734457986,1,0,0,-12.010605057066204,0.1002539098262786
+-9.238016334826423,-0.1691328580237248,1,0," So yeah, I hope you guys enjoyed watching!
+",-0.1371732539134984,0,4,1,0,0,-1,0,1.1631508098056809,0,0.0415890564314193,hope,-0.0008057914674282,-0.0112551709405719,1,2,0,-8.752508519044722,0.0780567768961191
+-6.1641662820084795,0.0048890445338584,1,0," If I'm sounding out of breath, my lingering shortness of breath, and then also you know that I always talk fast in these videos.
+",0.0110764726996421,0,18,0,1,0,-3,0,2.901999795891284,0,0.0082504951184055,know,0.0028972085565328,0.0031069980387406,0,1,0,-8.160457455356145,0.0221143215894699
+-6.1641662820084795,0.0963617329196683,1,0," And you know like when you wake up sometimes you have like a sore throat because of the fact that your hair was wet and you were cold?
+",-0.1065320372581482,0,2,0,1,0,-1,0,2.901999795891284,0,0.0030844017835746,know,0.0004822947084903,0.0042227170816362,1,1,1,-5.497374946153897,-0.2109095118939876
+-9.177391713009987,0.0179805791305918,1,0," So, I assumed oh that like maybe it was just like a sore throat gotten because I didn't bother to you know blow dry my hair.
+",-0.0008914470672607,0,3,1,0,0,-8,0,2.833213344056216,0,-0.004369728472726,assumed,0.0104255340993404,0.003353740312029,0,0,0,-11.317457876506259,0.0085414312779903
+-8.139404046158313,0.0549161179709967,1,0," And I remember at one point I checked my temperature's only like 98.7, but at another point it was like 101 or something really high that was obviously a fever.
+",-0.0610855817794799,0,2,0,0,0,-1,0,1.791759469228055,0,0.0051575047924878,remember,-0.000741658732295,0.0033751331164039,1,1,0,-8.919562603707888,0.0131607800722122
+-9.177391713009987,-0.0066825528384039,1,0," Um so, day six and seven, I started noticing that my taste buds started to change.
+",0.0065200626850128,0,10,1,0,0,-3,0,1.7346010553881064,1,0.0207821963586253,noticing,-0.000583367422223,0.0054372743266903,0,3,0,-7.35664470690868,0.0212828516960144
+-6.199464064089503,-0.0121842386913212,1,0," Well, I would say that I have like 30 percent of my taste and smell.
+",-0.0048563182353973,0,4,0,0,0,-3,0,1.157180642819177,1,0.0058580802132685,say,-1.2524425983428957e-05,0.0030942434683286,0,1,0,-5.497374946153897,-0.0097114443778991
+-6.1641662820084795,-0.0160233002731908,1,0," I don't really know exactly how it tastes because I can only like I can kind of taste the cheese, um the saltiness, but it's more so um I'm able to feel the textures.
+",-0.0196324586868286,0,4,0,0,1,-1,0,2.901999795891284,1,0.0030792718038264,know,-0.0044286549091339,0.0010067787496296,1,1,0,-9.525698407278204,-0.0529442727565765
+-6.1641662820084795,-0.0421298090035894,1,0," I know it looks kinda crazy.
+",-0.0234515815973281,0,1,0,0,1,-1,0,2.901999795891284,0,-0.0013751448797328,know,-0.0043289195746183,-0.0189988386311356,1,1,0,-7.033871314645629,-0.056818351149559
+-8.181963660577109,0.1685215583337205,1,0," I cannot believe that I'm actually showing you guys these products.
+",0.2129578292369842,0,3,1,0,0,-5,0,2.03688192726104,1,-0.0441333697290047,believe,-0.0012717451900243,0.0117112510694971,0,0,0,-7.385632243781933,-0.0256020426750183
+-8.544869154266477,0.0149672332164996,1,0," I wanted to make sure that this styler actually contributes to the health of your hair.
+",0.0009966194629669,0,4,1,0,0,-3,0,1.3862943611198906,1,0.0298541221178739,sure,-0.0007975175976753,0.0073422497671272,0,2,0,-9.612709784267834,0.0014961287379264
+-8.544869154266477,0.0017114705152132,1,0," So a lot of times with stylers, they're just, you know, there to give you a nice style, which is great, but I want to make sure that all my products are geared towards the health of the hair even if they're styling products.
+",0.0048966407775878,0,32,1,0,0,-6,0,1.3862943611198906,1,0.0045635435290264,sure,-0.0024415310472249,0.0022381298758494,0,0,0,-10.911992768398093,0.0109078884124755
+-8.544869154266477,0.0111862460788174,1,0," I really did want to make sure that I infused that into the product as well.
+",0.0197170823812484,0,6,0,0,0,-3,0,1.3862943611198906,1,0.0051188414023878,sure,-0.000477971509099,0.0077791877998932,0,1,0,-11.317457876506259,0.0437183082103729
+-6.1641662820084795,-0.0160335396265415,1,0," I'm just so excited to finally, like, give it to you guys and know that it's gonna contribute to the actual health of your hair.
+",0.0130269527435302,0,16,1,0,0,-4,0,2.901999795891284,1,0.0017317315778751,know,0.0004717409610748,0.0005703421211866,0,0,0,-6.08101591367631,-0.0082695186138153
+-6.1641662820084795,0.0306289060400766,1,1," You guys already know that – if you follow my channel for a while, you know that I use, like, light defining gels and jellies and stuff all throughout my channel.
+",0.0510587692260742,0,3,1,0,0,-1,0,2.901999795891284,1,-0.0039828875013342,know,-0.0023344233632087,-0.0008016748917958,1,0,0,-8.875110841137055,-0.0018736198544502
+-6.1641662820084795,0.0076384007252466,1,0," You guys already know that – if you follow my channel for a while, you know that I use, like, light defining gels and jellies and stuff all throughout my channel.
+",0.0084390640258789,0,16,0,1,0,-3,0,2.901999795891284,0,-0.0038706629184653,know,0.0013019312173128,-0.000707544554885,0,1,0,-6.481175969554781,0.0013014543801546
+-6.199464064089503,-0.0101336913283472,1,0," It is overcast today and they said there could be some rain, so we're probably gonna go far and that's okay.
+",-0.0057872310280799,1,6,1,0,0,1,0,1.157180642819177,0,0.0041535971322278,said,0.0018888451159,-0.0001757054644283,1,0,0,-5.862136761148557,-0.0169002264738082
+-6.654018782394191,-0.0120425809073406,1,0," Alright, I think we made it about a mile on the loop and I think we're gonna turn around because thing is it's all uphi- uphill and we're just we're being lazy today.
+",-0.0071935057640075,0,3,0,0,0,-1,0,1.9892904446855384,0,0.0079996770541745,think,0.0011597238481044,0.0025791074396156,1,1,1,-6.086349259651672,-0.014807105064392
+-9.238016334826423,0.0031778378591227,1,0," We had such a great time being back in Glacier and I hope this inspired you to come out here and see one of our most favorite national parks we've ever been to in the USA.
+",0.0059943795204162,0,12,0,0,0,-1,0,1.1631508098056809,0,0.0031786811313065,hope,-0.0019666217267513,0.0012190845862725,1,1,1,-9.177391713009987,0.0122907161712646
+-6.542544915931073,-0.0080892334545722,1,0," Like — like usually with foundations when it's expired, you will see the oil separating and all that, but this just looks — it looks fine.
+",-0.0232076235115528,0,13,1,0,0,-1,0,2.423537703411708,1,-0.0280480284504191,see,-2.1830201148986816e-05,-0.0068026734121923,1,2,0,-9.708019964072157,-0.0072348490357398
+-6.1641662820084795,0.0112636718922891,1,0," How many of you people actually knew that makeup expires?
+",-0.0008110105991363,0,6,1,0,0,-3,0,2.901999795891284,1,0.0208722314176459,knew,-0.0020906999707221,-0.0013506536840535,0,1,0,-10.911992768398093,-0.0016368106007575
+-8.347043410936557,0.0178092367759272,1,0," Cuz I actually did not know and actually didn't realize what that symbol meant until I heard other people talking about it and I was like wait what?.
+",-5.303323268890381e-05,0,17,1,0,0,-1,0,1.3609765531356008,0,-0.0293151236698695,heard,0.0083897784352302,-0.003310750768456,1,2,0,-8.160457455356145,-0.0001041591167449
+-7.4673102747962,-0.0190828651590988,1,0," I don't know if this means that they just don't expire or I don't know.
+",-0.0047574639320373,1,6,1,0,0,-6,0,2.751535313041949,0,-0.0338609333398441,means,-0.0016604885458946,-0.0052966870693453,0,0,0,-10.911992768398093,-0.0113001689314842
+-7.4673102747962,0.0219543695272435,1,0," Does that mean that this is chocked full of preservatives?
+",-0.011889025568962,0,2,1,0,0,-4,0,2.751535313041949,1,0.0224698701730141,mean,-0.0023409463465213,-0.0013857576578463,0,0,0,-10.06469490801089,0.0083570852875709
+-6.542544915931073,0.046882756257599,1,0," Let's see what the shelf life is.
+",0.0563194155693054,0,2,1,0,0,4,0,2.423537703411708,1,0.010447390584482,see,-0.0007258765399456,0.0050930182952122,1,0,0,-7.405434871078112,0.1119224913418293
+-6.1641662820084795,-0.021524056016157,1,0," So you know how lipsticks usually come in packaging?
+",-0.0163883566856384,0,2,1,1,0,-1,0,2.901999795891284,0,0.0032642470334063,know,0.0023506097495555,0.0020556575546268,1,1,0,-6.702337359664999,-0.0295307226479053
+-6.654018782394191,-0.011702292973454,1,0," I'm thinking that maybe Dose of Colors and Urban Decay have the shelf life printed on those boxes but who keeps their lipsticks in a box?
+",-0.0035429298877716,0,2,1,0,0,-3,0,1.9892904446855384,1,0.0111092689190188,thinking,0.0038739386945962,0.0033157701413708,0,6,0,-5.497374946153897,0.0288074910640716
+-7.328473829941984,0.0623678150586783,1,0," So I thought this was an opportune time to tell you all that a couple of weeks ago I found out that I am pregnant.
+",0.031707763671875,0,9,0,0,0,-5,0,2.890371757896165,1,0.0312651697429496,tell,-0.0100102070719003,0.0167767684219234,0,1,0,-7.006658751120745,0.0534100886434316
+-7.006658751120745,0.0109152769911344,2,0," So I thought this was an opportune time to tell you all that a couple of weeks ago I found out that I am pregnant.
+",-0.0002098381519317,0,19,1,0,0,-4,0,2.9245047642656234,0,0.0105071210400586,found,0.0016314331442117,0.0042223063028504,0,0,0,-10.911992768398093,0.0012190286070108
+-6.1641662820084795,-0.0157394678527807,1,0," As soon as I came off the pill my period came back pretty regularly and I started tracking my periods just because I knew the pregnancy was something that eventually we would want, and I know that it helps if you've been tracking your period so you know your cycle.
+",-0.0153182595968246,0,36,1,0,0,-3,0,2.901999795891284,0,-0.0006281467038375,know,0.00277004763484,0.0001332969807708,0,12,0,-8.003271871833732,0.0032497458159923
+-6.654018782394191,0.008583899943899,1,0," And I just think it didn't help me seeing people at their worst at the very beginning, because all you hear is doom and gloom.
+",0.0021186172962188,0,3,1,0,0,1,0,1.9892904446855384,0,0.0124251018289005,think,0.0001079123467206,0.0040405484921015,1,0,0,-8.003271871833732,0.0043352525681257
+-6.199464064089503,0.0163718017558448,1,0," I went – I booked the doctors, because the NHS says you need to book a doctor's appointment, but that was a waste of time and I felt quite bad about taking that appointment.
+",0.0173794478178024,0,11,0,0,0,-1,0,1.157180642819177,1,-0.0040897299320651,says,0.0018670428544282,0.0016907338176582,1,1,1,-7.328473829941984,0.0050295889377593
+-6.1641662820084795,0.004993274001137,1,0," But there's things that I don't want to have, so like coffee, I just know that I don't want that, and all I want is beige:
+",0.0051878988742828,0,18,1,0,0,-5,0,2.901999795891284,0,7.62678431095315e-05,know,-0.0003250371664762,0.0007836852758779,0,0,0,-6.742746898002876,0.0100763905793428
+-6.1641662820084795,-0.0035574310712835,1,0," So I don't feel particularly great nutrition-wise, and I'm trying to eat fruit where I can and veg when I can, but I'm just sort of going with it, because I know there's enough information out there that this is generally how it goes.
+",-0.0032209157943725,0,38,1,0,0,-1,0,2.901999795891284,0,-0.0003309225403993,know,0.0008487440645694,0.0004284421428002,1,9,0,-5.862136761148557,-0.0064353942871093
+-8.966082619342782,-0.0306665000885173,1,0," Please note that if departing from Europe (this may apply to other countries), you will require to have the visa before boarding the plane.
+",-0.0334365516901016,0,1,1,0,0,-17,0,1.6582280766035324,1,0.0028128123621952,note,0.0005613397806882,-0.0029415044847395,0,0,0,-8.39968714442198,-0.0612472593784332
+-8.919562603707888,0.0029442106692219,1,0," Some times, the airline provides these at the airport, however check first that this is the case.
+",0.0058697238564491,0,12,1,0,0,-4,0,3.0910424533583156,1,-0.002339972820329,check,-0.004634809680283,0.0019373253637124,0,0,0,-9.813380479729984,0.0034306794404983
+-9.014872783512212,0.0365587761262795,1,0," Aeromexico staff at Cancun airport claim that only citizens of China and Russia need no visa.
+",0.0616126004606485,0,5,1,0,0,-3,0,1.6094379124341003,1,0.0245980966037937,claim,-0.0046794563531875,0.0193029060766322,0,6,0,-7.328473829941984,0.1247297413647174
+-8.966082619342782,-0.0145738512618808,1,0," It is important to note that there is also a departure tax of CUC 25, to be paid in cash when departing Cuba by airplane; this is not required for boat departures.
+",-0.0100613832473754,0,4,1,0,0,-3,0,1.6582280766035324,1,0.0074749165391992,note,-7.824786007404327e-05,0.0010677776135616,0,17,0,-5.862136761148557,-0.0255677700042724
+-7.4673102747962,0.0152639750576702,1,0," The Persians call it ""Nesf-e-Jahan"", meaning ""Half The World"".
+",0.0193083733320236,0,12,1,0,0,-1,0,2.751535313041949,1,0.0067648256995848,meaning,-2.4626031517982483e-05,0.003842874576977,1,0,0,-12.010605057066204,0.0002397205680608
+-8.832551226718259,-0.0074059578692199,1,0," Recent local investment and a long-standing cultural scene ensures there is always something more to do than just sightseeing or shopping, with the city hosting some of the best museums and art galleries in the country.
+",0.0036895722150802,0,10,1,0,0,-1,0,1.5686159179138452,1,0.0192582167730462,ensures,0.0001551341265439,0.0073341549737676,1,9,0,-5.862136761148557,0.0512023866176605
+-8.347043410936557,0.1539030599094785,1,0," This is referred to in the emblem and when you hear the dwellers of Łódź (łodzianin (man) łodzianka (woman) łodzianie (plural)) calling themselves ""the boat people"".
+",0.1377325540977483,0,10,1,1,0,-1,0,1.3609765531356008,0,-0.0180875203352532,hear,-0.0011026822030544,0.0010555878727228,1,18,0,-7.1202559288444505,-0.0409967601299285
+-6.542544915931073,-0.0163845736808671,1,0," You can see them visiting and talking as they stroll along the streets, sit in the plazas or dine in the many sidewalk restaurants.
+",-0.0192403495311737,0,2,0,0,0,-1,0,2.423537703411708,1,-0.0047877557432801,see,-0.0077760089188814,-0.0005397862275701,1,1,1,-8.576617852581057,-0.0323111414909362
+-8.966082619342782,-0.0062741807539218,1,0," Islands in the archipelago listed in east to west order; note that there are many more islands and islets in the area, but these are the ones with ferry traffic that are possible to visit without making special arrangements.
+",-0.0037861466407775,0,11,1,0,0,-3,0,1.6582280766035324,1,0.0025835137654195,note,0.0002147201448678,0.0003579143967258,0,5,0,-5.862136761148557,-0.0073643922805786
+-7.006658751120745,0.0808732392962533,1,0," Thais are a polite people and, while remarkably tolerant of foreigners gallivanting on their beaches and with their women, youll find that you will get more respect if you in turn treat them and their customs with respect.
+",0.0828079134225845,0,23,1,0,0,-4,0,2.9245047642656234,1,-0.0038254734238975,find,-0.0013949498534202,0.0027699991025767,0,0,0,-6.236053511521796,-0.0297198668122291
+-6.542544915931073,0.2668031811174985,1,0," You will also often see Thais doing a wai as they walk past temples and spirit houses.
+",0.1506055256920819,0,4,1,0,0,-1,0,2.423537703411708,1,-0.0635036662961655,see,-0.0031049419194459,0.0150501122195529,1,1,0,-6.20246256708576,0.0364413131028413
+-7.006658751120745,-0.0027106707450001,1,0," You will find that dressing appropriately means that you are shown more respect in return.
+",0.0194076523184776,0,2,1,0,0,-3,0,2.9245047642656234,1,0.0316686894123752,find,-0.0025673154741525,0.0119023788185809,0,2,0,-7.4673102747962,0.0333795994520187
+-7.4673102747962,-0.0094604530837386,2,0," You will find that dressing appropriately means that you are shown more respect in return.
+",0.00645112991333,0,6,1,0,0,-4,0,2.751535313041949,1,0.0207733199709937,means,-0.0003422461450099,0.0062460393187439,0,0,0,-7.385632243781933,0.0121767520904541
+-9.708019964072157,0.0142600044721002,1,0," Many recommend that women wear only full length dresses and skirts;
+",0.0374035015702247,0,1,1,0,0,-3,0,1.6094379124341003,1,0.0086961318823424,recommend,0.0004655122756958,0.0092193562454474,0,1,0,-8.321725602952268,0.0037687569856643
+-8.544869154266477,-0.0053456243816293,1,0," you should make sure that your clothing covers at least your shoulders and your knees and some places may require that you wear ankle-length pants or skirts and long sleeved tops.
+",0.0084492266178131,0,3,1,0,0,-3,0,1.3862943611198906,1,0.0262431913485448,sure,-0.0010478496551513,0.0061752746981084,0,2,0,-8.791729232198003,0.0173791050910949
+-7.006658751120745,-0.1412236112116397,1,0," You will find the people of Tulsa love their city and they have that southern charm, so they are willing to help you find your way around.
+",-0.1389830297428136,0,2,1,0,0,-1,0,2.9245047642656234,1,0.0004444221273211,find,0.0001698695123195,-0.007927672334383,1,4,0,-8.791729232198003,-0.0415238104760646
+-8.544869154266477,0.0087857509901126,1,0," Therefore, if you are staying overnight in York and arriving by car, make sure that your hotel offers parking before you book.
+",-0.0032891631126403,0,15,1,0,0,-3,0,1.3862943611198906,1,-0.0234419966109798,sure,-0.0006090123206377,-0.00739047568512,0,2,0,-8.226415423147943,-0.006576657295227
+-6.654018782394191,-0.0073432467133812,1,0," Jealousy of your achievements or seeming lifestyle can cause another person to feel smug or arrogant about something they think they do better than you or own / have that you don't.
+",-0.0043091997504234,1,19,0,0,0,-1,0,1.9892904446855384,0,0.0028963261317053,think,0.0090759173035621,0.0010849544863616,1,1,1,-6.20246256708576,-0.0083948820829391
+-9.612709784267834,-0.0030362553434906,1,0," At some point or another, most people realize that the world doesn't revolve around them.
+",0.0014913976192474,0,8,1,0,0,-6,0,1.7047480922384253,1,-0.0035923839369345,realize,0.0016942769289016,-0.0022277438159006,0,0,0,-10.911992768398093,0.0068855434656143
+-7.4673102747962,0.0236112222730837,1,0," Since being a good friend to someone usually means helping them, they often can't stand the thought of a good friendship.
+",0.0167908668518066,0,8,1,0,0,-1,0,2.751535313041949,1,0.0115734151134697,means,0.000522019341588,0.0038492085987107,1,0,0,-8.003271871833732,0.0347367543727159
+-6.1641662820084795,-0.0360327773925029,1,0," Mention people you know that they don't like.
+",-0.0168024972081184,0,3,1,1,0,-5,0,2.901999795891284,0,0.0052021931518208,know,-0.016317144036293,-6.428690147640415e-05,0,0,0,-7.8362177871705665,0.0009690374135971
+-6.1641662820084795,-0.006445264286252,1,0," Arrogant people often subconsciously know that they don't have any good friends.
+",0.0019739046692848,0,4,1,0,0,-5,0,2.901999795891284,1,0.0068113737817232,know,-0.0023197010159492,0.0060181596472719,0,0,0,-5.497374946153897,0.0015642195940017
+-6.542544915931073,-0.0220978888143834,1,0," Mostly they require tight fitting clothing so they can see that your muscles are working properly and so on.
+",-0.0043741017580032,0,9,1,0,0,-5,0,2.423537703411708,1,0.0307651115309076,see,0.0011181719601154,0.0047162946786802,0,0,0,-7.510795386735939,-0.0133730471134185
+-8.544869154266477,0.0058229495549485,1,0," For this reason, it's always better to practice ballet in a ballet studio under the guidance of a good instructor, who will be able to correct your positioning and make sure that you're dancing properly.
+",0.0115540027618408,0,33,1,0,0,-4,0,1.3862943611198906,1,0.0094310456409868,sure,5.2638351917266846e-05,0.0008054263050106,0,0,0,-9.238016334826423,0.0279456675052642
+-6.542544915931073,0.0458750041803488,1,0," When you see the first green tendrils push up through the soil, it's time to remove the plastic wrap.
+",0.0420000553131103,0,2,1,1,0,-1,0,2.423537703411708,0,0.0185234969730178,see,-0.002109121531248,0.0008397607193278,1,4,0,-9.120233299170039,-0.0112185031175613
+-9.177391713009987,0.0316684400302267,1,0," You'll notice that if you leave the flowers, the plant will become lanky and the leaves won't be as full or tasty.
+",0.027806282043457,0,2,1,0,0,-11,0,1.7346010553881064,1,0.0092711233822949,notice,-0.0035945922136306,0.0009004858089998,0,0,0,-7.556257760812696,0.0518336147069931
+-6.542544915931073,-0.0168205194951346,1,0," Those who've never heard of this will be amazed to see a chicken lie perfectly still after these instructions are followed.
+",-0.0172484442591667,0,11,1,0,0,-1,0,2.423537703411708,1,-0.0052729740475668,see,-0.0003131814301013,0.0001848965723355,1,2,0,-8.609407675404048,-0.0344925969839096
+-6.654018782394191,-0.0075178775310177,1,0," Biologists think that fear causes this ""hypnosis,"" which may be an attempt to ""play dead"" to fool predators.
+",-0.007062405347824,0,1,1,0,0,-3,0,1.9892904446855384,1,-0.001355488486588,think,-0.0010265540331602,0.0021683382318719,0,1,0,-8.484244532450042,-0.0321791768074035
+-6.199464064089503,-0.1644547017090903,1,0," You could look at yourself, turning to catch different angles and say “All right, all right, now we’re talking,” very loudly.
+",-0.1572601235109334,0,12,1,0,0,-1,0,1.157180642819177,1,-0.0332116611837141,say,-0.0026939660310745,-0.0218505154109247,1,0,0,-11.317457876506259,-0.1167478412389755
+-6.542544915931073,-0.0750960847193543,1,0," Most people will probably see that this is a joke.
+",-0.0178520679473876,0,4,1,0,0,-4,0,2.423537703411708,1,0.1027987803229027,see,-0.0010970551520586,0.007538734152658,0,0,0,-9.708019964072157,-0.0359859466552734
+-6.1641662820084795,0.0078594342036091,1,0," However, if somebody looks seriously alarmed or is starting to panic, let them know that you were not being serious.
+",0.0037176311016082,0,15,1,0,0,-4,0,2.901999795891284,1,0.0112022152614025,know,-0.0013181827962398,0.0019787985498512,0,0,0,-10.911992768398093,0.0061146952211856
+-6.199464064089503,-0.0042535245138642,2,0," For instance, if you're asked what you're up to, rather than saying, ""looking for people to hit on on Facebook"" you might find that it's a better idea to give a sarcastic answer like ""writing the great American novel"" or ""drowning my sorrows"".
+",-0.0025496184825897,0,15,1,0,0,-1,0,1.157180642819177,1,0.0028308633020368,saying,-0.0027900766581296,0.0001742613895347,1,0,0,-7.033871314645629,-0.0037365555763244
+-7.006658751120745,-0.0108687086404422,3,0," For instance, if you're asked what you're up to, rather than saying, ""looking for people to hit on on Facebook"" you might find that it's a better idea to give a sarcastic answer like ""writing the great American novel"" or ""drowning my sorrows"".
+",-0.0099902749061584,0,29,1,0,0,-2,0,2.9245047642656234,1,0.0021421757354147,find,0.0010305158793926,0.0001441181980113,0,0,0,-9.445655699604668,-0.0083633661270141
+-6.1641662820084795,-0.0034532549358896,1,0," For instance, you might say something like, ""I don't know why every song on the radio nowadays has a Texas Flynn feature. Does he even have time to record between rehab stints?""
+",-0.0013497322797775,0,13,1,0,0,-1,0,2.901999795891284,1,0.0020095769296487,know,0.0011146217584609,-0.0008415120574697,1,5,0,-5.497374946153897,-0.0096509158611297
+-8.181963660577109,0.0276537475786332,1,0," It can also make him or her question your motives, leading the person to believe that you may be trying to get something out of him or her.
+",0.0316754579544067,0,15,1,0,0,-3,0,2.03688192726104,1,1.089807526377662e-05,believe,0.0008624568581581,0.0040795504309199,0,0,0,-7.310124691273788,0.063306450843811
+-7.385632243781933,0.0108988117328081,1,0," In other words, show that you're attracted to this person by giving him or her a great conversation, not by stating it outright.
+",0.0043340176343917,0,4,1,0,0,-4,0,3.5263605246161616,1,-0.0200356049688686,show,0.0022797985002398,-0.0016013913527798,0,0,0,-9.014872783512212,-0.0258944332599639
+-8.832551226718259,0.0164491556202753,1,0," Using the dictionary can ensure you not missing a single word.
+",-0.0331572145223617,0,4,0,0,0,-1,0,1.5686159179138452,1,-0.0937987708938166,ensure,0.0011225882917642,-0.0038502311306839,1,1,1,-9.813380479729984,-0.0625872686505317
+-8.544869154266477,-0.0457698001890726,1,0," Make sure that it is a language that while speaking, you don't get a literal knot in your tongue!
+",-0.0492870843606954,0,1,1,0,0,-4,0,1.3862943611198906,1,-0.0044232405309856,sure,-0.000925675034523,-0.0009329455994185,0,0,0,-9.525698407278204,0.0864030569791793
+-8.544869154266477,0.002838077776901,1,0," Make sure that you and your friend(s) all follow a systematic language system.
+",0.0062136352062225,0,1,0,0,0,-3,0,1.3862943611198906,1,-0.0097355861682444,sure,0.0005713477730751,-0.0008858213719241,0,4,1,-7.591764449269606,-0.0045077428221702
+-8.544869154266477,-0.0046290987386152,1,0," In other words, make sure that you follow the same guidelines.
+",0.0110057741403579,0,5,0,0,0,-3,0,1.3862943611198906,1,0.006873608736152,sure,0.0007233805954456,0.006086415359112,0,1,1,-7.591764449269606,-0.0138975083827972
+-8.832551226718259,-0.0044708012908446,1,0," If this is a solo jump, which constitutes the minority of skydivers, your only recourse is to ensure that at least one of your own chutes opens.
+",-0.0023765861988067,0,19,1,0,0,-3,0,1.5686159179138452,1,-0.0039412168015637,ensure,0.000536611303687,0.0017190570147405,0,7,0,-8.272935438782836,-0.003507861867547
+-6.1641662820084795,0.0385934806005521,1,0," Know that all players can play while riding a broom.
+",0.0781121253967285,0,0,1,0,0,-5,0,2.901999795891284,1,0.026769620925188,Know,0.0124924629926681,0.0246538557559529,0,0,0,-7.762109815016845,0.1429603099822998
+-6.654018782394191,0.0086386206601145,1,0," The creators of Muggle Quidditch thought that it was worth too many points so changed the value of the snitch for muggle Quidditch.
+",0.0017643123865127,0,5,1,0,0,-4,0,1.9892904446855384,1,-0.0011390771857032,thought,-0.0009163208305835,-0.0018781401126633,0,0,0,-9.612709784267834,-0.0140547454357147
+-8.832551226718259,-0.0198901810165907,1,0," The referee should ensure that rules are being followed.
+",-0.0104329288005828,0,3,1,0,0,-3,0,1.5686159179138452,1,-0.0115811099401778,ensure,-0.0102378092706203,0.00166371974539,0,0,0,-7.591764449269606,0.0215526260435581
+-8.139404046158313,0.1508398998193376,1,0," Remember that the snitch runner, if you choose to use one, is not an actual player in the game, therefore, not bound by any of the rules.
+",0.1534695065217977,0,0,1,0,0,-15,0,1.791759469228055,1,0.0031741183483973,Remember,-0.0011994447559118,0.0111745719971648,0,0,0,-10.06469490801089,0.0946187283843755
+-8.832551226718259,0.0023745199289952,1,0," Try to ensure there is an al dente bite to the germ, in the same way as pasta.
+",0.0087091848254203,0,2,1,0,0,-1,0,1.5686159179138452,1,0.0011875543066046,ensure,-0.002826627343893,0.0041177898597862,1,4,0,-5.862136761148557,0.0171470493078231
+-8.966082619342782,0.0683753353310748,1,0," Note that the ratio of Skittles to vodka varies from recipe to recipe.
+",-0.0339166635078425,0,0,1,0,0,-3,0,1.6582280766035324,1,0.0146743207903844,Note,-0.0004579499363899,0.014625909688036,0,6,0,-9.302554855963994,-0.1083996463567018
+-8.514097495599724,0.0033662505172596,1,0," With single servings like this, you can decide which flavor(s) you like best and proceed to making bottles, if you desire.
+",0.0568651556968688,0,8,0,0,0,-1,0,2.803360380906535,1,0.018239009341905,decide,-0.0017718933522701,0.0055744603000238,1,1,1,-7.8362177871705665,0.1097787357866764
+-8.832551226718259,-0.0061929373780176,1,0," Repeat the above two steps for all bottles, ensuring that everything is cleaned between uses to prevent color contamination.
+",0.0002736151218414,0,9,1,0,0,-4,0,1.5686159179138452,1,-0.0016963200888743,ensuring,0.0002061743289232,0.0017596419015863,0,0,0,-9.931163515386368,0.0005572438240051
+-8.514097495599724,0.0087162510802348,1,0," You can carry this out with larger amount of vodka and Skittles once you have decided that you enjoy the taste.
+",0.0066835582256317,0,15,0,0,0,-3,0,2.803360380906535,1,0.0052068699445766,decided,-0.0010353513062,0.0021011292866863,0,1,1,-8.752508519044722,0.0120220594108104

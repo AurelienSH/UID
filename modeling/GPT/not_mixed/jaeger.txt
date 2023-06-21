@@ -1,0 +1,36 @@
+
+Call:
+glm(formula = that_omission ~ length_CC_onset + length_CC_remainder + 
+    position_matrix_verb + subject_form_CC_subject1v2 + subject_form_CC_subject1v3 + 
+    subject_form_CC_subject1v4 + frequency_CC_subject_head + 
+    word_form_similarity + frequency_matrix_verb + matrix_subject1v2 + 
+    matrix_subject1v3 + matrix_subject1v4 + data[[paste0("uid_", 
+    uid_type)]], family = binomial(), data = data)
+
+Coefficients: (1 not defined because of singularities)
+                                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                       6.590882   0.647698  10.176  < 2e-16 ***
+length_CC_onset                   0.095120   0.021487   4.427 9.56e-06 ***
+length_CC_remainder                     NA         NA      NA       NA    
+position_matrix_verb             -0.015183   0.008549  -1.776  0.07573 .  
+subject_form_CC_subject1v2        1.855249   0.582768   3.184  0.00146 ** 
+subject_form_CC_subject1v3        1.540660   0.370160   4.162 3.15e-05 ***
+subject_form_CC_subject1v4       -0.433628   0.311065  -1.394  0.16331    
+frequency_CC_subject_head         0.050887   0.036251   1.404  0.16040    
+word_form_similarity              2.174268   0.875717   2.483  0.01303 *  
+frequency_matrix_verb             0.687583   0.065660  10.472  < 2e-16 ***
+matrix_subject1v2                -0.775504   0.456533  -1.699  0.08938 .  
+matrix_subject1v3                -0.382259   0.271061  -1.410  0.15847    
+matrix_subject1v4                -0.527213   0.204954  -2.572  0.01010 *  
+data[[paste0("uid_", uid_type)]] -0.383866   0.082762  -4.638 3.51e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 1430.1  on 1077  degrees of freedom
+Residual deviance: 1088.7  on 1065  degrees of freedom
+AIC: 1114.7
+
+Number of Fisher Scoring iterations: 4
+

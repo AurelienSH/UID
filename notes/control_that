@@ -1,0 +1,31 @@
+Dépendance :
+    Length(matrix verb to CC) : distance entre le verbe et la CC (nombre de mots séparant CC et verb)
+    Length(CC Onset) : Longueur du sujet de la CC en token (a person's heart = 3, I = 1)
+    Length(CC remainder) : Longueur du reste de la CC (sujet exclu) effet prédit très faible
+    Position(matrix verb) : Implementation du nombre de mots précédant le matrix verb (utilisation d'une restricted cubic spline)
+Overt production difficulty at CC Onset :
+    Log speech rate : obtenue par régression depuis la squared log speech rate (la différence entre ce qui est attendu par regression et la valeur est conservée)
+    Squared Log speech rate : obtenue après centrage (?) de la log speech rate
+    Pause : Presence ou absence d'une suspension de discours
+    Disfluency : restarts, editing, filled pauses, pour éviter corrélation avec longueur regressed against Length(CC Onset) et on garde la différence avec la valeur attendue par regression
+Lexical retrieval at CC Onset :
+    Subject Form, CC Subject (availability) : Type d'expression référentielle (accessibilité), les pronoms sont corrélés avec de plus hautes fréquences d'omission de "that". 4 niveaux : I, it, other pronouns, other types of NPs. Three Helmert-contrasts over the four levels of CC SUBJECT were included in the model, comparing each of the three lowest levels against all higher levels (it vs. I; other pronouns vs. I and it; etc.).
+    Subject Identity : Les sujets ayant des coréférents amènent à plus d'omission (encore une fois regression à faire sur le CC SUBJECT et SUBJECT IDENTITY
+    Frequency(CC subject head) : LogFréquence du lemme du sujet de la CC. The frequency of the CC subject is, however, highly correlated with the form of its referential expression (CC SUBJECT, Spearman rank correlation r = −0.80). Hence, the effect of CC SUBJECT was regressed out of the log-transformed frequency and the residuals of that regression were entered into the analysis of that-mentioning.
+    Word form similarity : Parametre binaire, inclue simplement si le premier mot de la CC est le demonstratif "that" ou non, regression contre Subject Form == other pronouns
+Lexical retrieval immediately preceding CC :
+    Frequency(matrix verb) : LogFreq du verb
+Ambiguity avoidance at CC onset :
+    Ambiguous CC onset : Potentialité qu'un sujet puisse laisser penser que c'est autre chose qu'une CC ("I know many of them are doing it", many aurait pu juste introduire un COD). Ici, il faut inclure la possibilité d'un garden path sans "that". First, all cases with case-marked CC subjects or with a matrix verb that never or rarely takes a CC complement (think, suppose, wish, figure, hope, and agree) were automatically marked as unambiguous. Le reste a été annoté à la main.
+Grammaticalization of epistemic markers :
+    Matrix subject : Si le sujet de la phrase est I, you, other pronouns, other NP, on fait un prédicteur de l'apparation de that, a chaque fois on garde la distance avec le groupe I.
+Additional controls :
+    Syntactic persistence : Si la CC précédente contenait that ou non : trois catégories : no preceding prime, preceding prime with that, preceding prime without that
+    Speaker Gender
+
+Additionally, the analysis includes a random speaker intercept, which can be thought of as the individual adjustment to each speaker’s rate of that-mentioning.
+
+
+
+Il faut soit vérifier la quantité d'info moyenne d'un token, soit la quantité d'info moyenne d'une phrase soit la quantité d'info moyenne d'un énoncé, soit la quantité d'info moyenne d'une langue et ensuite voir si sachant cette quantité d'info D :
+lorsqu'on est à un moment où une variation libre peut s'opérer, le fait d'encoder la différence entre la quantité d'information du token, de la phrase, de l'énoncé et la quantité D dans la loss (ou dans l'équation) permet de créer un meilleur prédicteur de cette variation "libre", comme par exemple "that" ou "que".

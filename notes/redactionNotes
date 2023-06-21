@@ -1,0 +1,30 @@
+Description des corpus plutot en annexe
+Pas besoin de grandes description théoriques sur le modele mixte (éviter les intros théoriques/et les transition)
+A la limite les fonctions pour recuperer les prédicteurs en annexe
+    Ce qu'est le facteur et comment l'obtenir
+Pour la description d'UD SUD plutot en annexe
+
+Eventuellement fournir une liste des actions (aka un journal de bord) en annexe
+
+En partie résultats verbatim des résultats sur R, dans laquelle je décris les effets
+
+Mettre des idées en discussion!!
+
+Peut etre faire -log(1/k) (k = rang)
+
+Pour tester la méthode globale (on peut essayer de recréer la phrase) l'idée de demi phrase pourrait etre intéressante
+
+Pour chaque phrase trouver une densité informationnelle au niveau de la phrase(via peut etre une somme de proba de tous les tokens)
+Faire la différence entre la densité informationnelle de "base"
+
+Faire uid au niveau de la phrase on compare à la moyenne de densité de la phrase meme et on voit si en enlevant ou en rajoutant un that on s'éloigne de la moyenn
+
+Y a un enjeu au niveau de comment encoder le pouvoir d'UID
+On essaye de voir la direction vers laquelle on devrait aller avec les probabilités (quantité d'ifno)
+
+Comparaison des deux phrases à un niveau d'uniformité de densité
+
+Faire des pti dessins d'UID en variation différents steps de progression de plus local à plus global
+
+
+Rediger clairement le choix des doublon

@@ -1,0 +1,46 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: 
+that_omission ~ length_CC_onset + length_CC_remainder + position_matrix_verb +  
+    subject_form_CC_subject1v2 + subject_form_CC_subject1v3 +  
+    subject_form_CC_subject1v4 + frequency_CC_subject_head +  
+    word_form_similarity + frequency_matrix_verb + matrix_subject1v2 +  
+    matrix_subject1v3 + matrix_subject1v4 + data[[paste0("uid_",  
+    uid_type)]] + (1 | m_verb)
+   Data: data
+
+     AIC      BIC   logLik deviance df.resid 
+  1115.8   1185.5   -543.9   1087.8     1064 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3360 -0.6317 -0.2941  0.7354  3.8763 
+
+Random effects:
+ Groups Name        Variance  Std.Dev. 
+ m_verb (Intercept) 3.596e-17 5.997e-09
+Number of obs: 1078, groups:  m_verb, 3
+
+Fixed effects:
+                                  Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                       6.027762   0.635676   9.482  < 2e-16 ***
+length_CC_onset                   0.098682   0.021890   4.508 6.54e-06 ***
+position_matrix_verb             -0.014610   0.008556  -1.708 0.087724 .  
+subject_form_CC_subject1v2        1.604244   0.591130   2.714 0.006650 ** 
+subject_form_CC_subject1v3        1.336370   0.376884   3.546 0.000391 ***
+subject_form_CC_subject1v4       -0.663562   0.316203  -2.099 0.035858 *  
+frequency_CC_subject_head         0.067518   0.036214   1.864 0.062263 .  
+word_form_similarity              2.347337   0.858033   2.736 0.006224 ** 
+frequency_matrix_verb             0.701857   0.065751  10.675  < 2e-16 ***
+matrix_subject1v2                -0.929359   0.466518  -1.992 0.046358 *  
+matrix_subject1v3                -0.533866   0.271785  -1.964 0.049496 *  
+matrix_subject1v4                -0.594548   0.205214  -2.897 0.003765 ** 
+data[[paste0("uid_", uid_type)]] 20.448867   4.297739   4.758 1.95e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+fit warnings:
+fixed-effect model matrix is rank deficient so dropping 1 column / coefficient
+optimizer (Nelder_Mead) convergence code: 0 (OK)
+boundary (singular) fit: see help('isSingular')
+

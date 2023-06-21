@@ -1,0 +1,10 @@
+{
+  "corpora": [
+    {
+      "id": "__ID__",
+      "config": "sud",
+      "dynamic": true,
+      "directory": "__DIRECTORY__"
+    }
+  ]
+}

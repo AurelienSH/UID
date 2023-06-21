@@ -1,0 +1,43 @@
+couple	ecart	texte	score1	score2
+amp_iphrase	0.2699081230369444	mverb : see_ You will also often see Thais doing a wai as they walk past temples and spirit houses.
+	-0.0031049419194459	0.2668031811174985
+amp_jaeger	4.248844851230644	mverb : given_ The narrative review considers challenges in replication research and is largely informed by commentaries and metascience from psychology, given that the cognitive and social subdomains of psychology are highly influential in L2 research, and also from education, another key sister discipline.
+	-0.0003496091812849	4.248495242049359
+amp_var	0.047575369863593196	mverb : reported_ The Independent reported self-medicating ants a first among insects.
+	0.0018148329108953	-0.0457605369526979
+amp_idoc	0.2142295744270085	mverb : believe_ I cannot believe that I'm actually showing you guys these products.
+	-0.0012717451900243	0.2129578292369842
+amp_biggestStep	0.4084290862083435	mverb : think_ Why do you think it is so?
+	0.0002999529242515	0.408729039132595
+amp_avgStep	0.1038958354749613	mverb : see_ Most people will probably see that this is a joke.
+	-0.0010970551520586	0.1027987803229027
+iphrase_jaeger	4.253495638502541	mverb : given_ The p-value associated with the design-based F is thus more accurate (than the associated with the χ2 statistic) given the adjustments and calculations take into account the weighted nature of the data.
+	-0.0050003964531816	4.248495242049359
+iphrase_var	0.25175306889794563	mverb : see_ You will also often see Thais doing a wai as they walk past temples and spirit houses.
+	0.2668031811174985	0.0150501122195529
+iphrase_idoc	0.2600320465110316	mverb : Given_ Given that our moral beliefs are influenced by evolutionary forces, and not by the moral facts, our moral beliefs would be the same even if the moral facts would change.
+	0.2278536034564515	-0.0321784430545801
+iphrase_biggestStep	0.5110586134533426	mverb : Given_ Given that our moral beliefs are influenced by evolutionary forces, and not by the moral facts, our moral beliefs would be the same even if the moral facts would change.
+	0.2278536034564515	-0.283205009996891
+iphrase_avgStep	0.330306847413664	mverb : see_ You will also often see Thais doing a wai as they walk past temples and spirit houses.
+	0.2668031811174985	-0.0635036662961655
+jaeger_var	4.2497991829862745	mverb : given_ This theory, along with other theories of correspondence in translating, are elaborated in his essay Principles of Correspondence, where Nida begins by asserting that given that "no two languages are identical, either in the meanings given to corresponding symbols or in the ways in which symbols are arranged in phrases and sentences, it stands to reason that there can be no absolute correspondence between languages.
+	4.248495242049359	-0.0013039409369147
+jaeger_idoc	4.280673685103939	mverb : Given_ Given that our moral beliefs are influenced by evolutionary forces, and not by the moral facts, our moral beliefs would be the same even if the moral facts would change.
+	4.248495242049359	-0.0321784430545801
+jaeger_biggestStep	4.53170025204625	mverb : Given_ Given that our moral beliefs are influenced by evolutionary forces, and not by the moral facts, our moral beliefs would be the same even if the moral facts would change.
+	4.248495242049359	-0.283205009996891
+jaeger_avgStep	4.2592303835398315	mverb : given_ The p-value associated with the design-based F is thus more accurate (than the associated with the χ2 statistic) given the adjustments and calculations take into account the weighted nature of the data.
+	4.248495242049359	-0.0107351414904725
+var_idoc	0.2073282016647695	mverb : suppose_ I suppose that, in our own way, we were all collectively strange.
+	0.0019615875350596	0.2092897891998291
+var_biggestStep	0.4297616217564593	mverb : said_ And I said, well, I – alright.
+	0.0231639348249684	-0.4065976869314909
+var_avgStep	0.1070516097269696	mverb : know_ I know she's —
+	0.0128633393816394	-0.0941882703453302
+idoc_biggestStep	0.3970678448677062	mverb : decided_ So ultimately I decided that eHow's model would not build the resource I envisioned.
+	0.1032737344503402	-0.293794110417366
+idoc_avgStep	0.2570911989659889	mverb : believe_ I cannot believe that I'm actually showing you guys these products.
+	0.2129578292369842	-0.0441333697290047
+biggestStep_avgStep	0.4406411285408669	mverb : said_ And I said, well, I – alright.
+	-0.4065976869314909	0.034043441609376

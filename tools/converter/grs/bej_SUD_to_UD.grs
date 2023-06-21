@@ -1,0 +1,83 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+include "SUD_to_UD.grs"
+
+strat bej_main {
+  Seq (
+    Onf (bej_pre),
+    u_main,
+    Onf(bej_post),
+    Onf(bej_valid),
+  )
+}
+
+
+package bej_pre {
+  % Change relation "aff:xxx" into "xxx:aff"
+  rule aff {
+    pattern { e:M -[1=aff,2=*]-> N }
+    commands { e.1 = e.2; e.2=aff }
+  }
+
+  % Remove whitespaces in XPOS values
+  rule xpos {
+    pattern { N[xpos=lex.in] }
+    commands { N.xpos=lex.out }
+  }
+#BEGIN lex
+in	out
+%----------
+V1, IRG	V1,IRG
+V2, IRG	V2,IRG
+TAM, PNG	TAM,PNG
+AUX, EMPH	AUX,EMPH
+V1, IRG, NEG	V1,IRG,NEG
+N, COP	N,COP
+PTCL, NEG	PTCL,NEG
+#END
+
+  % Macrosyntax tokens are annotated with `upos=PUNCT` and with relation `punct` in SUD.
+  % In case of idioms, the conversion to UD builds invalid UD structures ('PUNCT' must be 'punct' but it is 'fixed').
+  % We change macrosyntax annotations with `upos=X` and relation `unk` if the token is in an Idiom
+  % Ex: "=jeːt / toː= na" (BEJ_MV_NARR_01_shelter_025-033) and "=eːt / toː= na" (BEJ_MV_NARR_01_shelter_132-138)
+  rule PUNCT_to_X {
+    pattern { e: N -[punct]-> P; P [upos=PUNCT,InIdiom=Yes]  }
+    commands { 
+      e.1 = unk;
+      P.upos=X;
+    }
+  }
+}
+
+package bej_post {
+  rule conj {
+    pattern { e:N -[conj]-> M; }
+    commands { del_edge e; add_edge N -[dep:conj]-> M; }
+  }
+
+  rule redup {
+    pattern { e:N -[conj:redup]-> M; }
+    commands { del_edge e; add_edge N -[dep:redup]-> M; }
+  }
+}
+
+package bej_valid {
+  rule VerbClass {
+    pattern { N [upos=NOUN, VerbClass] }
+    commands { del_feat N.VerbClass }
+  }
+
+  rule Voice {
+    pattern { N [upos=NOUN, Voice] }
+    commands { del_feat N.Voice }
+  }
+
+  rule Number {
+    pattern { N [upos=ADJ, Number] }
+    commands { del_feat N.Number }
+  }
+
+  rule x {
+    pattern { e:N -[det]-> X; X[upos=X] }
+    commands { e.1 = dep }
+  }
+}

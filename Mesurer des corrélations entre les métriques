@@ -1,0 +1,8 @@
+Mesurer des corrélations entre les métriques
+Rapporter les résultats de 9 modèles (+ Jaeger sur le meme dataset)
+Conserver l'accuracy des modeles significatifs
+Le comportement des métriques entre elles est important
+Regarder juste les signes ça pourrait juste etre intéressant de voir à quel point les métriques vont dans la meme direction
+Autre strat : prendre la mesure la meilleure et comparer avec jaeger
+Simplifier la pipeline (juste le texte)
+Une alternative : y a des chances que les phrases pour lesquelles il est compliqué d'ajouter le that

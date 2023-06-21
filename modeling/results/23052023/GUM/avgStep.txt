@@ -1,0 +1,35 @@
+
+Call:
+glm(formula = that_omission ~ length_CC_onset + position_matrix_verb + 
+    subject_form_CC_subject1v2 + subject_form_CC_subject1v3 + 
+    subject_form_CC_subject1v4 + frequency_CC_subject_head + 
+    word_form_similarity + frequency_matrix_verb + matrix_subject1v2 + 
+    matrix_subject1v3 + matrix_subject1v4 + uid_avgStep, family = binomial(), 
+    data = data)
+
+Coefficients:
+                            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)                  5.67258    0.96520   5.877 4.18e-09 ***
+length_CC_onset              0.08508    0.03089   2.755  0.00588 ** 
+position_matrix_verb        -0.01265    0.01238  -1.022  0.30684    
+subject_form_CC_subject1v2   1.58842    0.94248   1.685  0.09192 .  
+subject_form_CC_subject1v3   1.44310    0.53751   2.685  0.00726 ** 
+subject_form_CC_subject1v4  -0.57602    0.44108  -1.306  0.19158    
+frequency_CC_subject_head    0.05978    0.05745   1.041  0.29804    
+word_form_similarity         2.31685    1.20890   1.916  0.05530 .  
+frequency_matrix_verb        0.67009    0.10523   6.368 1.91e-10 ***
+matrix_subject1v2           -0.83736    0.65786  -1.273  0.20307    
+matrix_subject1v3           -0.47068    0.40071  -1.175  0.24015    
+matrix_subject1v4           -0.57839    0.29653  -1.951  0.05111 .  
+uid_avgStep                203.53801   76.18066   2.672  0.00754 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 641.38  on 471  degrees of freedom
+Residual deviance: 509.01  on 459  degrees of freedom
+AIC: 535.01
+
+Number of Fisher Scoring iterations: 5
+

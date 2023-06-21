@@ -1,0 +1,24 @@
+{
+  "title": "Global structure",
+  "items": [{
+      "request": "global { is_not_tree }",
+      "description": "The stucture is not a tree (non enhanced relations only)",
+      "level": "error"
+    },
+    {
+      "request": "pattern { ROOT[!upos]; ROOT -[1=root]-> N1; ROOT -[1=root]-> N2; N1 << N2 }",
+      "description": "More than one node used as root",
+      "level": "error"
+    },
+    {
+      "request": "pattern { ROOT[!upos] } without { ROOT -[1=root]-> N }",
+      "description": "The ROOT node is not linked with a root relation",
+      "level": "error"
+    },
+    {
+      "request": "pattern { N -[1=root]-> M; N[upos] }",
+      "description": "The root relation is used inside the tree",
+      "level": "error"
+    }
+  ]
+}
